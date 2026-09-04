@@ -176,6 +176,39 @@ into `main`, run it by hand from the Actions tab (`workflow_dispatch`), or
 locally with `npm run tick`. The same applies to GitHub Pages — point it at
 whichever branch you want to watch.
 
+### If the cron does not fire
+
+GitHub's scheduler is best-effort and sometimes does not service a repository
+at all — on this one it fired nothing for three hours across thirteen slots and
+three different cron shapes, while manual and push-triggered runs worked every
+time. It sometimes starts on its own after several hours; if it does, nothing
+here needs changing.
+
+If it does not, drive it from outside GitHub. Any scheduler that can make an
+HTTPS POST will do — a free service like cron-job.org, or a cron entry on any
+machine that is usually on:
+
+```bash
+curl -X POST \
+  -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer $GH_TOKEN" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  https://api.github.com/repos/Roiley2007/website/actions/workflows/tick.yml/dispatches \
+  -d '{"ref":"main"}'
+```
+
+`GH_TOKEN` is a fine-grained personal access token limited to this repository
+with **Actions: read and write**. Nothing else. Point the scheduler at that
+call every 15 minutes and the village runs on someone else's clock instead of
+GitHub's, with no change to any of the code.
+
+A machine you own can skip the token entirely and just run the simulation
+directly on a cron: `cd /path/to/website && npm run tick && git push`.
+
+Either way the catch-up logic means the interval is not critical. A trigger
+that only lands a few times a day still produces a correct, continuous world —
+it is recorded in bigger jumps, not lived in them.
+
 **GitHub disables scheduled workflows after 60 days without repository
 activity**, where activity means commits on the default branch. This village
 commits to the default branch about a hundred times a day, so as long as it is
