@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grasshollow</title>
+<meta name="description" content="A village of three people who do not know they are an experiment.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>🏡</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Grasshollow<small>a village of three, and whoever is listening</small></h1>
+  <div class="clock" id="clock">—</div>
+  <div class="stat" id="weather">—</div>
+  <div class="stat">faith <b id="faith">—</b></div>
+  <div class="spacer"></div>
+  <div class="live"><span class="dot"></span><span id="sync">loading…</span></div>
+</header>
+
+<main>
+  <section class="left">
+  <div class="stage">
+    <canvas id="view" width="960" height="640"></canvas>
+    <div class="stage-foot">
+      <label><input type="checkbox" id="labels" checked> labels</label>
+      <span class="res" id="resources">—</span>
+    </div>
+  </div>
+
+    <div class="card">
+      <h2>The chronicle</h2>
+      <div class="log" id="log"></div>
+    </div>
+  </section>
+
+  <aside class="side">
+    <div class="card">
+      <h2>The villagers</h2>
+      <div id="agents"></div>
+    </div>
+
+    <div class="card">
+      <h2>Prayers <span class="count" id="prayer-count"></span></h2>
+      <div id="prayers"></div>
+      <div class="howto">
+        <p>Prayers are answered from the repository. In Claude Code:</p>
+        <p><code>node sim/answer.js list</code></p>
+        <p><code>node sim/answer.js show p-0001</code></p>
+        <p>&hellip;then grant, refuse, or send a sign. It reaches them on the next tick, and they remember it.</p>
+      </div>
+    </div>
+
+  </aside>
+</main>
+
+<footer id="footer"></footer>
+
+<script type="module" src="web/main.js"></script>
+</body>
+</html>

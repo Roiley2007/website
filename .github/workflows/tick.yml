@@ -1,0 +1,87 @@
+name: Grasshollow
+
+# The village runs on this. Real time is the world's clock: the engine works
+# out how many ticks it is owed since the last run and advances that many, so
+# a delayed or skipped run is caught up rather than lost.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    # Answering a prayer should reach the villagers promptly rather than
+    # waiting for the next quarter hour.
+    paths:
+      - 'world/blessings.json'
+  workflow_dispatch:
+    inputs:
+      ticks:
+        description: 'Force a specific number of ticks (blank = however many real time owes)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+# Never let two runs advance the world at once.
+concurrency:
+  group: grasshollow-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Create the world if it does not exist yet
+        run: |
+          if [ ! -f world/state.json ]; then
+            echo "No world found — founding Grasshollow."
+            node sim/init.js
+          fi
+
+      - name: Advance the world
+        run: |
+          if [ -n "${{ inputs.ticks }}" ]; then
+            node sim/tick.js --ticks=${{ inputs.ticks }}
+          else
+            node sim/tick.js
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name  "grasshollow[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage first: on the very first run world/ is untracked, and
+          # `git diff` alone does not see untracked files.
+          git add world
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+
+          DAY=$(node -e "const s=require('./world/state.json');console.log(Math.floor(s.worldMinutes/1440)+1)")
+          TICK=$(node -e "console.log(require('./world/state.json').tick)")
+          PENDING=$(node -e "console.log(require('./world/prayers.json').prayers.filter(p=>p.status==='pending').length)")
+
+          git commit -m "Day ${DAY}, tick ${TICK} (${PENDING} prayer(s) unanswered)"
+
+          # The scheduled run and a push of an answer can race; rebase and retry.
+          for i in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Pushed."
+              exit 0
+            fi
+            echo "Push failed, retrying in $((2**i))s"
+            sleep $((2**i))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+          echo "Could not push after 4 attempts."
+          exit 1

@@ -1,0 +1,14 @@
+{
+  "name": "grasshollow",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Grasshollow — a persistent village of three AI agents who pray to whoever is listening.",
+  "scripts": {
+    "init": "node sim/init.js",
+    "tick": "node sim/tick.js",
+    "prayers": "node sim/answer.js list",
+    "answer": "node sim/answer.js",
+    "serve": "node sim/serve.js"
+  }
+}
