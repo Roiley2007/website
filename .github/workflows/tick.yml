@@ -5,7 +5,11 @@ name: Grasshollow
 # a delayed or skipped run is caught up rather than lost.
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # Every 15 minutes, but deliberately off the quarter-hour boundaries.
+    # GitHub delays or drops scheduled runs under load and names the start of
+    # every hour as the worst of it, advising you schedule at another time of
+    # the hour — :00/:15/:30/:45 is exactly the crush this was sitting in.
+    - cron: '7,22,37,52 * * * *'
   push:
     # Answering a prayer should reach the villagers promptly rather than
     # waiting for the next quarter hour.
