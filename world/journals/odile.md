@@ -10,3 +10,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - _(learning)_ — Old Marrow teaching me which fever-leaf is which by making me chew the wrong one first.
 - _(work)_ — The year the well went brackish and I fixed it, and nobody noticed, which is how you know it worked.
 - _(origin)_ — Ledger, page one: "Things I do not know." It is the longest page.
+
+## Day 1
+
+- **17:00** _(work)_ — Cleared the well and wrote the water level in the ledger.
