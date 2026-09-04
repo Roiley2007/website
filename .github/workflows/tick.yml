@@ -10,6 +10,11 @@ on:
     # every hour as the worst of it, advising you schedule at another time of
     # the hour — :00/:15/:30/:45 is exactly the crush this was sitting in.
     - cron: '7,22,37,52 * * * *'
+    # A second, slower registration as a hedge. GitHub deprioritises frequent
+    # schedules under load, and an hourly one is serviced more reliably; if the
+    # quarter-hourly runs are being dropped this still keeps the world moving.
+    # Both are no-ops when no ticks are owed, so the overlap costs nothing.
+    - cron: '13 * * * *'
   push:
     # Answering a prayer should reach the villagers promptly rather than
     # waiting for the next quarter hour.
