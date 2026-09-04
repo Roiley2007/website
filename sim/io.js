@@ -30,8 +30,17 @@ const readJSON = (p, fallback) => {
 
 // State is written compactly because it changes every tick and would otherwise
 // dominate the repository's diff history.
-const writeJSON = (p, data, pretty) =>
-  fs.writeFileSync(p, JSON.stringify(data, null, pretty ? 2 : 0) + '\n');
+//
+// A file whose content is unchanged is left alone entirely. Prayers and
+// blessings only move when something actually happens to them, so this keeps
+// them out of the tick commits — which is what makes it safe for the workflow
+// to treat a push touching world/blessings.json as "a human answered someone".
+const writeJSON = (p, data, pretty) => {
+  const next = JSON.stringify(data, null, pretty ? 2 : 0) + '\n';
+  if (fs.existsSync(p) && fs.readFileSync(p, 'utf8') === next) return false;
+  fs.writeFileSync(p, next);
+  return true;
+};
 
 export function exists() {
   return fs.existsSync(PATHS.state);

@@ -42,6 +42,11 @@ header h1 small { display: block; font: 400 11px/1.4 system-ui, sans-serif; colo
 .spacer { flex: 1; }
 .live { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; color: var(--ink-faint); }
 .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent-2); box-shadow: 0 0 8px var(--accent-2); animation: pulse 2.4s ease-in-out infinite; }
+.dot.ok { background: var(--accent-2); box-shadow: 0 0 8px var(--accent-2); }
+.dot.late { background: var(--warn); box-shadow: 0 0 8px var(--warn); }
+.dot.stopped { background: var(--bad); box-shadow: 0 0 8px var(--bad); animation: none; }
+.live:has(.stopped) { color: var(--bad); }
+.live:has(.late) { color: var(--warn); }
 @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
 
 main { display: grid; grid-template-columns: minmax(0,1fr) 380px; gap: 16px; padding: 16px 20px 40px; align-items: start; }

@@ -57,6 +57,18 @@ npm run serve     # http://localhost:8080
 
 Serve it over HTTP (it uses ES modules) or turn on GitHub Pages for the branch.
 
+### Telling whether it is actually running
+
+Because the page runs the simulation forward itself, it looks alive whether or
+not anything is being saved. That is an easy way to be fooled, so the header
+says how long it has been since the world was last *written down*:
+
+| | |
+| --- | --- |
+| 🟢 `live · committed 6m ago` | the runner is advancing and committing |
+| 🟠 `runner late · last commit 1h ago` | cron is best-effort and often late. No time is lost — the engine catches up |
+| 🔴 `not running · last commit 6h ago` | nothing is being saved. What you are watching is only in your browser. Check the Actions tab |
+
 ## Answering prayers
 
 Ask Claude Code — "what are they praying for?", "give Odile her books",
@@ -93,7 +105,9 @@ node sim/answer.js deny p-0003 --message "Not this. Ask me again in the spring."
 ```
 
 Answers queue in `world/blessings.json` and land on the next tick. Push the
-change and the workflow picks it up immediately rather than waiting.
+change and the workflow picks it up immediately rather than waiting for the
+next quarter hour — tick commits never touch that file, so a change to it
+always means a person answered somebody.
 
 ### What the fields do
 
@@ -163,5 +177,8 @@ locally with `npm run tick`. The same applies to GitHub Pages — point it at
 whichever branch you want to watch.
 
 **GitHub disables scheduled workflows after 60 days without repository
-activity.** The tick commits count as activity, so a running village keeps
-itself alive; a village you pause for two months will need switching back on.
+activity**, where activity means commits on the default branch. This village
+commits to the default branch about a hundred times a day, so as long as it is
+running it keeps itself switched on — the thing that would disable it is the
+one thing it cannot do while working. A village you deliberately pause for two
+months will need re-enabling by hand in the Actions tab.

@@ -17,9 +17,13 @@ const RESYNC_MS = 5 * 60 * 1000;
 
 let db = null;
 let canonicalPrayerIds = new Set();
+// When the world was last *committed*, as opposed to how far this page has
+// since run it forward on its own.
+let canonicalLastTick = null;
 let acc = 0;
 let lastFrame = performance.now();
 let lastSync = 0;
+let lastHealth = 0;
 
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
@@ -37,6 +41,8 @@ async function sync(first = false) {
     ]);
     db = { state, prayers, blessings: { pending: [], applied: [] } };
     canonicalPrayerIds = new Set(prayers.prayers.map((p) => p.id));
+    // Captured before extrapolating, because stepping moves lastTickAt to now.
+    canonicalLastTick = Date.parse(state.lastTickAt);
 
     // Catch the snapshot up to the present moment.
     const owed = Math.min(ticksOwed(state), MAX_CATCHUP_TICKS);
@@ -44,15 +50,58 @@ async function sync(first = false) {
 
     lastSync = Date.now();
     acc = 0;
-    el('sync').textContent = owed > 0 ? `live · ran ${owed} tick${owed === 1 ? '' : 's'} forward` : 'live';
     drawPanels();
   } catch (err) {
-    el('sync').textContent = 'no world yet';
+    canonicalLastTick = null;
+    setHealth('stopped', 'no world yet');
     if (first) {
       el('agents').innerHTML =
         `<div class="empty">Could not load <code>world/state.json</code>.<br>Run <code>npm run init</code>, commit it, and the village appears.</div>`;
     }
     console.warn(err);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Health
+//
+// This page runs the simulation forward locally, so it looks alive whether or
+// not the scheduled runner is still committing. That is a good way to be
+// fooled, so say out loud how long it has been since the world was last
+// written down.
+// ---------------------------------------------------------------------------
+
+const LATE_MS = 45 * 60 * 1000;
+const STOPPED_MS = 3 * 60 * 60 * 1000;
+
+function setHealth(cls, text, title = '') {
+  const dot = document.querySelector('.dot');
+  if (dot) dot.className = `dot ${cls}`;
+  const s = el('sync');
+  s.textContent = text;
+  s.title = title;
+}
+
+function ago(ms) {
+  const m = Math.round(ms / 60000);
+  if (m < 1) return 'just now';
+  if (m < 60) return `${m}m ago`;
+  const h = Math.round(m / 60);
+  if (h < 48) return `${h}h ago`;
+  return `${Math.round(h / 24)}d ago`;
+}
+
+function drawHealth() {
+  if (canonicalLastTick == null || !Number.isFinite(canonicalLastTick)) return;
+  const since = Date.now() - canonicalLastTick;
+  if (since < LATE_MS) {
+    setHealth('ok', `live · committed ${ago(since)}`, 'The scheduled runner is advancing and committing the world.');
+  } else if (since < STOPPED_MS) {
+    setHealth('late', `runner late · last commit ${ago(since)}`,
+      'GitHub Actions cron is best-effort and often runs late. No time is lost — the engine catches up.');
+  } else {
+    setHealth('stopped', `not running · last commit ${ago(since)}`,
+      'Nothing has been committed in hours. The village you are watching is being simulated in this browser only, and is not being saved. Check the Actions tab.');
   }
 }
 
@@ -132,11 +181,14 @@ function drawPanels() {
     `<div><time>D${e.day} ${esc(e.time)}</time>${esc(e.text)}</div>`).join('')
     || '<div class="empty">Nothing has happened worth writing down.</div>';
 
+  drawHealth();
+
   const started = new Date(state.startedAt);
   const days = Math.max(0, (Date.now() - started) / 86400000);
   el('footer').textContent =
-    `Running ${days.toFixed(1)} real days · ${state.tick} ticks · world day ${clock.day}. ` +
-    `The villagers do not know about any of this.`;
+    `Running ${days.toFixed(1)} real days · ${state.tick} ticks · world day ${clock.day}` +
+    (canonicalLastTick ? ` · last written down ${ago(Date.now() - canonicalLastTick)}` : '') +
+    `. The villagers do not know about any of this.`;
 }
 
 // ---------------------------------------------------------------------------
@@ -156,6 +208,7 @@ function frame(now) {
 
   render(ctx, db.state, { alpha: acc / TICK_MS, labels: el('labels').checked });
 
+  if (now - lastHealth > 20000) { lastHealth = now; drawHealth(); }
   if (Date.now() - lastSync > RESYNC_MS) { lastSync = Date.now(); sync(); }
 }
 
