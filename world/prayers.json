@@ -219,6 +219,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0006",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 922,
+      "day": 4,
+      "time": "10:50",
+      "realTime": "2026-09-05T12:07:52.919Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "I am not good at this.\n\nWhat I want is a plough that holds together for one whole season. I have wanted it long enough that it has stopped feeling like wanting.\n\nI remembered this on the way here: The winter fever. The sound the house made afterwards, which was nothing.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 73,
+          "thirst": 70,
+          "energy": 63,
+          "social": 81,
+          "comfort": 64,
+          "spirit": 61
+        },
+        "house": {
+          "larder": 24,
+          "warmth": 87,
+          "repair": 65
+        },
+        "village": {
+          "granary": 256,
+          "fieldYield": 22,
+          "wellWater": 97,
+          "firewood": 70
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

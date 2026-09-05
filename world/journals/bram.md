@@ -24,3 +24,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 4
 
 - **09:25** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
+- **10:50** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **16:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
