@@ -87,6 +87,138 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0003",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 865,
+      "day": 4,
+      "time": "06:05",
+      "realTime": "2026-09-05T10:33:37.166Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "It's Tam. Again. Sorry.\n\nThis is the real one, the one underneath the others: somebody my own age, or a dog, or anything that wants to be near me.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 89,
+          "energy": 78,
+          "social": 63,
+          "comfort": 74,
+          "spirit": 59
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 88,
+          "repair": 74
+        },
+        "village": {
+          "granary": 258,
+          "fieldYield": 32,
+          "wellWater": 97,
+          "firewood": 60
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0004",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 866,
+      "day": 4,
+      "time": "06:10",
+      "realTime": "2026-09-05T10:33:37.168Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I have thought about how to ask this properly.\n\nThis is the real one, the one underneath the others: to know who my family were, and what the name Fenn was before it was mine.\n\nI remembered this on the way here: Ledger, page one: \"Things I do not know.\" It is the longest page.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 89,
+          "thirst": 91,
+          "energy": 81,
+          "social": 58,
+          "comfort": 70,
+          "spirit": 50
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 89,
+          "repair": 65
+        },
+        "village": {
+          "granary": 258,
+          "fieldYield": 32,
+          "wellWater": 97,
+          "firewood": 60
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0005",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 872,
+      "day": 4,
+      "time": "06:40",
+      "realTime": "2026-09-05T10:33:37.171Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have thought about how to ask this properly.\n\nI am asking for books, or anyone at all in this village who can read what I write.\n\nI remembered this on the way here: Ledger, page one: \"Things I do not know.\" It is the longest page.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 87,
+          "thirst": 88,
+          "energy": 79,
+          "social": 57,
+          "comfort": 69,
+          "spirit": 70
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 88,
+          "repair": 65
+        },
+        "village": {
+          "granary": 262,
+          "fieldYield": 28,
+          "wellWater": 98,
+          "firewood": 62
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

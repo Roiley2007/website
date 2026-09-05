@@ -16,3 +16,10 @@ Everything the village noticed, in the order it happened.
 - **05:55** — Tam Coble prayed for a bridge over the ford.
 - **14:05** — Bram Halloway prayed for word from his daughter Wren.
 - **18:35** — The weather turned to cloudy.
+
+## Day 4
+
+- **06:05** — Tam Coble prayed for someone to be near.
+- **06:10** — Odile Fenn prayed to know where she came from.
+- **06:25** — The weather turned to clear.
+- **06:40** — Odile Fenn prayed for books, and someone who can read them.

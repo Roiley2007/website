@@ -25,3 +25,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:55** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
 - **19:35** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 4
+
+- **06:05** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+- **09:35** _(company)_ — Spoke with Bram at the square. News, weather, nothing.

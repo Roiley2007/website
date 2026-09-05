@@ -20,3 +20,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **14:05** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
 - **18:15** _(company)_ — Sat with Tam. Comfortable quiet, mostly.
+
+## Day 4
+
+- **09:25** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
