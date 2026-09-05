@@ -36,3 +36,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **10:05** _(company)_ — Spoke with Tam at the square. News, weather, nothing.
 - **11:10** _(ordinary)_ — Ate at home. The larder is down to 6.
 - **19:35** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 5
+
+- **04:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **09:50** _(work)_ — Cleared the well and wrote the water level in the ledger.

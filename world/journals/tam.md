@@ -31,3 +31,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:05** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
 - **09:35** _(company)_ — Spoke with Bram at the square. News, weather, nothing.
 - **18:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 5
+
+- **07:05** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
