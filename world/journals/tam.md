@@ -41,3 +41,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:25** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
 - **10:00** _(work)_ — Cut and split until my arms went. Good pile.
+- **19:05** _(rest)_ — A whole night, unbroken. Rare.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.

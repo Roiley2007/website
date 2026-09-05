@@ -34,3 +34,4 @@ Everything the village noticed, in the order it happened.
 ## Day 6
 
 - **03:25** — The weather turned to rain.
+- **21:45** — The weather turned to cloudy.
