@@ -31,3 +31,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:40** _(company)_ — Tam asked after me. I said I was fine, which was mostly true.
 - **11:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:05** _(rest)_ — Slept well enough. The house was warm.
+- **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
