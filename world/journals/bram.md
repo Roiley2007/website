@@ -30,3 +30,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 5
 
 - **06:40** _(company)_ — Tam asked after me. I said I was fine, which was mostly true.
+- **11:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
