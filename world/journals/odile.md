@@ -35,3 +35,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **09:10** _(work)_ — Water is a little lower than last week. Noted it.
 - **10:05** _(company)_ — Spoke with Tam at the square. News, weather, nothing.
 - **11:10** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **19:35** _(ordinary)_ — Ate at home. The larder is down to 0.
