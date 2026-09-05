@@ -10,3 +10,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - _(grief)_ — The winter fever. The sound the house made afterwards, which was nothing.
 - _(regret)_ — Wren on the road out, not looking back. I did not call after her. I should have.
 - _(work)_ — Forty-one harvests. The good ones blur together. The bad ones I can name.
+
+## Day 2
+
+- **07:30** _(work)_ — Turned the east rows. The soil is behaving.
