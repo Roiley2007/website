@@ -30,3 +30,7 @@ Everything the village noticed, in the order it happened.
 
 - **07:40** — The weather turned to storm.
 - **14:20** — The weather turned to clear.
+
+## Day 6
+
+- **03:25** — The weather turned to rain.
