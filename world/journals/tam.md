@@ -16,3 +16,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **09:30** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **18:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **20:25** _(company)_ — Spoke with Odile at the square. News, weather, nothing.
+
+## Day 2
+
+- **11:00** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
