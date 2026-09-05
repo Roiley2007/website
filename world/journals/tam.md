@@ -36,3 +36,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:05** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
 - **19:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 6
+
+- **07:25** _(company)_ — Sat with Odile. Comfortable quiet, mostly.
+- **10:00** _(work)_ — Cut and split until my arms went. Good pile.
