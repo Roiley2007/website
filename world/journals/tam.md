@@ -55,3 +55,11 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **07:35** _(company)_ — Sat with Bram. Comfortable quiet, mostly.
 - **11:20** _(ordinary)_ — Ate at home. The larder is down to 6.
 - **19:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 9
+
+- **17:10** _(rest)_ — Slept well enough. The house was warm.
+- **17:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **17:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **17:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **20:30** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
