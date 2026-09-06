@@ -51,3 +51,7 @@ Everything the village noticed, in the order it happened.
 ## Day 9
 
 - **13:45** — The weather turned to rain.
+
+## Day 10
+
+- **19:40** — The weather turned to clear.
