@@ -54,3 +54,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 9
 
 - **18:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 10
+
+- **05:45** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **09:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
