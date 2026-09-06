@@ -59,3 +59,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:45** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **09:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 11
+
+- **05:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

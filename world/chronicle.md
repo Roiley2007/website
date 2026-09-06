@@ -55,3 +55,7 @@ Everything the village noticed, in the order it happened.
 ## Day 10
 
 - **19:40** — The weather turned to clear.
+
+## Day 11
+
+- **05:30** — Bram Halloway prayed to be lifted.

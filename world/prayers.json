@@ -351,6 +351,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0009",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 2874,
+      "day": 11,
+      "time": "05:30",
+      "realTime": "2026-09-06T20:47:59.653Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It is Bram. The farmer. You know that.\n\nI have gone despairing and I do not know how to get back on my own.\n\nI keep thinking about this: Neth planting the hedge along the east path, laughing at how crooked it went. It is still crooked.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 68,
+          "thirst": 46,
+          "energy": 86,
+          "social": 72,
+          "comfort": 60,
+          "spirit": 27
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 89,
+          "repair": 37
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 30,
+          "wellWater": 97,
+          "firewood": 165
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
