@@ -54,3 +54,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:35** _(company)_ — Sat with Bram. Comfortable quiet, mostly.
 - **11:20** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.

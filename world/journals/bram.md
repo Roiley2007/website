@@ -49,3 +49,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:20** _(rest)_ — Slept well enough. The house was warm.
 - **06:50** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **16:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
