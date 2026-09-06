@@ -58,3 +58,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **18:50** _(rest)_ — Slept well enough. The house was warm.
 - **20:30** _(company)_ — Bram asked after me. I said I was fine, which was mostly true.
+
+## Day 8
+
+- **11:25** _(work)_ — Water is a little lower than last week. Noted it.

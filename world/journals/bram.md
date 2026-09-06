@@ -44,3 +44,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **12:55** _(company)_ — Tam asked after me. I said I was fine, which was mostly true.
 - **19:15** _(rest)_ — A whole night, unbroken. Rare.
 - **19:25** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 8
+
+- **05:20** _(rest)_ — Slept well enough. The house was warm.
+- **06:50** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
