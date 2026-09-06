@@ -59,3 +59,4 @@ Everything the village noticed, in the order it happened.
 ## Day 11
 
 - **05:30** — Bram Halloway prayed to be lifted.
+- **13:00** — Tam Coble prayed to be lifted.

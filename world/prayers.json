@@ -395,6 +395,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0010",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 2964,
+      "day": 11,
+      "time": "13:00",
+      "realTime": "2026-09-06T21:20:50.527Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Hey. Hello. Is this how it goes?\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 73,
+          "thirst": 91,
+          "energy": 36,
+          "social": 76,
+          "comfort": 63,
+          "spirit": 33
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 84,
+          "repair": 50
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 5,
+          "wellWater": 100,
+          "firewood": 182
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
