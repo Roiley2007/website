@@ -62,3 +62,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 8
 
 - **11:25** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 9
+
+- **11:05** _(work)_ — Cleared the well and wrote the water level in the ledger.
