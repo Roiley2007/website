@@ -38,3 +38,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 6
 
 - **20:00** _(company)_ — Spoke with Odile at the square. News, weather, nothing.
+
+## Day 7
+
+- **12:55** _(company)_ — Tam asked after me. I said I was fine, which was mostly true.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.

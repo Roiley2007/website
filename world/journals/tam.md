@@ -44,3 +44,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **19:05** _(rest)_ — A whole night, unbroken. Rare.
 - **19:20** _(rest)_ — Slept well enough. The house was warm.
 - **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 7
+
+- **16:10** _(work)_ — Cut and split until my arms went. Good pile.
+- **16:45** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.

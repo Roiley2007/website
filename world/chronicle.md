@@ -39,3 +39,5 @@ Everything the village noticed, in the order it happened.
 ## Day 7
 
 - **05:20** — The weather turned to rain.
+- **16:45** — Tam Coble prayed for a proper set of iron tools.
+- **23:20** — The weather turned to storm.
