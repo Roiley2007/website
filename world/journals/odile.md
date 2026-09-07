@@ -106,3 +106,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:25** _(rest)_ — Slept well enough. The house was warm.
 - **05:30** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
 - **06:00** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **18:25** _(rest)_ — A whole night, unbroken. Rare.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
