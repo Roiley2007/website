@@ -88,3 +88,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 14
 
 - **06:15** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **09:40** _(company)_ — Bram asked after me. I said I was fine, which was mostly true.
+- **12:15** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **15:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 15
+
+- **06:10** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.

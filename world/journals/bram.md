@@ -78,3 +78,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **14:40** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **18:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **19:45** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 14
+
+- **09:15** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+- **15:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 15
+
+- **07:30** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.

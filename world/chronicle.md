@@ -74,3 +74,13 @@ Everything the village noticed, in the order it happened.
 ## Day 14
 
 - **06:15** — Tam Coble prayed for a bridge over the ford.
+- **09:15** — Bram Halloway prayed for word from his daughter Wren.
+- **14:00** — The weather turned to clear.
+
+## Day 15
+
+- **01:15** — The weather turned to cloudy.
+- **05:30** — Odile Fenn prayed to know where she came from.
+- **06:00** — Odile Fenn prayed for books, and someone who can read them.
+- **06:10** — Tam Coble prayed for someone to be near.
+- **07:30** — Bram Halloway prayed for a plough that holds together.

@@ -96,3 +96,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:30** _(work)_ — Water is a little lower than last week. Noted it.
 - **19:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 14
+
+- **18:10** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 15
+
+- **04:25** _(rest)_ — Slept well enough. The house was warm.
+- **05:30** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **06:00** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
