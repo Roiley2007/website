@@ -79,3 +79,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **19:30** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 13
+
+- **06:00** _(rest)_ — A whole night, unbroken. Rare.
+- **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 14
+
+- **06:15** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.

@@ -65,3 +65,12 @@ Everything the village noticed, in the order it happened.
 
 - **03:10** — The weather turned to rain.
 - **06:10** — Odile Fenn prayed for a lantern that holds a flame.
+
+## Day 13
+
+- **05:50** — The weather turned to clear.
+- **17:05** — The weather turned to rain.
+
+## Day 14
+
+- **06:15** — Tam Coble prayed for a bridge over the ford.

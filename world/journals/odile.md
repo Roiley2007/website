@@ -92,3 +92,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:30** _(ordinary)_ — Ate at home. The larder is down to 6.
 - **05:05** _(rest)_ — Slept well enough. The house was warm.
+- **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **07:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:30** _(work)_ — Water is a little lower than last week. Noted it.
+- **19:30** _(loneliness)_ — Waited at the square a while. Nobody came by.

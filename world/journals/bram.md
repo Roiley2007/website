@@ -71,3 +71,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **14:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:50** _(company)_ — Sat with Tam. Comfortable quiet, mostly.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 13
+
+- **11:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **14:40** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **18:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:45** _(rest)_ — Slept well enough. The house was warm.
