@@ -95,3 +95,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 15
 
 - **06:10** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+
+## Day 16
+
+- **12:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **17:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
