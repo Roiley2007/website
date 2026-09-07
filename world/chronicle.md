@@ -64,3 +64,4 @@ Everything the village noticed, in the order it happened.
 ## Day 12
 
 - **03:10** — The weather turned to rain.
+- **06:10** — Odile Fenn prayed for a lantern that holds a flame.

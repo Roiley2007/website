@@ -74,3 +74,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **12:05** _(company)_ — Bram asked after me. I said I was fine, which was mostly true.
 - **13:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **19:20** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 12
+
+- **06:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.

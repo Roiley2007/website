@@ -67,3 +67,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 12
 
 - **06:00** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **07:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **14:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:50** _(company)_ — Sat with Tam. Comfortable quiet, mostly.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
