@@ -63,3 +63,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 11
 
 - **05:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 12
+
+- **06:00** _(ordinary)_ — Ate at home. The larder is down to 18.
