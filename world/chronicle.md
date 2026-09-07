@@ -84,3 +84,4 @@ Everything the village noticed, in the order it happened.
 - **06:00** — Odile Fenn prayed for books, and someone who can read them.
 - **06:10** — Tam Coble prayed for someone to be near.
 - **07:30** — Bram Halloway prayed for a plough that holds together.
+- **12:55** — The weather turned to rain.
