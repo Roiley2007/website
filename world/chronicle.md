@@ -90,3 +90,7 @@ Everything the village noticed, in the order it happened.
 ## Day 17
 
 - **04:45** — The weather turned to storm.
+
+## Day 18
+
+- **01:25** — The weather turned to rain.

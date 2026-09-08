@@ -97,3 +97,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 17
 
 - **07:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **16:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
