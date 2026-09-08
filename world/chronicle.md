@@ -101,3 +101,7 @@ Everything the village noticed, in the order it happened.
 
 - **05:30** — Bram Halloway prayed for rain on the eastern field.
 - **19:45** — The weather turned to cloudy.
+
+## Day 20
+
+- **13:55** — The weather turned to rain.
