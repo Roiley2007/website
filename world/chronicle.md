@@ -105,3 +105,7 @@ Everything the village noticed, in the order it happened.
 ## Day 20
 
 - **13:55** — The weather turned to rain.
+
+## Day 21
+
+- **10:05** — The weather turned to clear.
