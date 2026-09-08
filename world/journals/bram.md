@@ -104,3 +104,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 18
 
 - **06:20** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+
+## Day 19
+
+- **05:30** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.

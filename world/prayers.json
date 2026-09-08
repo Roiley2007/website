@@ -791,6 +791,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0019",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 5178,
+      "day": 19,
+      "time": "05:30",
+      "realTime": "2026-09-08T13:57:20.195Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "Right. Well.\n\nThis is the real one, the one underneath the others: rain on the eastern field before the seed dies in it.\n\nI have asked you this once before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 55,
+          "thirst": 35,
+          "energy": 86,
+          "social": 70,
+          "comfort": 65,
+          "spirit": 31
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 89,
+          "repair": 41
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 78,
+          "wellWater": 99,
+          "firewood": 186
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
