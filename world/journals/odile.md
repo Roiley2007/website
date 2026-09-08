@@ -110,3 +110,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **19:20** _(rest)_ — Slept well enough. The house was warm.
 - **19:35** _(rest)_ — Slept well enough. The house was warm.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 17
+
+- **04:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.

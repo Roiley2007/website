@@ -93,3 +93,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **19:25** _(rest)_ — Slept well enough. The house was warm.
 - **19:35** _(rest)_ — Slept well enough. The house was warm.
 - **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 17
+
+- **07:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
