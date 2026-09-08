@@ -94,3 +94,5 @@ Everything the village noticed, in the order it happened.
 ## Day 18
 
 - **01:25** — The weather turned to rain.
+- **10:30** — Tam Coble prayed for a proper set of iron tools.
+- **22:45** — The weather turned to clear.

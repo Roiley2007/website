@@ -108,3 +108,5 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 18
 
 - **05:55** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **10:30** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+- **20:35** _(loneliness)_ — Waited at the square a while. Nobody came by.

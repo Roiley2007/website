@@ -747,6 +747,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0018",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 4950,
+      "day": 18,
+      "time": "10:30",
+      "realTime": "2026-09-08T09:39:25.355Z",
+      "desire": {
+        "kind": "longing",
+        "id": "tools",
+        "text": "a proper set of tools, iron ones, that do not bend when the wood is hard"
+      },
+      "title": "for a proper set of iron tools",
+      "selfTitle": "for a proper set of iron tools",
+      "text": "I am going to just say it.\n\nThis is the real one, the one underneath the others: a proper set of tools, iron ones, that do not bend when the wood is hard.\n\nYou should know this about me: Eating at a different house every night for six years. Everyone was kind. Nobody was mine.\n\nI have asked you this once before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 77,
+          "thirst": 72,
+          "energy": 54,
+          "social": 55,
+          "comfort": 56,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 85,
+          "repair": 36
+        },
+        "village": {
+          "granary": 290,
+          "fieldYield": 58,
+          "wellWater": 100,
+          "firewood": 186
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
