@@ -121,3 +121,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **14:25** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **15:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **20:15** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 21
+
+- **17:45** _(rest)_ — Slept well enough. The house was warm.
+- **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
