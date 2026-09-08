@@ -100,3 +100,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **16:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **18:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 18
+
+- **06:20** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
