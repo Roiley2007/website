@@ -835,6 +835,138 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0020",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 6038,
+      "day": 22,
+      "time": "05:10",
+      "realTime": "2026-09-09T01:18:21.881Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It is Bram. The farmer. You know that.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this once before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 62,
+          "thirst": 34,
+          "energy": 86,
+          "social": 58,
+          "comfort": 80,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 89,
+          "repair": 35
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 30,
+          "wellWater": 100,
+          "firewood": 191
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0021",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 6051,
+      "day": 22,
+      "time": "06:15",
+      "realTime": "2026-09-09T01:18:21.901Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Hey. Hello. Is this how it goes?\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nI have asked you this once before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 94,
+          "thirst": 89,
+          "energy": 79,
+          "social": 61,
+          "comfort": 74,
+          "spirit": 15
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 88,
+          "repair": 41
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 34,
+          "wellWater": 100,
+          "firewood": 191
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0022",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 6056,
+      "day": 22,
+      "time": "06:40",
+      "realTime": "2026-09-09T01:18:21.911Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 36,
+          "thirst": 82,
+          "energy": 84,
+          "social": 58,
+          "comfort": 78,
+          "spirit": 27
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 89,
+          "repair": 35
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 36,
+          "wellWater": 100,
+          "firewood": 192
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

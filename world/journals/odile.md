@@ -130,3 +130,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
 - **19:20** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 22
+
+- **06:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

@@ -127,3 +127,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **17:45** _(rest)_ — Slept well enough. The house was warm.
 - **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 22
+
+- **06:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **09:45** _(loneliness)_ — Waited at the square a while. Nobody came by.

@@ -119,3 +119,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 21
 
 - **17:10** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 22
+
+- **05:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **08:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **08:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

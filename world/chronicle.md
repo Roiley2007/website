@@ -113,3 +113,6 @@ Everything the village noticed, in the order it happened.
 ## Day 22
 
 - **03:10** — The weather turned to rain.
+- **05:10** — Bram Halloway prayed to be lifted.
+- **06:15** — Tam Coble prayed to be lifted.
+- **06:40** — Odile Fenn prayed to be lifted.
