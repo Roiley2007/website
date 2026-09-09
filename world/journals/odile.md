@@ -148,3 +148,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.

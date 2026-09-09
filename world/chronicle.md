@@ -128,3 +128,7 @@ Everything the village noticed, in the order it happened.
 
 - **00:45** — The weather turned to cloudy.
 - **05:55** — The weather turned to drought.
+
+## Day 25
+
+- **02:30** — The weather turned to storm.
