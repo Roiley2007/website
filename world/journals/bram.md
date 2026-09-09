@@ -148,3 +148,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 26
 
 - **05:30** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **10:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **13:40** _(company)_ — Spoke with Tam at the square. News, weather, nothing.
