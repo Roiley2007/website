@@ -125,3 +125,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **08:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **08:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 23
+
+- **09:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
