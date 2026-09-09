@@ -160,3 +160,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 26
 
 - **13:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.
