@@ -132,3 +132,11 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **09:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **16:45** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **18:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:35** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 23
+
+- **06:35** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **06:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

@@ -134,3 +134,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 22
 
 - **06:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **19:00** _(work)_ — Water is a little lower than last week. Noted it.
+- **19:45** _(ordinary)_ — Ate at home. The larder is down to 12.
+
+## Day 23
+
+- **06:30** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.

@@ -116,3 +116,10 @@ Everything the village noticed, in the order it happened.
 - **05:10** — Bram Halloway prayed to be lifted.
 - **06:15** — Tam Coble prayed to be lifted.
 - **06:40** — Odile Fenn prayed to be lifted.
+- **16:35** — The weather turned to cloudy.
+
+## Day 23
+
+- **04:30** — The weather turned to storm.
+- **06:30** — Odile Fenn prayed for a lantern that holds a flame.
+- **08:15** — A storm took shingles off one of the houses in the night.
