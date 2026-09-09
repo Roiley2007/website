@@ -144,3 +144,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **19:35** _(rest)_ — Slept well enough. The house was warm.
 - **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 26
+
+- **05:30** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
