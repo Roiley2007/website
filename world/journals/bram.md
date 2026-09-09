@@ -130,3 +130,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **16:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **17:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 24
+
+- **08:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

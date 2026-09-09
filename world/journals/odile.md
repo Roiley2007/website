@@ -140,3 +140,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 23
 
 - **06:30** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **11:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **12:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **16:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 24
+
+- **06:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
