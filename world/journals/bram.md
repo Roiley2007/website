@@ -139,3 +139,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 24
 
 - **08:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 25
+
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.

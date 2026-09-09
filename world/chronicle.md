@@ -133,3 +133,4 @@ Everything the village noticed, in the order it happened.
 
 - **02:30** — The weather turned to storm.
 - **10:15** — A storm took shingles off one of the houses in the night.
+- **15:20** — The weather turned to rain.
