@@ -150,3 +150,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **19:40** _(rest)_ — A whole night, unbroken. Rare.
 - **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 25
+
+- **08:05** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **09:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
