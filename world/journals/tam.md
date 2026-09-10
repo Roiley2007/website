@@ -146,3 +146,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **11:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **14:25** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 27
+
+- **03:45** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **07:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

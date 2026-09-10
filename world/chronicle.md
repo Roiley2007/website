@@ -139,3 +139,9 @@ Everything the village noticed, in the order it happened.
 
 - **01:05** — The weather turned to storm.
 - **19:15** — The weather turned to cloudy.
+
+## Day 27
+
+- **02:55** — The weather turned to storm.
+- **03:55** — A storm took shingles off one of the houses in the night.
+- **04:10** — A storm took shingles off one of the houses in the night.

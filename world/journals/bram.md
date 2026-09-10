@@ -151,3 +151,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **10:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **13:40** _(company)_ — Spoke with Tam at the square. News, weather, nothing.
 - **21:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 27
+
+- **05:20** _(rest)_ — Slept well enough. The house was warm.
