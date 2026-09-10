@@ -174,3 +174,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:10** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **12:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 31
+
+- **03:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **05:20** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.

@@ -161,3 +161,7 @@ Everything the village noticed, in the order it happened.
 
 - **03:30** — The weather turned to drought.
 - **16:05** — The weather turned to clear.
+
+## Day 31
+
+- **05:20** — Bram Halloway prayed for word from his daughter Wren.
