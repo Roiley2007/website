@@ -165,3 +165,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 30
 
 - **06:00** _(rest)_ — Slept well enough. The house was warm.
+- **13:45** _(ordinary)_ — Ate at home. The larder is down to 12.

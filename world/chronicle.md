@@ -160,3 +160,4 @@ Everything the village noticed, in the order it happened.
 ## Day 30
 
 - **03:30** — The weather turned to drought.
+- **16:05** — The weather turned to clear.
