@@ -165,3 +165,4 @@ Everything the village noticed, in the order it happened.
 ## Day 31
 
 - **05:20** — Bram Halloway prayed for word from his daughter Wren.
+- **05:35** — Tam Coble prayed for a bridge over the ford.

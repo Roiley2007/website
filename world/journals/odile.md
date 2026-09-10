@@ -180,3 +180,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 30
 
 - **20:15** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 31
+
+- **07:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

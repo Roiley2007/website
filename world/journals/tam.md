@@ -166,3 +166,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:00** _(rest)_ — Slept well enough. The house was warm.
 - **13:45** _(ordinary)_ — Ate at home. The larder is down to 12.
+
+## Day 31
+
+- **05:35** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **06:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
