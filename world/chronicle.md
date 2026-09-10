@@ -155,3 +155,8 @@ Everything the village noticed, in the order it happened.
 ## Day 29
 
 - **00:05** — The weather turned to clear.
+- **20:10** — The weather turned to cloudy.
+
+## Day 30
+
+- **03:30** — The weather turned to drought.

@@ -167,3 +167,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 29
 
 - **09:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **17:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **18:20** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 30
+
+- **06:10** _(ordinary)_ — Ate at home. The larder is down to 12.
