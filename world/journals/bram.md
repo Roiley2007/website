@@ -173,3 +173,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 30
 
 - **06:10** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **12:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
