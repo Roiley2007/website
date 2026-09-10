@@ -150,3 +150,8 @@ Everything the village noticed, in the order it happened.
 ## Day 28
 
 - **06:00** — The weather turned to rain.
+- **16:30** — The weather turned to cloudy.
+
+## Day 29
+
+- **00:05** — The weather turned to clear.

@@ -169,3 +169,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 28
 
 - **04:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:30** _(rest)_ — A whole night, unbroken. Rare.
+- **21:15** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 29
+
+- **07:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
