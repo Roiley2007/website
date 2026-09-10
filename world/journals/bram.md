@@ -155,3 +155,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 27
 
 - **05:20** _(rest)_ — Slept well enough. The house was warm.
+- **14:35** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 28
+
+- **06:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **06:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
