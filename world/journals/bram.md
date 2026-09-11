@@ -200,3 +200,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 34
 
 - **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 35
+
+- **21:05** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
