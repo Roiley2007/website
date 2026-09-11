@@ -185,3 +185,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **07:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **13:55** _(ordinary)_ — Ate at home. The larder is down to 12.
+
+## Day 32
+
+- **04:50** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **05:20** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **07:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

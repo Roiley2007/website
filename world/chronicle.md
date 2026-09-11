@@ -166,3 +166,10 @@ Everything the village noticed, in the order it happened.
 
 - **05:20** — Bram Halloway prayed for word from his daughter Wren.
 - **05:35** — Tam Coble prayed for a bridge over the ford.
+
+## Day 32
+
+- **04:50** — Odile Fenn prayed to know where she came from.
+- **05:10** — Tam Coble prayed for someone to be near.
+- **05:20** — Odile Fenn prayed for books, and someone who can read them.
+- **06:10** — Bram Halloway prayed for a plough that holds together.

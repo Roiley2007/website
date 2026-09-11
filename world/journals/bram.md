@@ -183,3 +183,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **10:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **18:05** _(rest)_ — A whole night, unbroken. Rare.
 - **19:25** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 32
+
+- **06:10** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
