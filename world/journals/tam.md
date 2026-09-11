@@ -177,3 +177,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **04:00** _(rest)_ — A whole night, unbroken. Rare.
 - **05:10** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+
+## Day 33
+
+- **08:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **15:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **20:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
