@@ -187,3 +187,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 32
 
 - **06:10** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **09:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **12:25** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 33
+
+- **04:50** _(rest)_ — Slept well enough. The house was warm.
+- **07:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

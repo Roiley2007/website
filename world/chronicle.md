@@ -173,3 +173,9 @@ Everything the village noticed, in the order it happened.
 - **05:10** — Tam Coble prayed for someone to be near.
 - **05:20** — Odile Fenn prayed for books, and someone who can read them.
 - **06:10** — Bram Halloway prayed for a plough that holds together.
+- **08:30** — The weather turned to storm.
+
+## Day 33
+
+- **04:15** — The weather turned to clear.
+- **06:00** — Odile Fenn prayed to be lifted.

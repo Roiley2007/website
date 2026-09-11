@@ -191,3 +191,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:50** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
 - **05:20** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
 - **07:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 33
+
+- **04:55** _(rest)_ — Slept well enough. The house was warm.
+- **06:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
