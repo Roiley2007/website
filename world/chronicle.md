@@ -194,3 +194,4 @@ Everything the village noticed, in the order it happened.
 ## Day 36
 
 - **00:50** — The weather turned to storm.
+- **16:05** — The weather turned to drought.
