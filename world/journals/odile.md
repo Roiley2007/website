@@ -202,3 +202,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 34
 
 - **08:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **12:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **17:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.

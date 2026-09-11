@@ -184,3 +184,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **15:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **20:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 34
+
+- **17:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
