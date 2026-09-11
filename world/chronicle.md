@@ -184,3 +184,8 @@ Everything the village noticed, in the order it happened.
 ## Day 34
 
 - **16:30** — The weather turned to storm.
+
+## Day 35
+
+- **07:10** — Tam Coble prayed for a proper set of iron tools.
+- **09:20** — The weather turned to rain.

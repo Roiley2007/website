@@ -189,3 +189,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **17:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 35
+
+- **07:10** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
