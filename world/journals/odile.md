@@ -229,3 +229,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 38
 
 - **05:15** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **07:55** _(work)_ — Water is a little lower than last week. Noted it.
+- **18:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.

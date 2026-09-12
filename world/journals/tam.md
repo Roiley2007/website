@@ -199,3 +199,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **08:05** _(ordinary)_ — Ate at home. The larder is down to 18.
+
+## Day 38
+
+- **09:10** _(work)_ — Cut and split until my arms went. Good pile.
+- **16:45** _(ordinary)_ — Ate at home. The larder is down to 0.
+- **18:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **19:10** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:20** _(rest)_ — A whole night, unbroken. Rare.

@@ -200,3 +200,7 @@ Everything the village noticed, in the order it happened.
 
 - **03:15** — The weather turned to cloudy.
 - **09:15** — The weather turned to clear.
+
+## Day 38
+
+- **21:35** — The weather turned to storm.
