@@ -204,3 +204,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 35
 
 - **21:05** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 37
+
+- **08:20** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **12:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **18:00** _(work)_ — Turned the east rows. The soil is behaving.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.

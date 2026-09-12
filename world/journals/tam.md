@@ -198,3 +198,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 37
 
 - **07:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **08:05** _(ordinary)_ — Ate at home. The larder is down to 18.

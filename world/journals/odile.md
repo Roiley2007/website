@@ -220,3 +220,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:20** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **16:10** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **19:30** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 37
+
+- **18:50** _(rest)_ — A whole night, unbroken. Rare.
+- **18:55** _(rest)_ — A whole night, unbroken. Rare.
