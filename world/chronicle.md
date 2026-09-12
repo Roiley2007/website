@@ -210,3 +210,9 @@ Everything the village noticed, in the order it happened.
 - **03:40** — Tam Coble prayed to be lifted.
 - **03:45** — The weather turned to clear.
 - **04:15** — Bram Halloway prayed to be lifted.
+
+## Day 40
+
+- **01:20** — The weather turned to drought.
+- **05:00** — Odile Fenn prayed for a lantern that holds a flame.
+- **07:05** — The weather turned to clear.

@@ -224,3 +224,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:05** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 40
+
+- **06:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
