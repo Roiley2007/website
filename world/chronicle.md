@@ -204,3 +204,9 @@ Everything the village noticed, in the order it happened.
 ## Day 38
 
 - **21:35** — The weather turned to storm.
+
+## Day 39
+
+- **03:40** — Tam Coble prayed to be lifted.
+- **03:45** — The weather turned to clear.
+- **04:15** — Bram Halloway prayed to be lifted.

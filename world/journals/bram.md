@@ -218,3 +218,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **17:50** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **18:30** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 39
+
+- **04:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
