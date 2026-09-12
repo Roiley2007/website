@@ -245,3 +245,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:00** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
 - **08:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **11:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **14:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
