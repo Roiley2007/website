@@ -249,3 +249,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **14:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:05** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 41
+
+- **03:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **05:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **05:30** _(rest)_ — Slept well enough. The house was warm.
+- **06:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
