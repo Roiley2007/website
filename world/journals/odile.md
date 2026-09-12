@@ -237,3 +237,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 39
 
 - **03:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **12:40** _(work)_ — Water is a little lower than last week. Noted it.
+- **13:35** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **18:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
