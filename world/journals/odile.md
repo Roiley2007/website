@@ -257,3 +257,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:30** _(rest)_ — Slept well enough. The house was warm.
 - **06:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 42
+
+- **05:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.

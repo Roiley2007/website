@@ -216,3 +216,7 @@ Everything the village noticed, in the order it happened.
 - **01:20** — The weather turned to drought.
 - **05:00** — Odile Fenn prayed for a lantern that holds a flame.
 - **07:05** — The weather turned to clear.
+
+## Day 41
+
+- **23:40** — The weather turned to cloudy.
