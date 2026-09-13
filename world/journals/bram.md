@@ -246,3 +246,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 44
 
 - **03:00** _(rest)_ — Slept well enough. The house was warm.
+- **19:50** _(rest)_ — Slept well enough. The house was warm.
+- **21:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
