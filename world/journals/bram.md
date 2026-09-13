@@ -241,3 +241,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:45** _(rest)_ — A whole night, unbroken. Rare.
 - **07:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **16:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 44
+
+- **03:00** _(rest)_ — Slept well enough. The house was warm.

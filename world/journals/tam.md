@@ -234,3 +234,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 43
 
 - **07:05** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **11:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **13:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 44
+
+- **07:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

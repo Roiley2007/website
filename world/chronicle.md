@@ -224,3 +224,8 @@ Everything the village noticed, in the order it happened.
 ## Day 42
 
 - **20:45** — The weather turned to storm.
+
+## Day 43
+
+- **13:35** — The weather turned to cloudy.
+- **23:45** — The weather turned to clear.
