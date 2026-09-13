@@ -262,3 +262,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:40** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **10:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **11:40** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **19:00** _(rest)_ — Slept well enough. The house was warm.
