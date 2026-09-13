@@ -233,3 +233,7 @@ Everything the village noticed, in the order it happened.
 ## Day 45
 
 - **15:15** — The weather turned to rain.
+
+## Day 46
+
+- **02:45** — The weather turned to storm.
