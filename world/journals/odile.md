@@ -299,3 +299,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **19:35** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 51
+
+- **10:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
