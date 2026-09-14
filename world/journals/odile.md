@@ -289,3 +289,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 48
 
 - **03:40** _(rest)_ — A whole night, unbroken. Rare.
+- **18:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 49
+
+- **05:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

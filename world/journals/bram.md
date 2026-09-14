@@ -265,3 +265,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:45** _(ordinary)_ — Ate at home. The larder is down to 6.
 - **04:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:30** _(rest)_ — Slept well enough. The house was warm.
+- **18:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 49
+
+- **14:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
