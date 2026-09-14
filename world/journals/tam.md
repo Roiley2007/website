@@ -247,3 +247,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:45** _(rest)_ — Slept well enough. The house was warm.
 - **08:35** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 47
+
+- **07:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **09:35** _(work)_ — Cut and split until my arms went. Good pile.
+- **17:10** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 48
+
+- **04:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

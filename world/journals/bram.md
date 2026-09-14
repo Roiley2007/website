@@ -253,3 +253,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **08:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 47
+
+- **08:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **16:55** _(rest)_ — A whole night, unbroken. Rare.
+- **17:10** _(rest)_ — A whole night, unbroken. Rare.
+- **18:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 48
+
+- **04:45** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **04:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

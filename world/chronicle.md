@@ -238,3 +238,11 @@ Everything the village noticed, in the order it happened.
 
 - **02:45** — The weather turned to storm.
 - **14:50** — The weather turned to clear.
+
+## Day 47
+
+- **13:10** — The weather turned to cloudy.
+
+## Day 48
+
+- **02:15** — The weather turned to clear.
