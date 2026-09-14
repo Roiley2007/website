@@ -294,3 +294,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 49
 
 - **05:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 50
+
+- **04:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **19:35** _(rest)_ — A whole night, unbroken. Rare.

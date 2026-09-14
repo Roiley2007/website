@@ -1539,6 +1539,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0036",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 14097,
+      "day": 50,
+      "time": "04:45",
+      "realTime": "2026-09-14T18:13:14.633Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I want to state this clearly, in case clarity matters.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI remembered this on the way here: Old Marrow teaching me which fever-leaf is which by making me chew the wrong one first.\n\nI have asked you this 2 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 34,
+          "energy": 88,
+          "social": 62,
+          "comfort": 71,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 89,
+          "repair": 39
+        },
+        "village": {
+          "granary": 269,
+          "fieldYield": 35,
+          "wellWater": 100,
+          "firewood": 186
+        },
+        "weather": "rain",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

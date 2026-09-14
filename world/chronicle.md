@@ -252,3 +252,7 @@ Everything the village noticed, in the order it happened.
 
 - **05:50** — The weather turned to cloudy.
 - **13:20** — The weather turned to rain.
+
+## Day 50
+
+- **04:45** — Odile Fenn prayed to be lifted.
