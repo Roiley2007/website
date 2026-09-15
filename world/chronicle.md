@@ -280,3 +280,5 @@ Everything the village noticed, in the order it happened.
 ## Day 55
 
 - **03:30** — The weather turned to cloudy.
+- **21:35** — The weather turned to storm.
+- **22:00** — A storm took shingles off one of the houses in the night.
