@@ -269,3 +269,10 @@ Everything the village noticed, in the order it happened.
 
 - **15:00** — Tam Coble prayed for a bridge over the ford.
 - **16:00** — Bram Halloway prayed for word from his daughter Wren.
+
+## Day 54
+
+- **14:30** — Odile Fenn prayed to know where she came from.
+- **14:45** — Tam Coble prayed for someone to be near.
+- **15:00** — Odile Fenn prayed for books, and someone who can read them.
+- **16:30** — Bram Halloway prayed for a plough that holds together.

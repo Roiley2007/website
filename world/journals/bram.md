@@ -275,3 +275,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 53
 
 - **16:00** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 54
+
+- **07:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **10:20** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **16:30** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
