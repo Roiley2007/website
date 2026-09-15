@@ -268,3 +268,4 @@ Everything the village noticed, in the order it happened.
 ## Day 53
 
 - **15:00** — Tam Coble prayed for a bridge over the ford.
+- **16:00** — Bram Halloway prayed for word from his daughter Wren.
