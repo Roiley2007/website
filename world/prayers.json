@@ -1583,6 +1583,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0037",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 15084,
+      "day": 53,
+      "time": "15:00",
+      "realTime": "2026-09-15T07:42:54.816Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "So I have an idea, and I need one thing for it.\n\nI am asking for a bridge over the ford, so that it never takes anybody else.\n\nI have asked you this 3 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 72,
+          "thirst": 84,
+          "energy": 32,
+          "social": 71,
+          "comfort": 33,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 81,
+          "repair": 54
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 200
+        },
+        "weather": "rain",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

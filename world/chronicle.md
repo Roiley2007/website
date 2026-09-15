@@ -264,3 +264,7 @@ Everything the village noticed, in the order it happened.
 ## Day 52
 
 - **05:55** — The weather turned to rain.
+
+## Day 53
+
+- **15:00** — Tam Coble prayed for a bridge over the ford.

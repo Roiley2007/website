@@ -309,3 +309,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 52
 
 - **13:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 53
+
+- **10:15** _(loneliness)_ — Waited at the square a while. Nobody came by.

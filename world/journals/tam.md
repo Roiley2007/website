@@ -274,3 +274,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:15** _(rest)_ — A whole night, unbroken. Rare.
 - **15:45** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 53
+
+- **10:00** _(work)_ — Cut and split until my arms went. Good pile.
+- **11:25** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **15:00** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
