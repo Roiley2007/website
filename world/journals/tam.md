@@ -285,3 +285,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **14:45** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
 - **19:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 56
+
+- **08:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

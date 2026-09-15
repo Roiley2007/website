@@ -282,3 +282,9 @@ Everything the village noticed, in the order it happened.
 - **03:30** — The weather turned to cloudy.
 - **21:35** — The weather turned to storm.
 - **22:00** — A storm took shingles off one of the houses in the night.
+
+## Day 56
+
+- **00:40** — A storm took shingles off one of the houses in the night.
+- **06:55** — A storm took shingles off one of the houses in the night.
+- **11:05** — The weather turned to clear.
