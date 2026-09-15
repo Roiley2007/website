@@ -281,3 +281,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **10:20** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **16:30** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+
+## Day 55
+
+- **07:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **09:45** _(work)_ — Turned the east rows. The soil is behaving.

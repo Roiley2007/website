@@ -319,3 +319,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **14:30** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
 - **15:00** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+
+## Day 55
+
+- **11:15** _(ordinary)_ — Ate at home. The larder is down to 12.
