@@ -269,3 +269,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **04:55** _(rest)_ — Slept well enough. The house was warm.
 - **09:30** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 52
+
+- **05:15** _(rest)_ — A whole night, unbroken. Rare.
