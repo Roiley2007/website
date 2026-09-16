@@ -1935,6 +1935,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0045",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 17368,
+      "day": 61,
+      "time": "13:20",
+      "realTime": "2026-09-16T22:55:12.691Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I am going to just say it.\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nI have asked you this 3 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 68,
+          "thirst": 95,
+          "energy": 34,
+          "social": 66,
+          "comfort": 35,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 79,
+          "repair": 50
+        },
+        "village": {
+          "granary": 277,
+          "fieldYield": 0,
+          "wellWater": 99,
+          "firewood": 200
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0046",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 17376,
+      "day": 61,
+      "time": "14:00",
+      "realTime": "2026-09-16T22:55:12.701Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I said I would not come back here.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this 3 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 70,
+          "thirst": 59,
+          "energy": 38,
+          "social": 61,
+          "comfort": 46,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 80,
+          "repair": 40
+        },
+        "village": {
+          "granary": 277,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 200
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

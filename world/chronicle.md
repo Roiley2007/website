@@ -306,3 +306,5 @@ Everything the village noticed, in the order it happened.
 ## Day 61
 
 - **00:45** — The weather turned to cloudy.
+- **13:20** — Tam Coble prayed to be lifted.
+- **14:00** — Bram Halloway prayed to be lifted.
