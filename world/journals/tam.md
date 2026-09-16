@@ -299,3 +299,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **10:45** _(work)_ — Cut and split until my arms went. Good pile.
 - **14:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **16:40** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+
+## Day 58
+
+- **18:45** _(rest)_ — Slept well enough. The house was warm.
