@@ -314,3 +314,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:30** _(ordinary)_ — Ate at home. The larder is down to 18.
 - **10:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 61
+
+- **03:40** _(rest)_ — Slept well enough. The house was warm.
