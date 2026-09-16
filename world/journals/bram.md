@@ -301,3 +301,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 59
 
 - **15:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 60
+
+- **09:10** _(work)_ — Turned the east rows. The soil is behaving.
