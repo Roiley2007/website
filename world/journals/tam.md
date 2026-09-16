@@ -303,3 +303,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 58
 
 - **18:45** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 59
+
+- **04:35** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **05:45** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
