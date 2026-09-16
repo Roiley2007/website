@@ -293,3 +293,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:40** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **09:05** _(work)_ — Turned the east rows. The soil is behaving.
 - **15:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 58
+
+- **06:20** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
