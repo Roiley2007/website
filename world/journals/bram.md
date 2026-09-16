@@ -297,3 +297,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 58
 
 - **06:20** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 59
+
+- **15:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

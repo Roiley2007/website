@@ -297,3 +297,8 @@ Everything the village noticed, in the order it happened.
 ## Day 58
 
 - **06:20** — Bram Halloway prayed for rain on the eastern field.
+
+## Day 59
+
+- **14:35** — The weather turned to cloudy.
+- **23:45** — The weather turned to rain.

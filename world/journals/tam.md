@@ -308,3 +308,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **04:35** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **05:45** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **14:15** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
