@@ -329,3 +329,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **12:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 57
+
+- **15:30** _(loneliness)_ — Waited at the square a while. Nobody came by.

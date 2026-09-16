@@ -288,3 +288,8 @@ Everything the village noticed, in the order it happened.
 - **00:40** — A storm took shingles off one of the houses in the night.
 - **06:55** — A storm took shingles off one of the houses in the night.
 - **11:05** — The weather turned to clear.
+
+## Day 57
+
+- **16:40** — Tam Coble prayed for a proper set of iron tools.
+- **22:10** — The weather turned to rain.

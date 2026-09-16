@@ -292,3 +292,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **13:45** _(work)_ — Cut and split until my arms went. Good pile.
 - **15:45** _(work)_ — Cut and split until my arms went. Good pile.
 - **20:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 57
+
+- **04:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **10:45** _(work)_ — Cut and split until my arms went. Good pile.
+- **14:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **16:40** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
