@@ -309,3 +309,7 @@ Everything the village noticed, in the order it happened.
 - **13:20** — Tam Coble prayed to be lifted.
 - **14:00** — Bram Halloway prayed to be lifted.
 - **19:10** — The weather turned to clear.
+
+## Day 62
+
+- **00:10** — The weather turned to cloudy.
