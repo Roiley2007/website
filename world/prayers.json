@@ -2023,6 +2023,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0047",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 17851,
+      "day": 63,
+      "time": "05:35",
+      "realTime": "2026-09-17T07:37:42.663Z",
+      "desire": {
+        "kind": "longing",
+        "id": "lantern",
+        "text": "a lantern that holds a flame in wind, so the well can be tended after dark"
+      },
+      "title": "for a lantern that holds a flame",
+      "selfTitle": "for a lantern that holds a flame",
+      "text": "I want to state this clearly, in case clarity matters.\n\nWhat I want is a lantern that holds a flame in wind, so the well can be tended after dark. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 3 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 52,
+          "thirst": 36,
+          "energy": 88,
+          "social": 47,
+          "comfort": 52,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 89,
+          "repair": 34
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 8,
+          "wellWater": 100,
+          "firewood": 179
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

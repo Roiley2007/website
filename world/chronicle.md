@@ -315,3 +315,7 @@ Everything the village noticed, in the order it happened.
 - **00:10** — The weather turned to cloudy.
 - **07:50** — The weather turned to clear.
 - **15:45** — The weather turned to cloudy.
+
+## Day 63
+
+- **05:35** — Odile Fenn prayed for a lantern that holds a flame.
