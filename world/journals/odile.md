@@ -375,3 +375,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **09:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **11:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **15:30** _(ordinary)_ — Ate at home. The larder is down to 18.
