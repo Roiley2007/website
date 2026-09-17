@@ -321,3 +321,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **13:20** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **14:20** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 62
+
+- **15:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:45** _(work)_ — Cut and split until my arms went. Good pile.
