@@ -327,3 +327,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **03:40** _(rest)_ — A whole night, unbroken. Rare.
 - **15:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **16:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 66
+
+- **07:15** _(ordinary)_ — Ate at home. The larder is down to 12.
