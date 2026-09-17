@@ -319,3 +319,7 @@ Everything the village noticed, in the order it happened.
 ## Day 63
 
 - **05:35** — Odile Fenn prayed for a lantern that holds a flame.
+
+## Day 64
+
+- **05:15** — The weather turned to storm.
