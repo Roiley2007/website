@@ -366,3 +366,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 64
 
 - **15:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 65
+
+- **18:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
