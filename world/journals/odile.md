@@ -385,3 +385,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 68
 
 - **05:35** _(rest)_ — Slept well enough. The house was warm.
+- **15:15** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **16:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
