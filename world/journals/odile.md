@@ -391,3 +391,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 69
 
 - **14:15** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 70
+
+- **09:10** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **13:50** _(work)_ — Cleared the well and wrote the water level in the ledger.
