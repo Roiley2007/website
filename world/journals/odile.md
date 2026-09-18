@@ -381,3 +381,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **08:30** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **21:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 68
+
+- **05:35** _(rest)_ — Slept well enough. The house was warm.
