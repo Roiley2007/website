@@ -371,3 +371,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 71
 
 - **09:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **17:20** _(ordinary)_ — Ate at home. The larder is down to 12.

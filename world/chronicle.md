@@ -352,3 +352,8 @@ Everything the village noticed, in the order it happened.
 
 - **07:05** — The weather turned to clear.
 - **19:45** — The weather turned to cloudy.
+
+## Day 71
+
+- **13:15** — The weather turned to storm.
+- **13:40** — A storm took shingles off one of the houses in the night.
