@@ -361,3 +361,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 69
 
 - **05:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 70
+
+- **08:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
