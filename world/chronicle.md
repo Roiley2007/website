@@ -334,3 +334,11 @@ Everything the village noticed, in the order it happened.
 
 - **07:50** — The weather turned to rain.
 - **20:55** — The weather turned to cloudy.
+
+## Day 67
+
+- **21:50** — The weather turned to storm.
+
+## Day 68
+
+- **04:10** — The weather turned to clear.

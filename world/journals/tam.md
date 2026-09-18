@@ -348,3 +348,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 66
 
 - **17:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 67
+
+- **08:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **17:15** _(work)_ — Cut and split until my arms went. Good pile.
