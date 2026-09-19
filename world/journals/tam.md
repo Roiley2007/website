@@ -381,3 +381,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 73
 
 - **06:45** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **08:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **12:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **17:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 74
+
+- **04:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.

@@ -362,3 +362,7 @@ Everything the village noticed, in the order it happened.
 
 - **14:20** — Odile Fenn prayed to be lifted.
 - **20:30** — The weather turned to cloudy.
+
+## Day 74
+
+- **01:35** — The weather turned to rain.
