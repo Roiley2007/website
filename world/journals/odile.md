@@ -407,3 +407,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **08:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **14:20** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **19:10** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 73
+
+- **04:35** _(rest)_ — A whole night, unbroken. Rare.
