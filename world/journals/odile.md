@@ -400,3 +400,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 71
 
 - **15:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 72
+
+- **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
