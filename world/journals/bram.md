@@ -353,3 +353,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 75
 
 - **11:40** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 76
+
+- **05:35** _(ordinary)_ — Ate at home. The larder is down to 0.
