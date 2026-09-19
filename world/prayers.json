@@ -2067,6 +2067,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0048",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 20548,
+      "day": 72,
+      "time": "14:20",
+      "realTime": "2026-09-19T05:52:13.684Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I have brought this to you before, so I will be brief.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this 3 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 82,
+          "energy": 38,
+          "social": 57,
+          "comfort": 26,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 75,
+          "repair": 34
+        },
+        "village": {
+          "granary": 73,
+          "fieldYield": 18,
+          "wellWater": 100,
+          "firewood": 87
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

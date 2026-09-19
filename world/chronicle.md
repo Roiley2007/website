@@ -357,3 +357,8 @@ Everything the village noticed, in the order it happened.
 
 - **13:15** — The weather turned to storm.
 - **13:40** — A storm took shingles off one of the houses in the night.
+
+## Day 72
+
+- **14:20** — Odile Fenn prayed to be lifted.
+- **20:30** — The weather turned to cloudy.

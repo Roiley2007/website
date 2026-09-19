@@ -372,3 +372,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **09:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **17:20** _(ordinary)_ — Ate at home. The larder is down to 12.
+
+## Day 72
+
+- **09:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **17:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
