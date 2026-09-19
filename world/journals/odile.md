@@ -412,3 +412,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:35** _(rest)_ — A whole night, unbroken. Rare.
 - **08:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 75
+
+- **05:20** _(rest)_ — A whole night, unbroken. Rare.
+- **08:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **10:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
