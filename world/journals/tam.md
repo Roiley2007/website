@@ -388,3 +388,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 74
 
 - **04:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **17:30** _(ordinary)_ — Ate at home. The larder is down to 0.
