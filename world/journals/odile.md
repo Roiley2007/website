@@ -424,3 +424,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:40** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **07:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 77
+
+- **07:45** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **20:15** _(work)_ — Water is a little lower than last week. Noted it.
