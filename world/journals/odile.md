@@ -441,3 +441,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 80
 
 - **05:15** _(rest)_ — Slept well enough. The house was warm.
+- **11:50** _(work)_ — Water is a little lower than last week. Noted it.
+- **12:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
