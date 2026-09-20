@@ -429,3 +429,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **07:45** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **20:15** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 78
+
+- **09:40** _(ordinary)_ — Ate at home. The larder is down to 12.
