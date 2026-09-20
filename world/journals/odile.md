@@ -444,3 +444,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **11:50** _(work)_ — Water is a little lower than last week. Noted it.
 - **12:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **15:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 81
+
+- **15:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
