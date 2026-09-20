@@ -410,3 +410,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:35** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
 - **08:40** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 81
+
+- **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
