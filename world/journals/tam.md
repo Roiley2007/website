@@ -405,3 +405,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **09:50** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **14:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 80
+
+- **06:35** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.

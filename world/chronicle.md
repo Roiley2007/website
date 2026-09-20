@@ -380,3 +380,8 @@ Everything the village noticed, in the order it happened.
 ## Day 79
 
 - **08:55** — Bram Halloway prayed for rest.
+
+## Day 80
+
+- **00:50** — The weather turned to cloudy.
+- **06:35** — Tam Coble prayed for rest.

@@ -368,3 +368,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **08:55** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
+- **17:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **20:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 80
+
+- **05:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.

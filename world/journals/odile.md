@@ -433,3 +433,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 78
 
 - **09:40** _(ordinary)_ — Ate at home. The larder is down to 12.
+
+## Day 79
+
+- **21:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 80
+
+- **05:15** _(rest)_ — Slept well enough. The house was warm.

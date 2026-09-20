@@ -2155,6 +2155,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0050",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 22759,
+      "day": 80,
+      "time": "06:35",
+      "realTime": "2026-09-20T16:15:01.689Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "It's Tam. Again. Sorry.\n\nI cannot sleep properly and I have not for 79 days. I am rested and it is making me stupid and slow.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 60,
+          "thirst": 84,
+          "energy": 84,
+          "social": 58,
+          "comfort": 29,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 88,
+          "repair": 26
+        },
+        "village": {
+          "granary": 0,
+          "fieldYield": 10,
+          "wellWater": 96,
+          "firewood": 37
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
