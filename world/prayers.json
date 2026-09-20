@@ -2111,6 +2111,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0049",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 22499,
+      "day": 79,
+      "time": "08:55",
+      "realTime": "2026-09-20T12:16:32.843Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for rest. A bed that is not this bed. A night that is not this night.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 68,
+          "thirst": 82,
+          "energy": 77,
+          "social": 47,
+          "comfort": 28,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 87,
+          "repair": 22
+        },
+        "village": {
+          "granary": 11,
+          "fieldYield": 13,
+          "wellWater": 99,
+          "firewood": 38
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

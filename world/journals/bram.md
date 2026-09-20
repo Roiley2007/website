@@ -363,3 +363,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **05:15** _(ordinary)_ — Ate at home. The larder is down to 18.
+
+## Day 79
+
+- **06:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **08:55** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
