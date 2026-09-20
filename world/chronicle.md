@@ -385,3 +385,7 @@ Everything the village noticed, in the order it happened.
 
 - **00:50** — The weather turned to cloudy.
 - **06:35** — Tam Coble prayed for rest.
+
+## Day 81
+
+- **11:10** — The weather turned to storm.
