@@ -358,3 +358,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:35** _(ordinary)_ — Ate at home. The larder is down to 0.
 - **12:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 77
+
+- **04:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **05:15** _(ordinary)_ — Ate at home. The larder is down to 18.
