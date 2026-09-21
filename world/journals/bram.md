@@ -374,3 +374,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 80
 
 - **05:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 82
+
+- **20:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

@@ -414,3 +414,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 81
 
 - **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 82
+
+- **07:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **11:55** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **15:25** _(work)_ — Cut and split until my arms went. Good pile.

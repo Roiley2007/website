@@ -389,3 +389,9 @@ Everything the village noticed, in the order it happened.
 ## Day 81
 
 - **11:10** — The weather turned to storm.
+
+## Day 82
+
+- **06:45** — The weather turned to rain.
+- **17:20** — The weather turned to storm.
+- **19:50** — A storm took shingles off one of the houses in the night.

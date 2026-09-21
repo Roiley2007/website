@@ -452,3 +452,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 82
 
 - **05:05** _(rest)_ — A whole night, unbroken. Rare.
+- **16:50** _(work)_ — Water is a little lower than last week. Noted it.
