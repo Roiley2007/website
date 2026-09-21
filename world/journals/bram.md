@@ -378,3 +378,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 82
 
 - **20:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 83
+
+- **06:30** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.

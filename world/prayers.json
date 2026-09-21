@@ -2199,6 +2199,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0051",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 23618,
+      "day": 83,
+      "time": "06:10",
+      "realTime": "2026-09-21T07:03:47.045Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "Hey. Hello. Is this how it goes?\n\nWhat I want is a bridge over the ford, so that it never takes anybody else. I have wanted it long enough that it has stopped feeling like wanting.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 4 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 52,
+          "energy": 86,
+          "social": 36,
+          "comfort": 16,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 89,
+          "repair": 0
+        },
+        "village": {
+          "granary": 19,
+          "fieldYield": 53,
+          "wellWater": 99,
+          "firewood": 52
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0052",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 23622,
+      "day": 83,
+      "time": "06:30",
+      "realTime": "2026-09-21T07:03:47.050Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for word from my daughter Wren, whether she is alive and whether she is well.\n\nI keep thinking about this: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 4 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 34,
+          "thirst": 68,
+          "energy": 85,
+          "social": 51,
+          "comfort": 19,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 89,
+          "repair": 11
+        },
+        "village": {
+          "granary": 19,
+          "fieldYield": 54,
+          "wellWater": 100,
+          "firewood": 52
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

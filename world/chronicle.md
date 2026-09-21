@@ -395,3 +395,8 @@ Everything the village noticed, in the order it happened.
 - **06:45** — The weather turned to rain.
 - **17:20** — The weather turned to storm.
 - **19:50** — A storm took shingles off one of the houses in the night.
+
+## Day 83
+
+- **06:10** — Tam Coble prayed for a bridge over the ford.
+- **06:30** — Bram Halloway prayed for word from his daughter Wren.

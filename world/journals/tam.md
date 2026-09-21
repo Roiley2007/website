@@ -420,3 +420,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **07:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **11:55** _(ordinary)_ — Ate at home. The larder is down to 4.
 - **15:25** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 83
+
+- **06:10** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **08:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
