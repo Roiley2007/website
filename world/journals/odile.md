@@ -462,3 +462,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:30** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
 - **06:05** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **20:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 85
+
+- **06:45** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **14:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **17:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **18:20** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

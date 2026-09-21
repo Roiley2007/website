@@ -388,3 +388,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:35** _(rest)_ — A whole night, unbroken. Rare.
 - **06:05** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+
+## Day 85
+
+- **06:55** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **16:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
