@@ -471,3 +471,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **15:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **17:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **18:20** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 86
+
+- **04:55** _(ordinary)_ — Ate at home. The larder is down to 17.
+- **09:30** _(loneliness)_ — Waited at the square a while. Nobody came by.

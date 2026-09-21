@@ -410,3 +410,8 @@ Everything the village noticed, in the order it happened.
 - **06:20** — Tam Coble prayed for someone to be near.
 - **06:40** — The weather turned to clear.
 - **21:55** — The weather turned to cloudy.
+
+## Day 86
+
+- **00:30** — The weather turned to rain.
+- **11:00** — The weather turned to clear.
