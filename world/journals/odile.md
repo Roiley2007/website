@@ -457,3 +457,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 83
 
 - **07:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 84
+
+- **05:30** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **06:05** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.

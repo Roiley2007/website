@@ -425,3 +425,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:10** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
 - **08:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **17:45** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 84
+
+- **06:20** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+- **18:20** _(work)_ — Cut and split until my arms went. Good pile.

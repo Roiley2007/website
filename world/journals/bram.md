@@ -382,3 +382,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 83
 
 - **06:30** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+- **17:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 84
+
+- **04:35** _(rest)_ — A whole night, unbroken. Rare.
+- **06:05** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.

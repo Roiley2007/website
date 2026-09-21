@@ -400,3 +400,12 @@ Everything the village noticed, in the order it happened.
 
 - **06:10** — Tam Coble prayed for a bridge over the ford.
 - **06:30** — Bram Halloway prayed for word from his daughter Wren.
+- **10:50** — A storm took shingles off one of the houses in the night.
+
+## Day 84
+
+- **05:30** — Odile Fenn prayed to know where she came from.
+- **06:05** — Bram Halloway prayed for a plough that holds together.
+- **06:05** — Odile Fenn prayed for books, and someone who can read them.
+- **06:20** — Tam Coble prayed for someone to be near.
+- **06:40** — The weather turned to clear.
