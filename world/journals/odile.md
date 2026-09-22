@@ -493,3 +493,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **18:55** _(rest)_ — Slept well enough. The house was warm.
 - **19:10** _(rest)_ — Slept well enough. The house was warm.
 - **19:30** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 89
+
+- **20:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
