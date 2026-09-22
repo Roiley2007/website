@@ -416,3 +416,7 @@ Everything the village noticed, in the order it happened.
 - **00:30** — The weather turned to rain.
 - **11:00** — The weather turned to clear.
 - **16:50** — The weather turned to rain.
+
+## Day 87
+
+- **01:15** — The weather turned to clear.

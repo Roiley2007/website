@@ -399,3 +399,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **09:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **15:20** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **19:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
