@@ -427,3 +427,7 @@ Everything the village noticed, in the order it happened.
 ## Day 88
 
 - **10:15** — The weather turned to storm.
+
+## Day 89
+
+- **04:30** — The weather turned to rain.
