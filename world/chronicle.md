@@ -437,3 +437,9 @@ Everything the village noticed, in the order it happened.
 
 - **04:10** — The weather turned to clear.
 - **20:10** — The weather turned to rain.
+
+## Day 91
+
+- **04:00** — Bram Halloway prayed to be lifted.
+- **05:30** — Tam Coble prayed to be lifted.
+- **07:45** — The weather turned to cloudy.

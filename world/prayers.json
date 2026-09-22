@@ -2551,6 +2551,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0059",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 25896,
+      "day": 91,
+      "time": "04:00",
+      "realTime": "2026-09-22T22:07:32.875Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Right. Well.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this 4 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 68,
+          "thirst": 46,
+          "energy": 86,
+          "social": 64,
+          "comfort": 68,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 89,
+          "repair": 36
+        },
+        "village": {
+          "granary": 266,
+          "fieldYield": 38,
+          "wellWater": 98,
+          "firewood": 47
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0060",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 25914,
+      "day": 91,
+      "time": "05:30",
+      "realTime": "2026-09-22T22:07:32.889Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It's Tam. Again. Sorry.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nYou should know this about me: The water-wheel turning for the first time. It ran eight days. Best eight days.\n\nI have asked you this 4 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 40,
+          "thirst": 41,
+          "energy": 88,
+          "social": 51,
+          "comfort": 63,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 89,
+          "repair": 38
+        },
+        "village": {
+          "granary": 242,
+          "fieldYield": 44,
+          "wellWater": 100,
+          "firewood": 47
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

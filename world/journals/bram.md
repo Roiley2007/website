@@ -420,3 +420,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **08:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 91
+
+- **02:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **04:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
