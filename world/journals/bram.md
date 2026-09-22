@@ -406,3 +406,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **08:40** _(work)_ — Turned the east rows. The soil is behaving.
 - **09:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **13:25** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 88
+
+- **09:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

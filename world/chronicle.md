@@ -423,3 +423,7 @@ Everything the village noticed, in the order it happened.
 - **06:15** — Tam Coble prayed for a proper set of iron tools.
 - **13:25** — Bram Halloway prayed for rain on the eastern field.
 - **13:50** — The weather turned to cloudy.
+
+## Day 88
+
+- **10:15** — The weather turned to storm.

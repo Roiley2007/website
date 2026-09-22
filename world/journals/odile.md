@@ -489,3 +489,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 88
 
 - **02:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:00** _(work)_ — Water is a little lower than last week. Noted it.
+- **18:55** _(rest)_ — Slept well enough. The house was warm.
+- **19:10** _(rest)_ — Slept well enough. The house was warm.
+- **19:30** _(rest)_ — Slept well enough. The house was warm.
