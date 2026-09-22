@@ -497,3 +497,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 89
 
 - **20:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 90
+
+- **10:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **15:00** _(work)_ — Water is a little lower than last week. Noted it.

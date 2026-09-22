@@ -415,3 +415,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 89
 
 - **06:50** _(ordinary)_ — Ate at home. The larder is down to 22.
+
+## Day 90
+
+- **08:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
