@@ -400,3 +400,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **09:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **15:20** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **19:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 87
+
+- **08:40** _(work)_ — Turned the east rows. The soil is behaving.
+- **09:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **13:25** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.

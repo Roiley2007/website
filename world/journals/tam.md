@@ -431,3 +431,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:20** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
 - **18:20** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 87
+
+- **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **06:15** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+- **17:30** _(ordinary)_ — Ate at home. The larder is down to 10.

@@ -2463,6 +2463,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0057",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 24771,
+      "day": 87,
+      "time": "06:15",
+      "realTime": "2026-09-22T04:53:46.491Z",
+      "desire": {
+        "kind": "longing",
+        "id": "tools",
+        "text": "a proper set of tools, iron ones, that do not bend when the wood is hard"
+      },
+      "title": "for a proper set of iron tools",
+      "selfTitle": "for a proper set of iron tools",
+      "text": "It's Tam. Again. Sorry.\n\nWhat I want is a proper set of tools, iron ones, that do not bend when the wood is hard. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 4 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 63,
+          "thirst": 41,
+          "energy": 88,
+          "social": 51,
+          "comfort": 50,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 90,
+          "repair": 35
+        },
+        "village": {
+          "granary": 89,
+          "fieldYield": 83,
+          "wellWater": 98,
+          "firewood": 17
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0058",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 24857,
+      "day": 87,
+      "time": "13:25",
+      "realTime": "2026-09-22T04:53:46.512Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I said I would not come back here.\n\nWhat I want is rain on the eastern field before the seed dies in it. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 4 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 84,
+          "thirst": 60,
+          "energy": 40,
+          "social": 77,
+          "comfort": 55,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 84,
+          "repair": 32
+        },
+        "village": {
+          "granary": 132,
+          "fieldYield": 57,
+          "wellWater": 99,
+          "firewood": 26
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
