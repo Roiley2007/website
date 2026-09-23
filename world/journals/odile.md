@@ -520,3 +520,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **14:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 94
+
+- **05:20** _(ordinary)_ — Ate at home. The larder is down to 23.
