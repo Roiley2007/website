@@ -436,3 +436,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:45** _(rest)_ — Slept well enough. The house was warm.
 - **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:25** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 93
+
+- **04:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **10:25** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **13:10** _(work)_ — Turned the east rows. The soil is behaving.
+- **18:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
