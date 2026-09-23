@@ -459,3 +459,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:00** _(rest)_ — A whole night, unbroken. Rare.
 - **08:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **20:15** _(ordinary)_ — Ate at home. The larder is down to 4.
+
+## Day 96
+
+- **03:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **05:40** _(ordinary)_ — Ate at home. The larder is down to 22.
