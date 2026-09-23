@@ -464,3 +464,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **05:40** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **14:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
