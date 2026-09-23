@@ -443,3 +443,7 @@ Everything the village noticed, in the order it happened.
 - **04:00** — Bram Halloway prayed to be lifted.
 - **05:30** — Tam Coble prayed to be lifted.
 - **07:45** — The weather turned to cloudy.
+
+## Day 92
+
+- **01:10** — The weather turned to rain.
