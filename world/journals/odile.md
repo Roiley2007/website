@@ -502,3 +502,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **10:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **15:00** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 91
+
+- **19:05** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.

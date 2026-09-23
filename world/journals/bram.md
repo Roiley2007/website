@@ -425,3 +425,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **02:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **04:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **18:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
