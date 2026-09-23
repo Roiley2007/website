@@ -447,3 +447,4 @@ Everything the village noticed, in the order it happened.
 ## Day 92
 
 - **01:10** — The weather turned to rain.
+- **10:45** — Odile Fenn prayed for a lantern that holds a flame.

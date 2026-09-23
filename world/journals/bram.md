@@ -426,3 +426,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **02:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **04:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **18:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 92
+
+- **05:55** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **07:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **11:25** _(work)_ — Turned the east rows. The soil is behaving.
+- **17:50** _(rest)_ — A whole night, unbroken. Rare.
+- **18:45** _(rest)_ — Slept well enough. The house was warm.
+- **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:25** _(rest)_ — Slept well enough. The house was warm.

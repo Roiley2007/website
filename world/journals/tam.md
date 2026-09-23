@@ -451,3 +451,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **18:35** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 92
+
+- **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
