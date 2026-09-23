@@ -524,3 +524,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 94
 
 - **05:20** _(ordinary)_ — Ate at home. The larder is down to 23.
+- **10:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **11:55** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **14:00** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:20** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
