@@ -482,3 +482,8 @@ Everything the village noticed, in the order it happened.
 ## Day 100
 
 - **15:50** — A storm took shingles off one of the houses in the night.
+
+## Day 101
+
+- **07:55** — Bram Halloway prayed for rest.
+- **08:15** — The weather turned to clear.

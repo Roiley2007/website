@@ -2683,6 +2683,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0062",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 28823,
+      "day": 101,
+      "time": "07:55",
+      "realTime": "2026-09-24T22:23:07.150Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "It is Bram. The farmer. You know that.\n\nI cannot sleep properly and I have not for 22 days. I am rested and it is making me stupid and slow.\n\nI have asked you this once before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 36,
+          "thirst": 83,
+          "energy": 83,
+          "social": 54,
+          "comfort": 54,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 28,
+          "warmth": 89,
+          "repair": 14
+        },
+        "village": {
+          "granary": 228,
+          "fieldYield": 73,
+          "wellWater": 100,
+          "firewood": 147
+        },
+        "weather": "storm",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

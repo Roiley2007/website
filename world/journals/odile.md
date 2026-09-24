@@ -559,3 +559,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 100
 
 - **12:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **21:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 101
+
+- **11:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
