@@ -467,3 +467,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **14:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **18:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 97
+
+- **12:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:00** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **19:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
