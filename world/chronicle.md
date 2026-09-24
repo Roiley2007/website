@@ -474,3 +474,7 @@ Everything the village noticed, in the order it happened.
 ## Day 98
 
 - **05:40** — The weather turned to rain.
+
+## Day 99
+
+- **11:40** — The weather turned to storm.

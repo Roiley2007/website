@@ -477,3 +477,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 98
 
 - **11:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 99
+
+- **07:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **15:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
