@@ -470,3 +470,7 @@ Everything the village noticed, in the order it happened.
 ## Day 97
 
 - **08:35** — The weather turned to cloudy.
+
+## Day 98
+
+- **05:40** — The weather turned to rain.
