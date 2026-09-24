@@ -471,3 +471,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 96
 
 - **06:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:20** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
