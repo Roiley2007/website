@@ -483,3 +483,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 99
 
 - **20:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 100
+
+- **06:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:40** _(work)_ — Cut and split until my arms went. Good pile.

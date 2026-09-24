@@ -478,3 +478,7 @@ Everything the village noticed, in the order it happened.
 ## Day 99
 
 - **11:40** — The weather turned to storm.
+
+## Day 100
+
+- **15:50** — A storm took shingles off one of the houses in the night.
