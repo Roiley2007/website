@@ -507,3 +507,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:00** _(rest)_ — Slept well enough. The house was warm.
 - **18:25** _(rest)_ — Slept well enough. The house was warm.
 - **18:30** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 105
+
+- **15:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **16:40** _(rest)_ — Slept well enough. The house was warm.

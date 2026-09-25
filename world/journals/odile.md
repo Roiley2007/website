@@ -587,3 +587,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:55** _(work)_ — Water is a little lower than last week. Noted it.
 - **17:55** _(work)_ — Water is a little lower than last week. Noted it.
 - **19:35** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 105
+
+- **06:35** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

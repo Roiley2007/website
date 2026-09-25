@@ -500,3 +500,8 @@ Everything the village noticed, in the order it happened.
 ## Day 104
 
 - **07:20** — The weather turned to cloudy.
+
+## Day 105
+
+- **03:35** — The weather turned to clear.
+- **14:45** — The weather turned to rain.

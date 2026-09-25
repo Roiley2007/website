@@ -513,3 +513,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **18:10** _(rest)_ — A whole night, unbroken. Rare.
 - **18:25** _(rest)_ — A whole night, unbroken. Rare.
 - **18:45** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 105
+
+- **10:25** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
