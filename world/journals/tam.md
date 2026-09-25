@@ -504,3 +504,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 103
 
 - **09:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **12:35** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **18:15** _(rest)_ — Slept well enough. The house was warm.
+- **18:40** _(rest)_ — A whole night, unbroken. Rare.

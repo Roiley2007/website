@@ -503,3 +503,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 103
 
 - **06:15** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **16:55** _(work)_ — Turned the east rows. The soil is behaving.
+- **18:00** _(rest)_ — Slept well enough. The house was warm.
+- **18:25** _(rest)_ — Slept well enough. The house was warm.
+- **18:30** _(rest)_ — A whole night, unbroken. Rare.
