@@ -512,3 +512,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **15:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **16:40** _(rest)_ — Slept well enough. The house was warm.
+- **16:45** _(rest)_ — A whole night, unbroken. Rare.
+- **17:00** _(rest)_ — Slept well enough. The house was warm.
+- **19:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

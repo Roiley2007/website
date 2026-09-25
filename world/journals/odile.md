@@ -591,3 +591,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 105
 
 - **06:35** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **19:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.
