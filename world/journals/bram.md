@@ -494,3 +494,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:55** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
 - **09:15** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **20:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 102
+
+- **05:35** _(rest)_ — A whole night, unbroken. Rare.
+- **17:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

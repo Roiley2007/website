@@ -565,3 +565,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **11:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **14:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 102
+
+- **04:05** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **06:35** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **18:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.

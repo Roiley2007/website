@@ -487,3 +487,8 @@ Everything the village noticed, in the order it happened.
 
 - **07:55** — Bram Halloway prayed for rest.
 - **08:15** — The weather turned to clear.
+
+## Day 102
+
+- **04:05** — Odile Fenn prayed to be lifted.
+- **22:35** — The weather turned to cloudy.

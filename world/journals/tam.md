@@ -494,3 +494,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **17:05** _(work)_ — Cut and split until my arms went. Good pile.
 - **19:50** _(rest)_ — Slept well enough. The house was warm.
 - **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 102
+
+- **05:40** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **13:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **19:20** _(work)_ — Cut and split until my arms went. Good pile.
