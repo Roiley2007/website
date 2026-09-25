@@ -505,3 +505,7 @@ Everything the village noticed, in the order it happened.
 
 - **03:35** — The weather turned to clear.
 - **14:45** — The weather turned to rain.
+
+## Day 106
+
+- **11:20** — The weather turned to clear.
