@@ -500,3 +500,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **05:40** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
 - **13:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **19:20** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 103
+
+- **09:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

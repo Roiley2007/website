@@ -492,3 +492,7 @@ Everything the village noticed, in the order it happened.
 
 - **04:05** — Odile Fenn prayed to be lifted.
 - **22:35** — The weather turned to cloudy.
+
+## Day 103
+
+- **07:10** — The weather turned to clear.
