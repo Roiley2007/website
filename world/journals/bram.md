@@ -531,3 +531,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **17:00** _(ordinary)_ — Ate at home. The larder is down to 4.
 - **17:35** _(rest)_ — Slept well enough. The house was warm.
 - **20:10** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 110
+
+- **08:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
