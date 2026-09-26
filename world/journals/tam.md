@@ -521,3 +521,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 106
 
 - **17:50** _(ordinary)_ — Ate at home. The larder is down to 16.
+
+## Day 108
+
+- **03:10** _(rest)_ — Slept well enough. The house was warm.
+- **06:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

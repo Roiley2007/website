@@ -515,3 +515,7 @@ Everything the village noticed, in the order it happened.
 
 - **06:55** — The weather turned to rain.
 - **22:25** — The weather turned to storm.
+
+## Day 108
+
+- **09:00** — A storm took shingles off one of the houses in the night.
