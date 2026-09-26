@@ -521,3 +521,7 @@ Everything the village noticed, in the order it happened.
 - **09:00** — A storm took shingles off one of the houses in the night.
 - **09:55** — The weather turned to drought.
 - **22:00** — The weather turned to clear.
+
+## Day 109
+
+- **12:10** — The weather turned to rain.
