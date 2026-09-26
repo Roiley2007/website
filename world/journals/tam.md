@@ -517,3 +517,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 105
 
 - **10:25** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 106
+
+- **17:50** _(ordinary)_ — Ate at home. The larder is down to 16.
