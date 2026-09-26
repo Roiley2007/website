@@ -622,3 +622,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **10:40** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **19:05** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 111
+
+- **04:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
