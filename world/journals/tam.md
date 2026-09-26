@@ -533,3 +533,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **19:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:45** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 110
+
+- **16:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
