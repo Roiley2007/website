@@ -604,3 +604,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:45** _(ordinary)_ — Ate at home. The larder is down to 11.
 - **09:40** _(ordinary)_ — Ate at home. The larder is down to 5.
 - **19:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 108
+
+- **15:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **16:05** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
