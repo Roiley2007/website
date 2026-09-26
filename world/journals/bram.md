@@ -526,3 +526,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 107
 
 - **02:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **09:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **12:10** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **17:00** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **17:35** _(rest)_ — Slept well enough. The house was warm.
+- **20:10** _(work)_ — Turned the east rows. The soil is behaving.
