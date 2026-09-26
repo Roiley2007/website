@@ -540,3 +540,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 111
 
 - **03:25** _(rest)_ — A whole night, unbroken. Rare.
+- **18:05** _(ordinary)_ — Ate at home. The larder is down to 10.
