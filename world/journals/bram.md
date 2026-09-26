@@ -522,3 +522,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:45** _(rest)_ — A whole night, unbroken. Rare.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 107
+
+- **02:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
