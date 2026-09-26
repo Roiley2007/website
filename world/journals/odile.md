@@ -626,3 +626,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 111
 
 - **04:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **09:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
