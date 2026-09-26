@@ -526,3 +526,7 @@ Everything the village noticed, in the order it happened.
 
 - **12:10** — The weather turned to rain.
 - **21:30** — The weather turned to clear.
+
+## Day 110
+
+- **13:00** — The weather turned to cloudy.

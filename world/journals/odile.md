@@ -618,3 +618,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 110
 
 - **08:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **09:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **10:40** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

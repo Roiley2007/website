@@ -535,3 +535,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 110
 
 - **08:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **10:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
