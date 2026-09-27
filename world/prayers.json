@@ -2947,6 +2947,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0068",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 32324,
+      "day": 113,
+      "time": "11:40",
+      "realTime": "2026-09-27T13:51:18.454Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "I am not good at this.\n\nWhat I want is a plough that holds together for one whole season. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 5 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 73,
+          "thirst": 69,
+          "energy": 50,
+          "social": 75,
+          "comfort": 90,
+          "spirit": 29
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 86,
+          "repair": 43
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 31,
+          "wellWater": 100,
+          "firewood": 197
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0069",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 32326,
+      "day": 113,
+      "time": "11:50",
+      "realTime": "2026-09-27T13:51:18.458Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I want to state this clearly, in case clarity matters.\n\nWhat I want is books, or anyone at all in this village who can read what I write. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 5 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 79,
+          "thirst": 66,
+          "energy": 46,
+          "social": 58,
+          "comfort": 91,
+          "spirit": 52
+        },
+        "house": {
+          "larder": 11,
+          "warmth": 85,
+          "repair": 43
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 32,
+          "wellWater": 100,
+          "firewood": 197
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

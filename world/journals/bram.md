@@ -551,3 +551,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **11:50** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 113
+
+- **11:40** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **17:35** _(work)_ — Turned the east rows. The soil is behaving.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 114
+
+- **15:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

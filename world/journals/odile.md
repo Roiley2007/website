@@ -637,3 +637,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 113
 
 - **11:20** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **11:50** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **15:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:25** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 114
+
+- **10:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
