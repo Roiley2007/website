@@ -563,3 +563,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 114
 
 - **15:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **21:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 115
+
+- **07:20** _(ordinary)_ — Ate at home. The larder is down to 22.

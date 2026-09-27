@@ -645,3 +645,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 114
 
 - **10:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.

@@ -560,3 +560,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 114
 
 - **08:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 115
+
+- **12:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
