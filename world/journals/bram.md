@@ -569,3 +569,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:20** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **15:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 116
+
+- **12:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **13:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **16:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

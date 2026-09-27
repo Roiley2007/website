@@ -558,3 +558,7 @@ Everything the village noticed, in the order it happened.
 ## Day 115
 
 - **14:50** — The weather turned to cloudy.
+
+## Day 116
+
+- **10:40** — Tam Coble prayed for a proper set of iron tools.
