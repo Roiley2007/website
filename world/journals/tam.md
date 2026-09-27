@@ -537,3 +537,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 110
 
 - **16:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 111
+
+- **18:30** _(rest)_ — Slept well enough. The house was warm.

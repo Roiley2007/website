@@ -541,3 +541,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:25** _(rest)_ — A whole night, unbroken. Rare.
 - **18:05** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **18:35** _(rest)_ — Slept well enough. The house was warm.
+- **18:50** _(rest)_ — Slept well enough. The house was warm.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
