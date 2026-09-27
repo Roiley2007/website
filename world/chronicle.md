@@ -554,3 +554,7 @@ Everything the village noticed, in the order it happened.
 
 - **01:50** — The weather turned to drought.
 - **23:15** — The weather turned to rain.
+
+## Day 115
+
+- **14:50** — The weather turned to cloudy.
