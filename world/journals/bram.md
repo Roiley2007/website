@@ -546,3 +546,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
 - **19:25** _(rest)_ — A whole night, unbroken. Rare.
 - **19:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 112
+
+- **09:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **11:50** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.

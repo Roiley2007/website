@@ -2771,6 +2771,138 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0064",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 32038,
+      "day": 112,
+      "time": "11:50",
+      "realTime": "2026-09-27T08:01:16.111Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "It is Bram. The farmer. You know that.\n\nThis is the real one, the one underneath the others: word from my daughter Wren, whether she is alive and whether she is well.\n\nI have asked you this 5 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 90,
+          "thirst": 65,
+          "energy": 58,
+          "social": 69,
+          "comfort": 93,
+          "spirit": 17
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 86,
+          "repair": 34
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 37,
+          "wellWater": 100,
+          "firewood": 200
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0065",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 32044,
+      "day": 112,
+      "time": "12:20",
+      "realTime": "2026-09-27T08:01:16.114Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "I am going to just say it.\n\nThis is the real one, the one underneath the others: a bridge over the ford, so that it never takes anybody else.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 5 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 65,
+          "thirst": 62,
+          "energy": 41,
+          "social": 54,
+          "comfort": 89,
+          "spirit": 15
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 85,
+          "repair": 57
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 39,
+          "wellWater": 100,
+          "firewood": 200
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0066",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 32314,
+      "day": 113,
+      "time": "10:50",
+      "realTime": "2026-09-27T08:01:16.178Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "So I have an idea, and I need one thing for it.\n\nThis is the real one, the one underneath the others: somebody my own age, or a dog, or anything that wants to be near me.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 5 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 70,
+          "thirst": 76,
+          "energy": 60,
+          "social": 53,
+          "comfort": 94,
+          "spirit": 23
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 87,
+          "repair": 55
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 28,
+          "wellWater": 100,
+          "firewood": 197
+        },
+        "weather": "rain",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

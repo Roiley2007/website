@@ -631,3 +631,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 112
 
 - **04:20** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **05:25** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **21:05** _(ordinary)_ — Ate at home. The larder is down to 17.

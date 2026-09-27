@@ -535,3 +535,14 @@ Everything the village noticed, in the order it happened.
 
 - **08:35** — The weather turned to clear.
 - **21:25** — The weather turned to rain.
+
+## Day 112
+
+- **11:50** — Bram Halloway prayed for word from his daughter Wren.
+- **12:20** — Tam Coble prayed for a bridge over the ford.
+- **13:15** — The weather turned to cloudy.
+
+## Day 113
+
+- **07:00** — The weather turned to rain.
+- **10:50** — Tam Coble prayed for someone to be near.

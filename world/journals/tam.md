@@ -541,3 +541,15 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 111
 
 - **18:30** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 112
+
+- **12:20** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 113
+
+- **05:20** _(rest)_ — Slept well enough. The house was warm.
+- **07:05** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **10:50** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
