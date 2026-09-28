@@ -584,3 +584,7 @@ Everything the village noticed, in the order it happened.
 - **10:25** — The weather turned to drought.
 - **10:30** — Tam Coble prayed to be lifted.
 - **22:45** — The weather turned to rain.
+
+## Day 121
+
+- **08:35** — The weather turned to clear.
