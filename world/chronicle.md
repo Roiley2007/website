@@ -577,3 +577,10 @@ Everything the village noticed, in the order it happened.
 ## Day 119
 
 - **20:20** — The weather turned to cloudy.
+
+## Day 120
+
+- **09:00** — Bram Halloway prayed to be lifted.
+- **10:25** — The weather turned to drought.
+- **10:30** — Tam Coble prayed to be lifted.
+- **22:45** — The weather turned to rain.

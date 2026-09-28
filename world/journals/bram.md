@@ -599,3 +599,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 120
 
 - **06:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **07:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **17:35** _(rest)_ — Slept well enough. The house was warm.
