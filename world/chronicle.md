@@ -566,3 +566,9 @@ Everything the village noticed, in the order it happened.
 ## Day 117
 
 - **03:45** — The weather turned to clear.
+- **04:35** — Bram Halloway prayed for rain on the eastern field.
+- **13:40** — The weather turned to storm.
+
+## Day 118
+
+- **02:00** — The weather turned to clear.

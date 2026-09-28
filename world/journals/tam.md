@@ -573,3 +573,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **17:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:05** _(rest)_ — Slept well enough. The house was warm.
 - **19:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 117
+
+- **20:00** _(ordinary)_ — Ate at home. The larder is down to 10.

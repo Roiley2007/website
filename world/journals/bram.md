@@ -575,3 +575,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **12:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **13:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **16:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 117
+
+- **04:35** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **09:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **14:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:15** _(rest)_ — A whole night, unbroken. Rare.
