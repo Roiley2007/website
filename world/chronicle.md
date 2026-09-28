@@ -562,3 +562,7 @@ Everything the village noticed, in the order it happened.
 ## Day 116
 
 - **10:40** — Tam Coble prayed for a proper set of iron tools.
+
+## Day 117
+
+- **03:45** — The weather turned to clear.
