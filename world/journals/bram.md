@@ -588,3 +588,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **08:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **10:30** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **13:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 119
+
+- **08:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **12:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **18:40** _(ordinary)_ — Ate at home. The larder is down to 4.

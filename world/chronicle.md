@@ -572,3 +572,8 @@ Everything the village noticed, in the order it happened.
 ## Day 118
 
 - **02:00** — The weather turned to clear.
+- **22:50** — The weather turned to drought.
+
+## Day 119
+
+- **20:20** — The weather turned to cloudy.
