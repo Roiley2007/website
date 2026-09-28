@@ -577,3 +577,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 117
 
 - **20:00** _(ordinary)_ — Ate at home. The larder is down to 10.
+
+## Day 118
+
+- **09:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
