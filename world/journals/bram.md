@@ -607,3 +607,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **12:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **18:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 122
+
+- **06:20** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **08:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **10:55** _(work)_ — Turned the east rows. The soil is behaving.
+- **12:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.

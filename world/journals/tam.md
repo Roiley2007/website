@@ -602,3 +602,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **17:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:15** _(rest)_ — A whole night, unbroken. Rare.
 - **19:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 122
+
+- **11:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **19:05** _(rest)_ — Slept well enough. The house was warm.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.
+- **19:25** _(rest)_ — Slept well enough. The house was warm.
+- **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:50** _(rest)_ — Slept well enough. The house was warm.
