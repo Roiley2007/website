@@ -674,3 +674,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **20:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 121
+
+- **16:50** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **17:45** _(rest)_ — Slept well enough. The house was warm.
+- **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
