@@ -615,3 +615,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **10:55** _(work)_ — Turned the east rows. The soil is behaving.
 - **12:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **19:45** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 123
+
+- **14:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 124
+
+- **14:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:45** _(rest)_ — Slept well enough. The house was warm.
