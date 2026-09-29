@@ -604,3 +604,7 @@ Everything the village noticed, in the order it happened.
 
 - **12:00** — The weather turned to rain.
 - **18:30** — The weather turned to cloudy.
+
+## Day 125
+
+- **12:20** — The weather turned to rain.

@@ -622,3 +622,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **08:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **09:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **14:45** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 125
+
+- **06:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **11:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:20** _(ordinary)_ — Ate at home. The larder is down to 22.
