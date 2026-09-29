@@ -681,3 +681,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **17:45** _(rest)_ — Slept well enough. The house was warm.
 - **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 122
+
+- **04:05** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
