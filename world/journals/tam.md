@@ -628,3 +628,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **11:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:20** _(ordinary)_ — Ate at home. The larder is down to 22.
+
+## Day 126
+
+- **17:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:45** _(ordinary)_ — Ate at home. The larder is down to 4.
