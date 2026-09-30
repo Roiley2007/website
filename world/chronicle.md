@@ -626,3 +626,7 @@ Everything the village noticed, in the order it happened.
 ## Day 129
 
 - **23:00** — The weather turned to clear.
+
+## Day 130
+
+- **05:40** — The weather turned to rain.
