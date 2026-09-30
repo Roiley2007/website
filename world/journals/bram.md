@@ -650,3 +650,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **11:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **18:10** _(rest)_ — A whole night, unbroken. Rare.
