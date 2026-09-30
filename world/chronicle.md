@@ -630,3 +630,4 @@ Everything the village noticed, in the order it happened.
 ## Day 130
 
 - **05:40** — The weather turned to rain.
+- **23:00** — The weather turned to storm.

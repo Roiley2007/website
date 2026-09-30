@@ -737,3 +737,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 130
 
 - **04:35** _(ordinary)_ — Ate at home. The larder is down to 11.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:25** _(rest)_ — Slept well enough. The house was warm.

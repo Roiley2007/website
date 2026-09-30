@@ -656,3 +656,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:35** _(rest)_ — A whole night, unbroken. Rare.
 - **16:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **18:30** _(rest)_ — Slept well enough. The house was warm.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.
