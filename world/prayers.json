@@ -3255,6 +3255,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0075",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 37490,
+      "day": 131,
+      "time": "10:10",
+      "realTime": "2026-09-30T23:47:17.108Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I have brought this to you before, so I will be brief.\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nI have asked you this 5 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 5,
+      "context": {
+        "needs": {
+          "hunger": 72,
+          "thirst": 64,
+          "energy": 58,
+          "social": 56,
+          "comfort": 57,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 23,
+          "warmth": 83,
+          "repair": 38
+        },
+        "village": {
+          "granary": 259,
+          "fieldYield": 24,
+          "wellWater": 100,
+          "firewood": 185
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

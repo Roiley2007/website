@@ -739,3 +739,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:35** _(ordinary)_ — Ate at home. The larder is down to 11.
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
 - **19:25** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 131
+
+- **04:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **10:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **12:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

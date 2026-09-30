@@ -631,3 +631,10 @@ Everything the village noticed, in the order it happened.
 
 - **05:40** — The weather turned to rain.
 - **23:00** — The weather turned to storm.
+- **23:45** — A storm took shingles off one of the houses in the night.
+
+## Day 131
+
+- **08:15** — A storm took shingles off one of the houses in the night.
+- **10:10** — Odile Fenn prayed to be lifted.
+- **13:50** — The weather turned to clear.
