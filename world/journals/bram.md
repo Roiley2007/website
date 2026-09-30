@@ -641,3 +641,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **15:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 128
+
+- **17:05** _(ordinary)_ — Ate at home. The larder is down to 4.
+
+## Day 129
+
+- **09:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **11:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.

@@ -634,3 +634,11 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **17:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:00** _(rest)_ — A whole night, unbroken. Rare.
 - **19:45** _(ordinary)_ — Ate at home. The larder is down to 4.
+
+## Day 128
+
+- **16:00** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 129
+
+- **11:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
