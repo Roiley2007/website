@@ -636,3 +636,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 127
+
+- **15:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
