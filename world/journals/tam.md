@@ -646,3 +646,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 131
 
 - **13:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **18:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 132
+
+- **13:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

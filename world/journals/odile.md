@@ -745,3 +745,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **10:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **12:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 132
+
+- **08:45** _(work)_ — Water is a little lower than last week. Noted it.
+- **10:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **20:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
