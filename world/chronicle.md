@@ -656,3 +656,7 @@ Everything the village noticed, in the order it happened.
 - **01:55** — The weather turned to cloudy.
 - **10:45** — The weather turned to rain.
 - **19:15** — The weather turned to cloudy.
+
+## Day 136
+
+- **06:40** — The weather turned to storm.

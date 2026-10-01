@@ -768,3 +768,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **08:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **10:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **16:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 136
+
+- **04:50** _(rest)_ — Slept well enough. The house was warm.

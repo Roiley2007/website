@@ -681,3 +681,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 134
 
 - **11:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 136
+
+- **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
