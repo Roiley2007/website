@@ -753,3 +753,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **15:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **18:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **20:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 133
+
+- **08:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **12:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
