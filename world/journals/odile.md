@@ -773,3 +773,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 136
 
 - **04:50** _(rest)_ — Slept well enough. The house was warm.
+- **10:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
