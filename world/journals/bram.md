@@ -677,3 +677,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **08:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **12:35** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **20:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 134
+
+- **11:30** _(loneliness)_ — Waited at the square a while. Nobody came by.

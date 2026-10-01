@@ -660,3 +660,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 134
 
 - **05:55** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **11:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **16:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 135
+
+- **04:00** _(rest)_ — Slept well enough. The house was warm.
+- **07:10** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
