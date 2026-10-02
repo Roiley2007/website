@@ -685,3 +685,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 136
 
 - **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 137
+
+- **05:15** _(rest)_ — A whole night, unbroken. Rare.
+- **10:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **12:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

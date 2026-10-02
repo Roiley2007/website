@@ -663,3 +663,12 @@ Everything the village noticed, in the order it happened.
 - **14:25** — A storm took shingles off one of the houses in the night.
 - **20:10** — A storm took shingles off one of the houses in the night.
 - **20:30** — A storm took shingles off one of the houses in the night.
+
+## Day 137
+
+- **12:50** — A storm took shingles off one of the houses in the night.
+- **15:15** — The weather turned to rain.
+
+## Day 138
+
+- **06:25** — The weather turned to storm.
