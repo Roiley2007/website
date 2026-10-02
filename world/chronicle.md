@@ -672,3 +672,8 @@ Everything the village noticed, in the order it happened.
 ## Day 138
 
 - **06:25** — The weather turned to storm.
+- **19:40** — The weather turned to clear.
+
+## Day 139
+
+- **08:45** — The weather turned to cloudy.

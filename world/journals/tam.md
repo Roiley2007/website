@@ -668,3 +668,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **04:00** _(rest)_ — Slept well enough. The house was warm.
 - **07:10** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **16:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 139
+
+- **05:25** _(rest)_ — A whole night, unbroken. Rare.
+- **13:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
