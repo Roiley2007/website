@@ -701,3 +701,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **11:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **17:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 140
+
+- **11:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **16:20** _(rest)_ — Slept well enough. The house was warm.
+- **16:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.

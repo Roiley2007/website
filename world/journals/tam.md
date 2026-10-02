@@ -674,3 +674,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **05:25** _(rest)_ — A whole night, unbroken. Rare.
 - **13:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:45** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 140
+
+- **04:35** _(rest)_ — A whole night, unbroken. Rare.
+- **08:10** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
