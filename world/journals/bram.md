@@ -709,3 +709,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **16:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:55** _(rest)_ — Slept well enough. The house was warm.
 - **19:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 141
+
+- **11:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
