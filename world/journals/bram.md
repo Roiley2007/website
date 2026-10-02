@@ -691,3 +691,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:15** _(rest)_ — A whole night, unbroken. Rare.
 - **10:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **12:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 138
+
+- **09:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **10:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
