@@ -711,3 +711,8 @@ Everything the village noticed, in the order it happened.
 - **03:30** — The weather turned to clear.
 - **15:25** — Tam Coble prayed for a proper set of iron tools.
 - **18:50** — The weather turned to storm.
+
+## Day 146
+
+- **07:40** — A storm took shingles off one of the houses in the night.
+- **10:00** — Bram Halloway prayed for rain on the eastern field.

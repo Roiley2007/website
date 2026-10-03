@@ -730,3 +730,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **06:05** _(ordinary)_ — Ate at home. The larder is down to 16.
+
+## Day 146
+
+- **08:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **10:00** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
