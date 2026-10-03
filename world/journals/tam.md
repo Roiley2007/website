@@ -699,3 +699,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 145
 
 - **06:40** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **15:25** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.

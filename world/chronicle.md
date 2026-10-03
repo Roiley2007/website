@@ -709,3 +709,5 @@ Everything the village noticed, in the order it happened.
 ## Day 145
 
 - **03:30** — The weather turned to clear.
+- **15:25** — Tam Coble prayed for a proper set of iron tools.
+- **18:50** — The weather turned to storm.
