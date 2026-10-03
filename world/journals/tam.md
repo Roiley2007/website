@@ -695,3 +695,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 144
 
 - **06:00** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 145
+
+- **06:40** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
