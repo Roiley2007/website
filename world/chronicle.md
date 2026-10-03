@@ -697,3 +697,9 @@ Everything the village noticed, in the order it happened.
 - **16:05** — The weather turned to storm.
 - **17:10** — Odile Fenn prayed to know where she came from.
 - **17:40** — Odile Fenn prayed for books, and someone who can read them.
+
+## Day 143
+
+- **02:20** — A storm took shingles off one of the houses in the night.
+- **04:25** — The weather turned to cloudy.
+- **06:30** — Bram Halloway prayed for a plough that holds together.

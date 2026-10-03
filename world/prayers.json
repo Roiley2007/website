@@ -3519,6 +3519,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0081",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 40902,
+      "day": 143,
+      "time": "06:30",
+      "realTime": "2026-10-03T07:59:08.299Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "It is Bram. The farmer. You know that.\n\nWhat I want is a plough that holds together for one whole season. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 6 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 6,
+      "context": {
+        "needs": {
+          "hunger": 37,
+          "thirst": 34,
+          "energy": 86,
+          "social": 55,
+          "comfort": 53,
+          "spirit": 20
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 89,
+          "repair": 16
+        },
+        "village": {
+          "granary": 249,
+          "fieldYield": 12,
+          "wellWater": 98,
+          "firewood": 158
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
