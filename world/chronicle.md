@@ -703,3 +703,5 @@ Everything the village noticed, in the order it happened.
 - **02:20** — A storm took shingles off one of the houses in the night.
 - **04:25** — The weather turned to cloudy.
 - **06:30** — Bram Halloway prayed for a plough that holds together.
+- **15:05** — The weather turned to clear.
+- **23:05** — The weather turned to cloudy.

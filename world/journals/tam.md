@@ -691,3 +691,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **15:45** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
 - **22:25** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 144
+
+- **06:00** _(rest)_ — A whole night, unbroken. Rare.
