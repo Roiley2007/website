@@ -688,3 +688,12 @@ Everything the village noticed, in the order it happened.
 
 - **12:30** — The weather turned to clear.
 - **16:55** — Tam Coble prayed for a bridge over the ford.
+
+## Day 142
+
+- **02:25** — The weather turned to cloudy.
+- **04:20** — Bram Halloway prayed for word from his daughter Wren.
+- **15:45** — Tam Coble prayed for someone to be near.
+- **16:05** — The weather turned to storm.
+- **17:10** — Odile Fenn prayed to know where she came from.
+- **17:40** — Odile Fenn prayed for books, and someone who can read them.

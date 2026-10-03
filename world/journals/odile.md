@@ -803,3 +803,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 141
 
 - **10:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 142
+
+- **06:40** _(ordinary)_ — Ate at home. The larder is down to 11.
+- **17:10** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **17:40** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.

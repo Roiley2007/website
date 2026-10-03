@@ -715,3 +715,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **11:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **18:55** _(rest)_ — A whole night, unbroken. Rare.
 - **19:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 142
+
+- **04:20** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.

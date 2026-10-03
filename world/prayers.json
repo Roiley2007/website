@@ -3343,6 +3343,182 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0077",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 40588,
+      "day": 142,
+      "time": "04:20",
+      "realTime": "2026-10-03T06:34:38.912Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "It is Bram. The farmer. You know that.\n\nWhat I want is word from my daughter Wren, whether she is alive and whether she is well. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 6 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 6,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 41,
+          "energy": 86,
+          "social": 57,
+          "comfort": 67,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 89,
+          "repair": 39
+        },
+        "village": {
+          "granary": 278,
+          "fieldYield": 10,
+          "wellWater": 100,
+          "firewood": 158
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0078",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 40725,
+      "day": 142,
+      "time": "15:45",
+      "realTime": "2026-10-03T06:34:38.975Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "I am going to just say it.\n\nI am asking for somebody my own age, or a dog, or anything that wants to be near me.\n\nI have asked you this 6 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 6,
+      "context": {
+        "needs": {
+          "hunger": 96,
+          "thirst": 54,
+          "energy": 31,
+          "social": 68,
+          "comfort": 29,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 78,
+          "repair": 40
+        },
+        "village": {
+          "granary": 272,
+          "fieldYield": 0,
+          "wellWater": 100,
+          "firewood": 172
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0079",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 40742,
+      "day": 142,
+      "time": "17:10",
+      "realTime": "2026-10-03T06:34:38.979Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I want to state this clearly, in case clarity matters.\n\nWhat I want is to know who my family were, and what the name Fenn was before it was mine. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 6 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 6,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 65,
+          "energy": 23,
+          "social": 58,
+          "comfort": 29,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 5,
+          "warmth": 76,
+          "repair": 40
+        },
+        "village": {
+          "granary": 273,
+          "fieldYield": 0,
+          "wellWater": 100,
+          "firewood": 172
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0080",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 40748,
+      "day": 142,
+      "time": "17:40",
+      "realTime": "2026-10-03T06:34:38.981Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nThis is the real one, the one underneath the others: books, or anyone at all in this village who can read what I write.\n\nI have asked you this 6 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 6,
+      "context": {
+        "needs": {
+          "hunger": 86,
+          "thirst": 62,
+          "energy": 20,
+          "social": 57,
+          "comfort": 28,
+          "spirit": 33
+        },
+        "house": {
+          "larder": 5,
+          "warmth": 75,
+          "repair": 39
+        },
+        "village": {
+          "granary": 273,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 172
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
