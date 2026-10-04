@@ -740,3 +740,8 @@ Everything the village noticed, in the order it happened.
 ## Day 150
 
 - **07:25** — The weather turned to rain.
+- **15:15** — The weather turned to clear.
+
+## Day 151
+
+- **00:20** — The weather turned to storm.
