@@ -719,3 +719,9 @@ Everything the village noticed, in the order it happened.
 - **13:40** — The weather turned to cloudy.
 - **19:35** — The weather turned to storm.
 - **23:40** — A storm took shingles off one of the houses in the night.
+
+## Day 147
+
+- **05:55** — A storm took shingles off one of the houses in the night.
+- **06:25** — The weather turned to clear.
+- **20:50** — The weather turned to rain.

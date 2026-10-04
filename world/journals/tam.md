@@ -705,3 +705,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **10:20** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **21:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 147
+
+- **09:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **15:15** _(ordinary)_ — Ate at home. The larder is down to 16.

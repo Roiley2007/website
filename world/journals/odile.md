@@ -828,3 +828,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 147
 
 - **04:00** _(rest)_ — A whole night, unbroken. Rare.
+- **06:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **07:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **09:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
