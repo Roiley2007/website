@@ -835,3 +835,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 148
 
 - **19:45** _(ordinary)_ — Ate at home. The larder is down to 11.
+
+## Day 149
+
+- **07:25** _(ordinary)_ — Ate at home. The larder is down to 5.

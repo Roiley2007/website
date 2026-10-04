@@ -714,3 +714,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 148
 
 - **07:45** _(ordinary)_ — Ate at home. The larder is down to 10.
+
+## Day 149
+
+- **09:40** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **16:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
