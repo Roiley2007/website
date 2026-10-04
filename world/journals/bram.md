@@ -753,3 +753,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:35** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **10:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **14:20** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 150
+
+- **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
