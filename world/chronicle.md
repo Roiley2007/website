@@ -725,3 +725,8 @@ Everything the village noticed, in the order it happened.
 - **05:55** — A storm took shingles off one of the houses in the night.
 - **06:25** — The weather turned to clear.
 - **20:50** — The weather turned to rain.
+
+## Day 148
+
+- **14:40** — The weather turned to storm.
+- **23:55** — The weather turned to clear.

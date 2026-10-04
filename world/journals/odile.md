@@ -831,3 +831,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **07:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **09:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 148
+
+- **19:45** _(ordinary)_ — Ate at home. The larder is down to 11.

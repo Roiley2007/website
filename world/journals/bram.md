@@ -741,3 +741,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **13:35** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **16:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:05** _(ordinary)_ — Ate at home. The larder is down to 10.
+
+## Day 148
+
+- **13:10** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **14:35** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 149
+
+- **04:45** _(rest)_ — A whole night, unbroken. Rare.
