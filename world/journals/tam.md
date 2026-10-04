@@ -704,3 +704,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 146
 
 - **10:20** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **21:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
