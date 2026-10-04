@@ -710,3 +710,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **09:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **15:15** _(ordinary)_ — Ate at home. The larder is down to 16.
+
+## Day 148
+
+- **07:45** _(ordinary)_ — Ate at home. The larder is down to 10.
