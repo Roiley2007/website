@@ -764,3 +764,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **09:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 152
+
+- **06:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **07:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **13:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **20:15** _(ordinary)_ — Ate at home. The larder is down to 4.

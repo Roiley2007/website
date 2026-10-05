@@ -748,3 +748,7 @@ Everything the village noticed, in the order it happened.
 - **04:50** — A storm took shingles off one of the houses in the night.
 - **09:15** — Odile Fenn prayed for a lantern that holds a flame.
 - **09:40** — The weather turned to rain.
+
+## Day 152
+
+- **17:30** — The weather turned to clear.
