@@ -752,3 +752,13 @@ Everything the village noticed, in the order it happened.
 ## Day 152
 
 - **17:30** — The weather turned to clear.
+
+## Day 153
+
+- **05:05** — The weather turned to storm.
+- **06:55** — A storm took shingles off one of the houses in the night.
+- **15:05** — The weather turned to clear.
+
+## Day 154
+
+- **12:25** — The weather turned to cloudy.

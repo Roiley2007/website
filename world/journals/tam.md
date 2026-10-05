@@ -736,3 +736,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **10:35** _(work)_ — Cut and split until my arms went. Good pile.
 - **12:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:45** _(ordinary)_ — Ate at home. The larder is down to 16.
+
+## Day 153
+
+- **11:00** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 154
+
+- **06:55** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **08:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
