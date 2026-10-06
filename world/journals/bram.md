@@ -801,3 +801,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **13:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **15:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 159
+
+- **11:35** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **12:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **16:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

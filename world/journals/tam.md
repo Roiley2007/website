@@ -760,3 +760,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 158
 
 - **16:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 159
+
+- **05:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **07:00** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **10:45** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **17:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
