@@ -883,3 +883,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 159
 
 - **10:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 160
+
+- **05:10** _(rest)_ — Slept well enough. The house was warm.
+- **09:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:55** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
