@@ -785,3 +785,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **10:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **12:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 156
+
+- **11:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
