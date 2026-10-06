@@ -3783,6 +3783,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0087",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 44977,
+      "day": 157,
+      "time": "10:05",
+      "realTime": "2026-10-06T08:52:48.864Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "Right. Well.\n\nThe house is coming apart faster than I can mend it with what I have.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 78,
+          "thirst": 63,
+          "energy": 63,
+          "social": 33,
+          "comfort": 27,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 59,
+          "repair": 20
+        },
+        "village": {
+          "granary": 34,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 1
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

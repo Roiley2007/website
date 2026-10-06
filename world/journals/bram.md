@@ -790,3 +790,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **11:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **17:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 157
+
+- **10:05** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
+- **17:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:40** _(ordinary)_ — Ate at home. The larder is down to 4.

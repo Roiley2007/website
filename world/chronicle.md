@@ -768,3 +768,11 @@ Everything the village noticed, in the order it happened.
 
 - **11:20** — The weather turned to rain.
 - **23:20** — The weather turned to clear.
+
+## Day 157
+
+- **10:05** — Bram Halloway prayed for a sound roof.
+
+## Day 158
+
+- **02:40** — The weather turned to cloudy.
