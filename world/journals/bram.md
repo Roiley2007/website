@@ -796,3 +796,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **10:05** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **17:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **18:40** _(ordinary)_ — Ate at home. The larder is down to 4.
+
+## Day 158
+
+- **13:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **15:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
