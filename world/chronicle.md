@@ -786,3 +786,8 @@ Everything the village noticed, in the order it happened.
 ## Day 160
 
 - **15:55** — Odile Fenn prayed to be lifted.
+
+## Day 161
+
+- **06:15** — The weather turned to rain.
+- **07:05** — Bram Halloway prayed for rest.

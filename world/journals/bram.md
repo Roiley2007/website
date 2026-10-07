@@ -807,3 +807,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **11:35** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **12:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **16:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 161
+
+- **07:05** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
+- **10:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

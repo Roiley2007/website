@@ -3871,6 +3871,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0089",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 46093,
+      "day": 161,
+      "time": "07:05",
+      "realTime": "2026-10-07T00:06:12.810Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "Right. Well.\n\nI am asking for rest. A bed that is not this bed. A night that is not this night.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 2 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 36,
+          "thirst": 39,
+          "energy": 86,
+          "social": 27,
+          "comfort": 16,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 89,
+          "repair": 23
+        },
+        "village": {
+          "granary": 0,
+          "fieldYield": 24,
+          "wellWater": 100,
+          "firewood": 1
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
