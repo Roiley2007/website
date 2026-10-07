@@ -810,3 +810,8 @@ Everything the village noticed, in the order it happened.
 
 - **07:15** — The weather turned to clear.
 - **09:40** — Odile Fenn prayed for a sound roof.
+- **15:20** — The weather turned to cloudy.
+
+## Day 166
+
+- **04:30** — The weather turned to clear.
