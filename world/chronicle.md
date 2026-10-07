@@ -791,3 +791,8 @@ Everything the village noticed, in the order it happened.
 
 - **06:15** — The weather turned to rain.
 - **07:05** — Bram Halloway prayed for rest.
+
+## Day 162
+
+- **00:05** — The weather turned to storm.
+- **19:10** — The weather turned to rain.

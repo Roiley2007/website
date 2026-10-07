@@ -772,3 +772,11 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **08:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **14:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 162
+
+- **05:10** _(rest)_ — A whole night, unbroken. Rare.
+- **06:55** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **09:45** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **11:10** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **16:10** _(work)_ — Cut and split until my arms went. Good pile.

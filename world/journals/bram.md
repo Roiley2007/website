@@ -812,3 +812,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:05** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
 - **10:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 162
+
+- **14:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
