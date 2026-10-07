@@ -800,3 +800,8 @@ Everything the village noticed, in the order it happened.
 ## Day 163
 
 - **21:10** — The weather turned to storm.
+
+## Day 164
+
+- **06:05** — Odile Fenn prayed for rest.
+- **08:35** — A storm took shingles off one of the houses in the night.

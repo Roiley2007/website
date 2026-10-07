@@ -3915,6 +3915,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0090",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 46945,
+      "day": 164,
+      "time": "06:05",
+      "realTime": "2026-10-07T16:27:04.520Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nI am asking for rest. A bed that is not this bed. A night that is not this night.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 63,
+          "thirst": 41,
+          "energy": 88,
+          "social": 44,
+          "comfort": 46,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 89,
+          "repair": 18
+        },
+        "village": {
+          "granary": 36,
+          "fieldYield": 90,
+          "wellWater": 98,
+          "firewood": 20
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
