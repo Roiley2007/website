@@ -3959,6 +3959,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0091",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 47276,
+      "day": 165,
+      "time": "09:40",
+      "realTime": "2026-10-07T18:53:36.759Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nI am asking for the house to be made sound. I can do the work if there is anything to do it with.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 60,
+          "energy": 62,
+          "social": 47,
+          "comfort": 35,
+          "spirit": 15
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 78,
+          "repair": 13
+        },
+        "village": {
+          "granary": 76,
+          "fieldYield": 84,
+          "wellWater": 100,
+          "firewood": 2
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

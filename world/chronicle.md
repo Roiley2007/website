@@ -805,3 +805,8 @@ Everything the village noticed, in the order it happened.
 
 - **06:05** — Odile Fenn prayed for rest.
 - **08:35** — A storm took shingles off one of the houses in the night.
+
+## Day 165
+
+- **07:15** — The weather turned to clear.
+- **09:40** — Odile Fenn prayed for a sound roof.

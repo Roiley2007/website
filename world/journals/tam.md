@@ -791,3 +791,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **08:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **09:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **14:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 165
+
+- **11:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
