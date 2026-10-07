@@ -908,3 +908,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **09:40** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **13:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **20:25** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 166
+
+- **06:30** _(ordinary)_ — Ate at home. The larder is down to 10.
