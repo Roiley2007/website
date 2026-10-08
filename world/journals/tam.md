@@ -800,3 +800,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 166
 
 - **05:10** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 167
+
+- **08:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:15** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 168
+
+- **06:10** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
+- **09:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

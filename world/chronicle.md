@@ -816,3 +816,12 @@ Everything the village noticed, in the order it happened.
 
 - **04:30** — The weather turned to clear.
 - **15:25** — The weather turned to storm.
+
+## Day 167
+
+- **07:35** — The weather turned to clear.
+
+## Day 168
+
+- **04:25** — The weather turned to rain.
+- **06:10** — Tam Coble prayed for a sound roof.

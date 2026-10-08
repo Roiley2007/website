@@ -831,3 +831,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **10:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 167
+
+- **12:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

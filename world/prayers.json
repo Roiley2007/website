@@ -4003,6 +4003,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0092",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 48098,
+      "day": 168,
+      "time": "06:10",
+      "realTime": "2026-10-08T08:56:11.711Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "I am going to just say it.\n\nI am asking for the house to be made sound. I can do the work if there is anything to do it with.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 46,
+          "thirst": 50,
+          "energy": 88,
+          "social": 59,
+          "comfort": 56,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 24,
+          "warmth": 78,
+          "repair": 22
+        },
+        "village": {
+          "granary": 135,
+          "fieldYield": 92,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
