@@ -917,3 +917,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 167
 
 - **17:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 168
+
+- **15:55** _(work)_ — Water is a little lower than last week. Noted it.

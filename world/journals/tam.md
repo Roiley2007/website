@@ -810,3 +810,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:10** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **09:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **15:35** _(ordinary)_ — Ate at home. The larder is down to 12.
