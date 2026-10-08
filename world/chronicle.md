@@ -830,3 +830,8 @@ Everything the village noticed, in the order it happened.
 
 - **11:25** — The weather turned to cloudy.
 - **20:40** — The weather turned to clear.
+
+## Day 171
+
+- **00:10** — The weather turned to rain.
+- **04:20** — Tam Coble prayed for a bridge over the ford.

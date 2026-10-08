@@ -926,3 +926,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **16:15** _(work)_ — Water is a little lower than last week. Noted it.
 - **16:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 170
+
+- **13:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **16:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **18:30** _(work)_ — Water is a little lower than last week. Noted it.

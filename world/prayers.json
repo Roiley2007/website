@@ -4047,6 +4047,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0093",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 48940,
+      "day": 171,
+      "time": "04:20",
+      "realTime": "2026-10-08T22:03:26.411Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "I am going to just say it.\n\nWhat I want is a bridge over the ford, so that it never takes anybody else. I have wanted it long enough that it has stopped feeling like wanting.\n\nI remembered this on the way here: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 7 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 52,
+          "energy": 88,
+          "social": 68,
+          "comfort": 74,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 89,
+          "repair": 40
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 30,
+          "wellWater": 100,
+          "firewood": 9
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
