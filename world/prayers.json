@@ -4311,6 +4311,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0099",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 50097,
+      "day": 175,
+      "time": "04:45",
+      "realTime": "2026-10-09T20:55:34.814Z",
+      "desire": {
+        "kind": "longing",
+        "id": "tools",
+        "text": "a proper set of tools, iron ones, that do not bend when the wood is hard"
+      },
+      "title": "for a proper set of iron tools",
+      "selfTitle": "for a proper set of iron tools",
+      "text": "I am going to just say it.\n\nWhat I want is a proper set of tools, iron ones, that do not bend when the wood is hard. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 7 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 50,
+          "energy": 88,
+          "social": 69,
+          "comfort": 69,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 24,
+          "warmth": 89,
+          "repair": 41
+        },
+        "village": {
+          "granary": 228,
+          "fieldYield": 45,
+          "wellWater": 98,
+          "firewood": 70
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0100",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 50224,
+      "day": 175,
+      "time": "15:20",
+      "realTime": "2026-10-09T20:55:34.858Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I am not good at this.\n\nWhat I want is rain on the eastern field before the seed dies in it. I have wanted it long enough that it has stopped feeling like wanting.\n\nI remembered this on the way here: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 7 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 79,
+          "thirst": 72,
+          "energy": 15,
+          "social": 57,
+          "comfort": 55,
+          "spirit": 15
+        },
+        "house": {
+          "larder": 23,
+          "warmth": 82,
+          "repair": 45
+        },
+        "village": {
+          "granary": 293,
+          "fieldYield": 6,
+          "wellWater": 100,
+          "firewood": 84
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

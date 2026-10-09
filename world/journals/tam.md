@@ -841,3 +841,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **18:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **20:10** _(ordinary)_ — Ate at home. The larder is down to 24.
+
+## Day 175
+
+- **04:45** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+- **06:25** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **14:50** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **21:15** _(loneliness)_ — Waited at the square a while. Nobody came by.

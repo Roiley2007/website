@@ -862,3 +862,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **17:30** _(rest)_ — A whole night, unbroken. Rare.
 - **17:35** _(rest)_ — Slept well enough. The house was warm.
 - **19:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 175
+
+- **15:20** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **18:00** _(rest)_ — A whole night, unbroken. Rare.
+- **18:10** _(rest)_ — Slept well enough. The house was warm.

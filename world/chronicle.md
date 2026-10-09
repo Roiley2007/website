@@ -856,3 +856,6 @@ Everything the village noticed, in the order it happened.
 ## Day 175
 
 - **00:20** — The weather turned to clear.
+- **04:45** — Tam Coble prayed for a proper set of iron tools.
+- **14:10** — The weather turned to cloudy.
+- **15:20** — Bram Halloway prayed for rain on the eastern field.
