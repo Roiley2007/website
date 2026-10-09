@@ -832,3 +832,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **18:40** _(rest)_ — A whole night, unbroken. Rare.
 - **18:45** _(rest)_ — A whole night, unbroken. Rare.
 - **19:05** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 173
+
+- **20:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 174
+
+- **18:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **20:10** _(ordinary)_ — Ate at home. The larder is down to 24.

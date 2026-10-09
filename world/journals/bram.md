@@ -855,3 +855,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **13:35** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
 - **20:40** _(ordinary)_ — Ate at home. The larder is down to 23.
+
+## Day 174
+
+- **10:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **17:30** _(rest)_ — A whole night, unbroken. Rare.
+- **17:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

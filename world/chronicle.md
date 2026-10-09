@@ -848,3 +848,7 @@ Everything the village noticed, in the order it happened.
 ## Day 173
 
 - **01:05** — The weather turned to clear.
+
+## Day 174
+
+- **12:05** — The weather turned to rain.
