@@ -936,3 +936,16 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 171
 
 - **19:25** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 172
+
+- **05:55** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **07:40** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **13:30** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:45** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 173
+
+- **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **09:00** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

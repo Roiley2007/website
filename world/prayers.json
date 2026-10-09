@@ -4135,6 +4135,182 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0095",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 49236,
+      "day": 172,
+      "time": "05:00",
+      "realTime": "2026-10-09T09:00:57.727Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "Hey. Hello. Is this how it goes?\n\nI am asking for somebody my own age, or a dog, or anything that wants to be near me.\n\nI remembered this on the way here: Eating at a different house every night for six years. Everyone was kind. Nobody was mine.\n\nI have asked you this 7 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 56,
+          "thirst": 43,
+          "energy": 88,
+          "social": 79,
+          "comfort": 68,
+          "spirit": 23
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 89,
+          "repair": 41
+        },
+        "village": {
+          "granary": 295,
+          "fieldYield": 79,
+          "wellWater": 100,
+          "firewood": 17
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0096",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 49247,
+      "day": 172,
+      "time": "05:55",
+      "realTime": "2026-10-09T09:00:57.739Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I have thought about how to ask this properly.\n\nI am asking for to know who my family were, and what the name Fenn was before it was mine.\n\nI have asked you this 7 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 46,
+          "thirst": 38,
+          "energy": 88,
+          "social": 58,
+          "comfort": 69,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 90,
+          "repair": 42
+        },
+        "village": {
+          "granary": 299,
+          "fieldYield": 79,
+          "wellWater": 99,
+          "firewood": 17
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0097",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 49268,
+      "day": 172,
+      "time": "07:40",
+      "realTime": "2026-10-09T09:00:57.760Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have thought about how to ask this properly.\n\nI am asking for books, or anyone at all in this village who can read what I write.\n\nI have asked you this 7 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 40,
+          "thirst": 87,
+          "energy": 79,
+          "social": 55,
+          "comfort": 66,
+          "spirit": 32
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 88,
+          "repair": 42
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 67,
+          "wellWater": 100,
+          "firewood": 17
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0098",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 49339,
+      "day": 172,
+      "time": "13:35",
+      "realTime": "2026-10-09T09:00:57.790Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "I am not good at this.\n\nWhat I want is a plough that holds together for one whole season. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 7 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 82,
+          "energy": 28,
+          "social": 60,
+          "comfort": 50,
+          "spirit": 26
+        },
+        "house": {
+          "larder": 5,
+          "warmth": 83,
+          "repair": 41
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 39,
+          "wellWater": 98,
+          "firewood": 36
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

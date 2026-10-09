@@ -850,3 +850,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **11:05** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
 - **13:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **19:50** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 172
+
+- **13:35** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **20:40** _(ordinary)_ — Ate at home. The larder is down to 23.
