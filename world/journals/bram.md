@@ -844,3 +844,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 171
+
+- **11:05** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+- **13:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:50** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

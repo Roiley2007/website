@@ -4091,6 +4091,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0094",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 49021,
+      "day": 171,
+      "time": "11:05",
+      "realTime": "2026-10-09T02:07:50.162Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I am not good at this.\n\nThis is the real one, the one underneath the others: word from my daughter Wren, whether she is alive and whether she is well.\n\nI have asked you this 7 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 64,
+          "energy": 56,
+          "social": 63,
+          "comfort": 58,
+          "spirit": 17
+        },
+        "house": {
+          "larder": 17,
+          "warmth": 85,
+          "repair": 33
+        },
+        "village": {
+          "granary": 274,
+          "fieldYield": 33,
+          "wellWater": 100,
+          "firewood": 23
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

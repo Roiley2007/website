@@ -835,3 +835,4 @@ Everything the village noticed, in the order it happened.
 
 - **00:10** — The weather turned to rain.
 - **04:20** — Tam Coble prayed for a bridge over the ford.
+- **11:05** — Bram Halloway prayed for word from his daughter Wren.

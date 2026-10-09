@@ -932,3 +932,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **16:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **18:30** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 171
+
+- **19:25** _(rest)_ — Slept well enough. The house was warm.
