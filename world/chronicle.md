@@ -877,3 +877,7 @@ Everything the village noticed, in the order it happened.
 
 - **06:10** — Tam Coble prayed to be lifted.
 - **06:20** — Bram Halloway prayed to be lifted.
+
+## Day 180
+
+- **01:15** — The weather turned to cloudy.

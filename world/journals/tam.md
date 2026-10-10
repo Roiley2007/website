@@ -858,3 +858,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 179
 
 - **06:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 180
+
+- **05:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
