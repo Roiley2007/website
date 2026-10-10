@@ -4487,6 +4487,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0103",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 51665,
+      "day": 180,
+      "time": "15:25",
+      "realTime": "2026-10-10T21:33:44.865Z",
+      "desire": {
+        "kind": "longing",
+        "id": "lantern",
+        "text": "a lantern that holds a flame in wind, so the well can be tended after dark"
+      },
+      "title": "for a lantern that holds a flame",
+      "selfTitle": "for a lantern that holds a flame",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nThis is the real one, the one underneath the others: a lantern that holds a flame in wind, so the well can be tended after dark.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 7 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 7,
+      "context": {
+        "needs": {
+          "hunger": 68,
+          "thirst": 80,
+          "energy": 24,
+          "social": 59,
+          "comfort": 66,
+          "spirit": 35
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 83,
+          "repair": 33
+        },
+        "village": {
+          "granary": 288,
+          "fieldYield": 0,
+          "wellWater": 100,
+          "firewood": 133
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

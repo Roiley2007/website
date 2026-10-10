@@ -996,3 +996,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 180
 
 - **04:55** _(rest)_ — A whole night, unbroken. Rare.
+- **14:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **15:25** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **16:20** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **17:35** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
