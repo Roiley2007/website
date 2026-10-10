@@ -874,3 +874,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:20** _(ordinary)_ — Ate at home. The larder is down to 5.
 - **07:40** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **19:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 178
+
+- **07:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 179
+
+- **06:20** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

@@ -979,3 +979,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **19:05** _(rest)_ — Slept well enough. The house was warm.
 - **19:35** _(ordinary)_ — Ate at home. The larder is down to 10.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 178
+
+- **04:55** _(rest)_ — Slept well enough. The house was warm.
+- **09:20** _(work)_ — Water is a little lower than last week. Noted it.
+- **11:35** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 179
+
+- **07:25** _(loneliness)_ — Waited at the square a while. Nobody came by.

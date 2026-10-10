@@ -868,3 +868,12 @@ Everything the village noticed, in the order it happened.
 
 - **06:15** — The weather turned to clear.
 - **21:40** — The weather turned to rain.
+
+## Day 178
+
+- **22:50** — The weather turned to clear.
+
+## Day 179
+
+- **06:10** — Tam Coble prayed to be lifted.
+- **06:20** — Bram Halloway prayed to be lifted.

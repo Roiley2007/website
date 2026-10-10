@@ -854,3 +854,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **05:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **13:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 179
+
+- **06:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
