@@ -968,3 +968,14 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **09:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **11:25** _(work)_ — Water is a little lower than last week. Noted it.
 - **15:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:05** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 177
+
+- **08:20** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **12:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **18:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:05** _(rest)_ — Slept well enough. The house was warm.
+- **19:35** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.

@@ -848,3 +848,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:25** _(ordinary)_ — Ate at home. The larder is down to 18.
 - **14:50** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **21:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 177
+
+- **05:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **13:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
