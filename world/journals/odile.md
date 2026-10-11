@@ -1018,3 +1018,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:55** _(rest)_ — A whole night, unbroken. Rare.
 - **08:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **17:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 184
+
+- **08:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **12:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **15:10** _(ordinary)_ — Ate at home. The larder is down to 10.

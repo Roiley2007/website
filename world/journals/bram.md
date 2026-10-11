@@ -911,3 +911,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **16:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **18:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 184
+
+- **16:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:05** _(rest)_ — Slept well enough. The house was warm.
