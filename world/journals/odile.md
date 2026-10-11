@@ -1000,3 +1000,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **15:25** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
 - **16:20** _(ordinary)_ — Ate at home. The larder is down to 16.
 - **17:35** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 181
+
+- **06:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **11:55** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
