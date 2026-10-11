@@ -1012,3 +1012,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:00** _(rest)_ — A whole night, unbroken. Rare.
 - **19:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 183
+
+- **05:55** _(rest)_ — A whole night, unbroken. Rare.
+- **08:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
