@@ -918,3 +918,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:05** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 185
+
+- **04:00** _(rest)_ — A whole night, unbroken. Rare.
+- **07:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
