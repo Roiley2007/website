@@ -899,3 +899,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:35** _(ordinary)_ — Ate at home. The larder is down to 5.
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
 - **20:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 182
+
+- **06:40** _(ordinary)_ — Ate at home. The larder is down to 23.
+- **09:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
