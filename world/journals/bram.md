@@ -893,3 +893,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 181
 
 - **14:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:40** _(rest)_ — A whole night, unbroken. Rare.
+- **17:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:35** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **20:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

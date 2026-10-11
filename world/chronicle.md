@@ -884,3 +884,8 @@ Everything the village noticed, in the order it happened.
 - **11:40** — The weather turned to clear.
 - **15:25** — Odile Fenn prayed for a lantern that holds a flame.
 - **19:45** — The weather turned to rain.
+
+## Day 181
+
+- **17:20** — The weather turned to storm.
+- **22:30** — The weather turned to cloudy.
