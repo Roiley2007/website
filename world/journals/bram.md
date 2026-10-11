@@ -904,3 +904,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:40** _(ordinary)_ — Ate at home. The larder is down to 23.
 - **09:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 183
+
+- **09:45** _(work)_ — Turned the east rows. The soil is behaving.
+- **16:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
