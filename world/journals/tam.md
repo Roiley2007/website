@@ -906,3 +906,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 190
 
 - **05:25** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **06:40** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 191
+
+- **05:05** _(ordinary)_ — Ate at home. The larder is down to 18.

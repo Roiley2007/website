@@ -953,3 +953,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 190
 
 - **06:10** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **07:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **12:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:25** _(rest)_ — Slept well enough. The house was warm.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 191
+
+- **10:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
