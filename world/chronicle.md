@@ -905,3 +905,7 @@ Everything the village noticed, in the order it happened.
 
 - **01:20** — The weather turned to cloudy.
 - **08:30** — The weather turned to clear.
+
+## Day 186
+
+- **05:50** — The weather turned to drought.

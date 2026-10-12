@@ -924,3 +924,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:00** _(rest)_ — A whole night, unbroken. Rare.
 - **07:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:45** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 186
+
+- **05:15** _(ordinary)_ — Ate at home. The larder is down to 11.
+- **07:40** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
