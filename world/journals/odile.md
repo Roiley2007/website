@@ -1043,3 +1043,16 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:30** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **17:30** _(rest)_ — Slept well enough. The house was warm.
 - **17:35** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 188
+
+- **05:45** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **13:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 189
+
+- **16:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:05** _(rest)_ — Slept well enough. The house was warm.
+- **18:10** _(rest)_ — Slept well enough. The house was warm.
+- **18:20** _(rest)_ — A whole night, unbroken. Rare.

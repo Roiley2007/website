@@ -890,3 +890,19 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **03:55** _(rest)_ — A whole night, unbroken. Rare.
 - **06:05** _(ordinary)_ — Ate at home. The larder is down to 24.
 - **16:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 188
+
+- **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:45** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 189
+
+- **09:15** _(work)_ — Cut and split until my arms went. Good pile.
+- **11:05** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.
+- **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 190
+
+- **05:25** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.

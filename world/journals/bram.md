@@ -937,3 +937,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **10:45** _(ordinary)_ — Ate at home. The larder is down to 23.
 - **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 188
+
+- **07:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **17:15** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **19:20** _(ordinary)_ — Ate at home. The larder is down to 11.
+- **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 189
+
+- **11:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
