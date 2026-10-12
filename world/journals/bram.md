@@ -931,3 +931,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:40** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **16:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 187
+
+- **07:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **10:45** _(ordinary)_ — Ate at home. The larder is down to 23.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.
