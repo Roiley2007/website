@@ -949,3 +949,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 189
 
 - **11:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 190
+
+- **06:10** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
