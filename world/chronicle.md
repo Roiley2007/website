@@ -928,3 +928,7 @@ Everything the village noticed, in the order it happened.
 - **06:55** — The weather turned to cloudy.
 - **06:55** — Odile Fenn prayed to be lifted.
 - **16:00** — The weather turned to clear.
+
+## Day 191
+
+- **12:15** — The weather turned to drought.
