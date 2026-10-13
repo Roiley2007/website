@@ -929,3 +929,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **09:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **13:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **18:10** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 195
+
+- **19:25** _(rest)_ — Slept well enough. The house was warm.

@@ -982,3 +982,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:00** _(ordinary)_ — Ate at home. The larder is down to 17.
 - **10:25** _(work)_ — Turned the east rows. The soil is behaving.
 - **11:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 195
+
+- **11:40** _(work)_ — Turned the east rows. The soil is behaving.
+- **18:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
