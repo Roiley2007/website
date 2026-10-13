@@ -969,3 +969,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **19:10** _(rest)_ — Slept well enough. The house was warm.
 - **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 193
+
+- **04:10** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **18:00** _(rest)_ — Slept well enough. The house was warm.
+- **18:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
