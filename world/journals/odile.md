@@ -1088,3 +1088,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **08:40** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **17:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 196
+
+- **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **07:35** _(loneliness)_ — Waited at the square a while. Nobody came by.

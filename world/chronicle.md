@@ -948,3 +948,8 @@ Everything the village noticed, in the order it happened.
 - **06:25** — The weather turned to drought.
 - **13:45** — The weather turned to clear.
 - **20:25** — The weather turned to storm.
+
+## Day 196
+
+- **01:45** — A storm took shingles off one of the houses in the night.
+- **07:00** — The weather turned to drought.
