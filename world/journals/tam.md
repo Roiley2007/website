@@ -917,3 +917,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 192
 
 - **04:45** _(rest)_ — A whole night, unbroken. Rare.
+- **13:35** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

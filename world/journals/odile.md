@@ -1068,3 +1068,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:05** _(ordinary)_ — Ate at home. The larder is down to 4.
 - **18:20** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 192
+
+- **16:30** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:15** _(rest)_ — A whole night, unbroken. Rare.
+- **18:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:50** _(rest)_ — A whole night, unbroken. Rare.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **22:05** _(work)_ — Cleared the well and wrote the water level in the ledger.
