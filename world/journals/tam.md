@@ -911,3 +911,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 191
 
 - **05:05** _(ordinary)_ — Ate at home. The larder is down to 18.
+- **17:05** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 192
+
+- **04:45** _(rest)_ — A whole night, unbroken. Rare.

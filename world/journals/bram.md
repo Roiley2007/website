@@ -963,3 +963,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 191
 
 - **10:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **18:40** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
