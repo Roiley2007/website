@@ -955,3 +955,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 199
 
 - **19:10** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 200
+
+- **10:45** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **18:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.

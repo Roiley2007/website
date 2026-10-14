@@ -972,3 +972,7 @@ Everything the village noticed, in the order it happened.
 ## Day 200
 
 - **00:45** — The weather turned to drought.
+- **06:05** — Odile Fenn prayed for rest.
+- **10:45** — Tam Coble prayed for a bridge over the ford.
+- **16:05** — Bram Halloway prayed for word from his daughter Wren.
+- **17:15** — The weather turned to clear.
