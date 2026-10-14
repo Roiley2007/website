@@ -987,3 +987,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **11:40** _(work)_ — Turned the east rows. The soil is behaving.
 - **18:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 196
+
+- **15:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
