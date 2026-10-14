@@ -940,3 +940,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
 - **19:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 197
+
+- **07:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **13:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **17:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

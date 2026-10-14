@@ -953,3 +953,8 @@ Everything the village noticed, in the order it happened.
 
 - **01:45** — A storm took shingles off one of the houses in the night.
 - **07:00** — The weather turned to drought.
+- **23:15** — The weather turned to rain.
+
+## Day 197
+
+- **14:20** — The weather turned to cloudy.
