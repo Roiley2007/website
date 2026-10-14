@@ -1001,3 +1001,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 198
 
 - **06:25** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+
+## Day 199
+
+- **08:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **11:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **17:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.

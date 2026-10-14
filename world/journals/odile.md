@@ -1105,3 +1105,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **17:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:20** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 199
+
+- **06:00** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **07:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **09:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **15:50** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

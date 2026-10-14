@@ -963,3 +963,12 @@ Everything the village noticed, in the order it happened.
 ## Day 198
 
 - **11:40** — The weather turned to clear.
+
+## Day 199
+
+- **05:15** — The weather turned to storm.
+- **14:50** — A storm took shingles off one of the houses in the night.
+
+## Day 200
+
+- **00:45** — The weather turned to drought.
