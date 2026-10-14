@@ -996,3 +996,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 197
 
 - **16:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
