@@ -958,3 +958,8 @@ Everything the village noticed, in the order it happened.
 ## Day 197
 
 - **14:20** — The weather turned to cloudy.
+- **23:55** — The weather turned to drought.
+
+## Day 198
+
+- **11:40** — The weather turned to clear.
