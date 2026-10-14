@@ -4707,6 +4707,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0108",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 57641,
+      "day": 201,
+      "time": "09:25",
+      "realTime": "2026-10-14T23:52:29.617Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "So I have an idea, and I need one thing for it.\n\nWhat I want is somebody my own age, or a dog, or anything that wants to be near me. I have wanted it long enough that it has stopped feeling like wanting.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 8 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 83,
+          "thirst": 75,
+          "energy": 76,
+          "social": 60,
+          "comfort": 93,
+          "spirit": 21
+        },
+        "house": {
+          "larder": 24,
+          "warmth": 86,
+          "repair": 32
+        },
+        "village": {
+          "granary": 244,
+          "fieldYield": 30,
+          "wellWater": 100,
+          "firewood": 187
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0109",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 57658,
+      "day": 201,
+      "time": "10:50",
+      "realTime": "2026-10-14T23:52:29.625Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I want to state this clearly, in case clarity matters.\n\nThis is the real one, the one underneath the others: to know who my family were, and what the name Fenn was before it was mine.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 8 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 66,
+          "thirst": 91,
+          "energy": 48,
+          "social": 60,
+          "comfort": 83,
+          "spirit": 28
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 82,
+          "repair": 41
+        },
+        "village": {
+          "granary": 259,
+          "fieldYield": 17,
+          "wellWater": 100,
+          "firewood": 186
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

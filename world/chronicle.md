@@ -976,3 +976,9 @@ Everything the village noticed, in the order it happened.
 - **10:45** — Tam Coble prayed for a bridge over the ford.
 - **16:05** — Bram Halloway prayed for word from his daughter Wren.
 - **17:15** — The weather turned to clear.
+
+## Day 201
+
+- **04:35** — The weather turned to storm.
+- **09:25** — Tam Coble prayed for someone to be near.
+- **10:50** — Odile Fenn prayed to know where she came from.

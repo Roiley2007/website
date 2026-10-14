@@ -1117,3 +1117,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:05** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
 - **17:35** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 201
+
+- **05:10** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **09:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **10:50** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.

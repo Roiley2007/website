@@ -1016,3 +1016,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **08:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **14:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **16:05** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 201
+
+- **07:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
