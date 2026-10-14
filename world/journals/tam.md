@@ -937,3 +937,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 196
 
 - **12:30** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.

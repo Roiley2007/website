@@ -991,3 +991,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 196
 
 - **15:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
