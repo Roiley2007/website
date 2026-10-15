@@ -1140,3 +1140,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 204
 
 - **06:50** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 205
+
+- **07:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.

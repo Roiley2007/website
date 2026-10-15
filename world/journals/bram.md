@@ -1033,3 +1033,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **13:30** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **17:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:20** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 205
+
+- **04:40** _(ordinary)_ — Ate at home. The larder is down to 23.
+- **07:05** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
