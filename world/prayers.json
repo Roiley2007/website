@@ -4795,6 +4795,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0110",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 57682,
+      "day": 201,
+      "time": "12:50",
+      "realTime": "2026-10-15T04:25:41.362Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have brought this to you before, so I will be brief.\n\nThis is the real one, the one underneath the others: books, or anyone at all in this village who can read what I write.\n\nI have asked you this 8 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 96,
+          "thirst": 81,
+          "energy": 38,
+          "social": 57,
+          "comfort": 80,
+          "spirit": 47
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 80,
+          "repair": 39
+        },
+        "village": {
+          "granary": 273,
+          "fieldYield": 8,
+          "wellWater": 100,
+          "firewood": 185
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0111",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 57864,
+      "day": 202,
+      "time": "04:00",
+      "realTime": "2026-10-15T04:25:41.405Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for a plough that holds together for one whole season.\n\nI have asked you this 8 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 67,
+          "thirst": 50,
+          "energy": 86,
+          "social": 67,
+          "comfort": 81,
+          "spirit": 35
+        },
+        "house": {
+          "larder": 11,
+          "warmth": 89,
+          "repair": 16
+        },
+        "village": {
+          "granary": 291,
+          "fieldYield": 21,
+          "wellWater": 98,
+          "firewood": 184
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

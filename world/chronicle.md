@@ -982,3 +982,11 @@ Everything the village noticed, in the order it happened.
 - **04:35** — The weather turned to storm.
 - **09:25** — Tam Coble prayed for someone to be near.
 - **10:50** — Odile Fenn prayed to know where she came from.
+- **12:50** — Odile Fenn prayed for books, and someone who can read them.
+- **20:05** — A storm took shingles off one of the houses in the night.
+- **22:15** — The weather turned to cloudy.
+
+## Day 202
+
+- **04:00** — Bram Halloway prayed for a plough that holds together.
+- **05:05** — The weather turned to rain.
