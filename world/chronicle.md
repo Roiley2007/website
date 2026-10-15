@@ -994,3 +994,8 @@ Everything the village noticed, in the order it happened.
 ## Day 203
 
 - **09:05** — The weather turned to clear.
+
+## Day 204
+
+- **04:00** — The weather turned to cloudy.
+- **10:45** — Tam Coble prayed for a proper set of iron tools.

@@ -1136,3 +1136,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **06:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 204
+
+- **06:50** _(ordinary)_ — Ate at home. The larder is down to 22.
