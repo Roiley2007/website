@@ -1027,3 +1027,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:00** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
 - **05:30** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **14:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

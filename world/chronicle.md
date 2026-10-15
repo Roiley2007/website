@@ -990,3 +990,7 @@ Everything the village noticed, in the order it happened.
 
 - **04:00** — Bram Halloway prayed for a plough that holds together.
 - **05:05** — The weather turned to rain.
+
+## Day 203
+
+- **09:05** — The weather turned to clear.
