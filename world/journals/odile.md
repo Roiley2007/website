@@ -1148,3 +1148,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **07:30** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **09:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 206
+
+- **08:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
