@@ -1166,3 +1166,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **16:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 210
+
+- **03:45** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.

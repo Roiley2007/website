@@ -5103,6 +5103,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0117",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 60165,
+      "day": 210,
+      "time": "03:45",
+      "realTime": "2026-10-16T17:57:42.021Z",
+      "desire": {
+        "kind": "longing",
+        "id": "lantern",
+        "text": "a lantern that holds a flame in wind, so the well can be tended after dark"
+      },
+      "title": "for a lantern that holds a flame",
+      "selfTitle": "for a lantern that holds a flame",
+      "text": "I want to state this clearly, in case clarity matters.\n\nI am asking for a lantern that holds a flame in wind, so the well can be tended after dark.\n\nI have asked you this 8 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 46,
+          "energy": 89,
+          "social": 69,
+          "comfort": 60,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 22,
+          "warmth": 89,
+          "repair": 31
+        },
+        "village": {
+          "granary": 255,
+          "fieldYield": 60,
+          "wellWater": 100,
+          "firewood": 128
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
