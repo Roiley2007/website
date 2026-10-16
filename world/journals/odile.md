@@ -1152,3 +1152,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 206
 
 - **08:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 207
+
+- **14:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **18:20** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
