@@ -1056,3 +1056,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 209
 
 - **08:40** _(ordinary)_ — Ate at home. The larder is down to 23.
+- **12:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **16:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **21:50** _(loneliness)_ — Waited at the square a while. Nobody came by.

@@ -1023,3 +1023,7 @@ Everything the village noticed, in the order it happened.
 - **09:45** — A storm took shingles off one of the houses in the night.
 - **11:30** — Tam Coble prayed to be lifted.
 - **13:45** — Bram Halloway prayed to be lifted.
+
+## Day 209
+
+- **19:20** — The weather turned to cloudy.
