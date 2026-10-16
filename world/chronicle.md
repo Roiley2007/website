@@ -1020,3 +1020,6 @@ Everything the village noticed, in the order it happened.
 
 - **07:05** — Tam Coble prayed for rest.
 - **07:50** — The weather turned to storm.
+- **09:45** — A storm took shingles off one of the houses in the night.
+- **11:30** — Tam Coble prayed to be lifted.
+- **13:45** — Bram Halloway prayed to be lifted.
