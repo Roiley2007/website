@@ -1161,3 +1161,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 208
 
 - **05:05** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 209
+
+- **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

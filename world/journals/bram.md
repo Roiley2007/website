@@ -1052,3 +1052,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **13:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 209
+
+- **08:40** _(ordinary)_ — Ate at home. The larder is down to 23.
