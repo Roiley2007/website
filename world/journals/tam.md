@@ -1016,3 +1016,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **08:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **10:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **20:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 211
+
+- **05:20** _(ordinary)_ — Ate at home. The larder is down to 12.

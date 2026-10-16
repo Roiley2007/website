@@ -1031,3 +1031,7 @@ Everything the village noticed, in the order it happened.
 ## Day 210
 
 - **03:45** — Odile Fenn prayed for a lantern that holds a flame.
+
+## Day 211
+
+- **01:50** — The weather turned to rain.

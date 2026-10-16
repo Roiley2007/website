@@ -1063,3 +1063,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 210
 
 - **11:00** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 211
+
+- **04:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
