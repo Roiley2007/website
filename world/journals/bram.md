@@ -1043,3 +1043,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:40** _(ordinary)_ — Ate at home. The larder is down to 23.
 - **07:05** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
 - **08:20** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 206
+
+- **18:30** _(ordinary)_ — Ate at home. The larder is down to 5.

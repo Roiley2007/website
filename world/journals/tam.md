@@ -990,3 +990,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 206
 
 - **14:55** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 207
+
+- **04:05** _(rest)_ — Slept well enough. The house was warm.

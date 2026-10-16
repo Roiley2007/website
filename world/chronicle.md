@@ -1009,3 +1009,8 @@ Everything the village noticed, in the order it happened.
 ## Day 206
 
 - **05:35** — The weather turned to rain.
+
+## Day 207
+
+- **01:40** — The weather turned to storm.
+- **05:55** — A storm took shingles off one of the houses in the night.
