@@ -4971,6 +4971,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0114",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 59629,
+      "day": 208,
+      "time": "07:05",
+      "realTime": "2026-10-16T09:07:40.720Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "So I have an idea, and I need one thing for it.\n\nI cannot sleep properly and I have not for 128 days. I am rested and it is making me stupid and slow.\n\nI have asked you this once before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 62,
+          "thirst": 37,
+          "energy": 88,
+          "social": 57,
+          "comfort": 49,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 89,
+          "repair": 28
+        },
+        "village": {
+          "granary": 276,
+          "fieldYield": 18,
+          "wellWater": 98,
+          "firewood": 184
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

@@ -1047,3 +1047,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 206
 
 - **18:30** _(ordinary)_ — Ate at home. The larder is down to 5.
+
+## Day 208
+
+- **07:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

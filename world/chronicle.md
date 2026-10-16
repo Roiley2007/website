@@ -1015,3 +1015,8 @@ Everything the village noticed, in the order it happened.
 - **01:40** — The weather turned to storm.
 - **05:55** — A storm took shingles off one of the houses in the night.
 - **19:05** — The weather turned to cloudy.
+
+## Day 208
+
+- **07:05** — Tam Coble prayed for rest.
+- **07:50** — The weather turned to storm.
