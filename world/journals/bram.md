@@ -1072,3 +1072,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 212
 
 - **13:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 213
+
+- **07:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **09:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

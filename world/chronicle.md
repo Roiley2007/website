@@ -1041,3 +1041,7 @@ Everything the village noticed, in the order it happened.
 
 - **03:10** — The weather turned to clear.
 - **14:10** — The weather turned to cloudy.
+
+## Day 213
+
+- **05:10** — The weather turned to storm.
