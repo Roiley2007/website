@@ -1200,3 +1200,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 214
 
 - **03:25** _(rest)_ — A whole night, unbroken. Rare.
+- **08:55** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.

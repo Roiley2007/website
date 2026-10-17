@@ -1050,3 +1050,5 @@ Everything the village noticed, in the order it happened.
 ## Day 214
 
 - **03:50** — The weather turned to cloudy.
+- **12:55** — The weather turned to storm.
+- **21:00** — A storm took shingles off one of the houses in the night.
