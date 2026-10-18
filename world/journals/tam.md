@@ -1041,3 +1041,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 216
 
 - **04:25** _(rest)_ — Slept well enough. The house was warm.
+- **16:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
