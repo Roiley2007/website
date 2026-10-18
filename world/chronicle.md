@@ -1060,3 +1060,7 @@ Everything the village noticed, in the order it happened.
 ## Day 216
 
 - **15:55** — The weather turned to cloudy.
+
+## Day 217
+
+- **08:10** — The weather turned to storm.
