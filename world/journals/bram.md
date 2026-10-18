@@ -1107,3 +1107,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 219
 
 - **06:15** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+
+## Day 220
+
+- **10:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **11:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
