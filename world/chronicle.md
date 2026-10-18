@@ -1064,3 +1064,4 @@ Everything the village noticed, in the order it happened.
 ## Day 217
 
 - **08:10** — The weather turned to storm.
+- **16:35** — A storm took shingles off one of the houses in the night.
