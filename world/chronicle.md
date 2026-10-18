@@ -1075,3 +1075,5 @@ Everything the village noticed, in the order it happened.
 ## Day 219
 
 - **04:25** — The weather turned to cloudy.
+- **13:40** — Odile Fenn prayed to be lifted.
+- **19:10** — The weather turned to storm.

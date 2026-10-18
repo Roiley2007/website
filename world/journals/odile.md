@@ -1225,3 +1225,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 219
 
 - **04:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **13:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **17:15** _(loneliness)_ — Waited at the square a while. Nobody came by.

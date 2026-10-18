@@ -5191,6 +5191,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0119",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 62876,
+      "day": 219,
+      "time": "13:40",
+      "realTime": "2026-10-18T17:30:46.145Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 8 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 8,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 75,
+          "energy": 27,
+          "social": 59,
+          "comfort": 47,
+          "spirit": 27
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 82,
+          "repair": 42
+        },
+        "village": {
+          "granary": 287,
+          "fieldYield": 0,
+          "wellWater": 100,
+          "firewood": 182
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
