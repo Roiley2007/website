@@ -1231,3 +1231,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 220
 
 - **07:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 221
+
+- **06:35** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
