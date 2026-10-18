@@ -1049,3 +1049,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **07:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **10:50** _(ordinary)_ — Ate at home. The larder is down to 6.
 - **12:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 219
+
+- **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **08:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

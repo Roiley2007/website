@@ -1103,3 +1103,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:45** _(rest)_ — A whole night, unbroken. Rare.
 - **13:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 219
+
+- **06:15** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
