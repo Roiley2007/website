@@ -1214,3 +1214,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **14:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **16:35** _(work)_ — Water is a little lower than last week. Noted it.
+- **17:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 218
+
+- **06:20** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
+- **09:35** _(ordinary)_ — Ate at home. The larder is down to 22.

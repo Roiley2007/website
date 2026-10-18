@@ -1094,3 +1094,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **10:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **14:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **18:10** _(rest)_ — A whole night, unbroken. Rare.
+- **19:10** _(rest)_ — A whole night, unbroken. Rare.
+- **20:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 218
+
+- **04:45** _(rest)_ — A whole night, unbroken. Rare.
+- **13:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

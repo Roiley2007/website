@@ -1065,3 +1065,8 @@ Everything the village noticed, in the order it happened.
 
 - **08:10** — The weather turned to storm.
 - **16:35** — A storm took shingles off one of the houses in the night.
+- **21:40** — The weather turned to cloudy.
+
+## Day 218
+
+- **06:20** — Odile Fenn prayed for rest.
