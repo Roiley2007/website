@@ -1117,3 +1117,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **08:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **18:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 222
+
+- **07:25** _(ordinary)_ — Ate at home. The larder is down to 5.
+- **08:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

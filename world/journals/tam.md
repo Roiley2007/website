@@ -1058,3 +1058,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 221
 
 - **18:05** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 222
+
+- **08:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
