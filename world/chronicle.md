@@ -1081,3 +1081,7 @@ Everything the village noticed, in the order it happened.
 ## Day 220
 
 - **15:15** — The weather turned to rain.
+
+## Day 221
+
+- **12:55** — The weather turned to clear.
