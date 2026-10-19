@@ -1127,3 +1127,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **08:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **11:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 224
+
+- **16:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 225
+
+- **04:30** _(rest)_ — Slept well enough. The house was warm.
+- **09:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **11:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

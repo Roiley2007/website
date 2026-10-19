@@ -1095,3 +1095,10 @@ Everything the village noticed, in the order it happened.
 ## Day 224
 
 - **15:45** — The weather turned to storm.
+- **17:15** — A storm took shingles off one of the houses in the night.
+
+## Day 225
+
+- **01:30** — A storm took shingles off one of the houses in the night.
+- **07:35** — A storm took shingles off one of the houses in the night.
+- **08:50** — The weather turned to clear.

@@ -1068,3 +1068,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **08:10** _(ordinary)_ — Ate at home. The larder is down to 24.
+
+## Day 225
+
+- **08:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
