@@ -1137,3 +1137,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:30** _(rest)_ — Slept well enough. The house was warm.
 - **09:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **11:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **20:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 226
+
+- **05:50** _(rest)_ — Slept well enough. The house was warm.

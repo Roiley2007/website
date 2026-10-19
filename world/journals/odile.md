@@ -1256,3 +1256,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 225
 
 - **09:40** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 226
+
+- **07:00** _(ordinary)_ — Ate at home. The larder is down to 10.

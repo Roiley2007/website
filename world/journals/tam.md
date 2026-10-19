@@ -1072,3 +1072,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 225
 
 - **08:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 226
+
+- **03:10** _(rest)_ — A whole night, unbroken. Rare.
