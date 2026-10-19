@@ -1085,3 +1085,9 @@ Everything the village noticed, in the order it happened.
 ## Day 221
 
 - **12:55** — The weather turned to clear.
+
+## Day 223
+
+- **01:25** — The weather turned to cloudy.
+- **13:35** — The weather turned to clear.
+- **22:55** — The weather turned to cloudy.

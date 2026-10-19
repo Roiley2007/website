@@ -1063,3 +1063,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **08:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **22:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 223
+
+- **06:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **08:10** _(ordinary)_ — Ate at home. The larder is down to 24.

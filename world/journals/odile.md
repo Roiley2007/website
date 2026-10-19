@@ -1239,3 +1239,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 222
 
 - **16:55** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 223
+
+- **05:40** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **21:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 224
+
+- **05:30** _(rest)_ — Slept well enough. The house was warm.
+- **08:10** _(loneliness)_ — Waited at the square a while. Nobody came by.

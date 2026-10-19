@@ -1122,3 +1122,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:25** _(ordinary)_ — Ate at home. The larder is down to 5.
 - **08:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 223
+
+- **08:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **11:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
