@@ -5411,6 +5411,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0124",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 66237,
+      "day": 231,
+      "time": "05:45",
+      "realTime": "2026-10-20T23:51:42.227Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I want to state this clearly, in case clarity matters.\n\nWhat I want is books, or anyone at all in this village who can read what I write. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 9 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 41,
+          "thirst": 38,
+          "energy": 88,
+          "social": 54,
+          "comfort": 51,
+          "spirit": 26
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 88,
+          "repair": 32
+        },
+        "village": {
+          "granary": 110,
+          "fieldYield": 8,
+          "wellWater": 100,
+          "firewood": 136
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

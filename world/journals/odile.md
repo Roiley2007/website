@@ -1282,3 +1282,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **08:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **09:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **16:45** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+
+## Day 231
+
+- **05:45** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **08:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
