@@ -1266,3 +1266,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 227
 
 - **07:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 228
+
+- **14:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
