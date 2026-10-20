@@ -5279,6 +5279,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0121",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 65971,
+      "day": 230,
+      "time": "07:35",
+      "realTime": "2026-10-20T20:33:58.744Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I said I would not come back here.\n\nWhat I want is word from my daughter Wren, whether she is alive and whether she is well. I have wanted it long enough that it has stopped feeling like wanting.\n\nYou should know this about me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 9 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 80,
+          "energy": 79,
+          "social": 47,
+          "comfort": 45,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 23,
+          "warmth": 87,
+          "repair": 36
+        },
+        "village": {
+          "granary": 114,
+          "fieldYield": 10,
+          "wellWater": 99,
+          "firewood": 129
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0122",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 66052,
+      "day": 230,
+      "time": "14:20",
+      "realTime": "2026-10-20T20:33:58.775Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "Hey. Hello. Is this how it goes?\n\nI am asking for somebody my own age, or a dog, or anything that wants to be near me.\n\nI have asked you this 9 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 59,
+          "thirst": 93,
+          "energy": 32,
+          "social": 66,
+          "comfort": 38,
+          "spirit": 21
+        },
+        "house": {
+          "larder": 30,
+          "warmth": 79,
+          "repair": 38
+        },
+        "village": {
+          "granary": 104,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 147
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

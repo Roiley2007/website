@@ -1121,3 +1121,9 @@ Everything the village noticed, in the order it happened.
 - **15:30** — The weather turned to cloudy.
 - **15:30** — Tam Coble prayed for a bridge over the ford.
 - **21:40** — The weather turned to clear.
+
+## Day 230
+
+- **07:35** — Bram Halloway prayed for word from his daughter Wren.
+- **14:15** — The weather turned to cloudy.
+- **14:20** — Tam Coble prayed for someone to be near.

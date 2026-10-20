@@ -1276,3 +1276,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **09:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **13:15** _(work)_ — Water is a little lower than last week. Noted it.
 - **19:35** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 230
+
+- **08:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **09:20** _(loneliness)_ — Waited at the square a while. Nobody came by.

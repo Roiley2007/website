@@ -1158,3 +1158,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 230
+
+- **07:35** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+- **12:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **15:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
