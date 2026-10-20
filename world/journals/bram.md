@@ -1153,3 +1153,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 228
 
 - **10:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 229
+
+- **07:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

@@ -1270,3 +1270,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 228
 
 - **14:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 229
+
+- **09:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **13:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.

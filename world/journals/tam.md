@@ -1081,3 +1081,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 227
 
 - **15:55** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 229
+
+- **04:45** _(rest)_ — A whole night, unbroken. Rare.
+- **07:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **12:30** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **15:30** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.

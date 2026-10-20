@@ -1114,3 +1114,10 @@ Everything the village noticed, in the order it happened.
 ## Day 228
 
 - **11:30** — The weather turned to rain.
+
+## Day 229
+
+- **04:25** — The weather turned to clear.
+- **15:30** — The weather turned to cloudy.
+- **15:30** — Tam Coble prayed for a bridge over the ford.
+- **21:40** — The weather turned to clear.
