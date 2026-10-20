@@ -1093,3 +1093,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **04:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **14:20** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+- **20:35** _(work)_ — Cut and split until my arms went. Good pile.

@@ -5367,6 +5367,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0123",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 66081,
+      "day": 230,
+      "time": "16:45",
+      "realTime": "2026-10-20T21:32:03.314Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I have brought this to you before, so I will be brief.\n\nThis is the real one, the one underneath the others: to know who my family were, and what the name Fenn was before it was mine.\n\nI remembered this on the way here: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 9 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 64,
+          "energy": 14,
+          "social": 62,
+          "comfort": 38,
+          "spirit": 17
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 76,
+          "repair": 35
+        },
+        "village": {
+          "granary": 104,
+          "fieldYield": 3,
+          "wellWater": 100,
+          "firewood": 147
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
