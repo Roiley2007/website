@@ -1183,3 +1183,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 234
 
 - **13:15** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **21:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 235
+
+- **07:10** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.

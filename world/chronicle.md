@@ -1144,3 +1144,10 @@ Everything the village noticed, in the order it happened.
 ## Day 234
 
 - **13:15** — Bram Halloway prayed for rain on the eastern field.
+- **13:50** — A storm took shingles off one of the houses in the night.
+- **20:40** — A storm took shingles off one of the houses in the night.
+
+## Day 235
+
+- **00:45** — The weather turned to clear.
+- **07:10** — Bram Halloway prayed for rest.

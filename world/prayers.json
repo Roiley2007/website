@@ -5587,6 +5587,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0128",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 67406,
+      "day": 235,
+      "time": "07:10",
+      "realTime": "2026-10-21T18:59:05.023Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "I said I would not come back here.\n\nI cannot sleep properly and I have not for 74 days. I am rested and it is making me stupid and slow.\n\nI have asked you this 3 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 3,
+      "context": {
+        "needs": {
+          "hunger": 47,
+          "thirst": 71,
+          "energy": 85,
+          "social": 35,
+          "comfort": 25,
+          "spirit": 20
+        },
+        "house": {
+          "larder": 23,
+          "warmth": 88,
+          "repair": 4
+        },
+        "village": {
+          "granary": 43,
+          "fieldYield": 12,
+          "wellWater": 97,
+          "firewood": 93
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
