@@ -5543,6 +5543,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0127",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 67191,
+      "day": 234,
+      "time": "13:15",
+      "realTime": "2026-10-21T15:13:27.479Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I said I would not come back here.\n\nWhat I want is rain on the eastern field before the seed dies in it. I have wanted it long enough that it has stopped feeling like wanting.\n\nFor what it is worth: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 9 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 60,
+          "thirst": 60,
+          "energy": 34,
+          "social": 56,
+          "comfort": 23,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 29,
+          "warmth": 76,
+          "repair": 25
+        },
+        "village": {
+          "granary": 38,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 107
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

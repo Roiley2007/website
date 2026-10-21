@@ -1140,3 +1140,7 @@ Everything the village noticed, in the order it happened.
 
 - **15:30** — Tam Coble prayed for a proper set of iron tools.
 - **23:45** — The weather turned to storm.
+
+## Day 234
+
+- **13:15** — Bram Halloway prayed for rain on the eastern field.
