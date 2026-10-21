@@ -1164,3 +1164,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:35** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
 - **12:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **15:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 231
+
+- **10:35** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **17:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **20:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
