@@ -1151,3 +1151,4 @@ Everything the village noticed, in the order it happened.
 
 - **00:45** — The weather turned to clear.
 - **07:10** — Bram Halloway prayed for rest.
+- **10:40** — The weather turned to cloudy.

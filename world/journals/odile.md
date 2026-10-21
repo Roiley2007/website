@@ -1297,3 +1297,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 234
 
 - **06:15** _(ordinary)_ — Ate at home. The larder is down to 16.
+
+## Day 235
+
+- **09:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **10:35** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
