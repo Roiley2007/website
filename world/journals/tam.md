@@ -1141,3 +1141,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 240
 
 - **09:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **15:50** _(hardship)_ — Went to the store for grain. There was nothing worth carrying home.
