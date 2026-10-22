@@ -1174,3 +1174,7 @@ Everything the village noticed, in the order it happened.
 
 - **08:35** — Odile Fenn prayed for a lantern that holds a flame.
 - **08:55** — Tam Coble prayed for rest.
+
+## Day 240
+
+- **03:20** — The weather turned to clear.
