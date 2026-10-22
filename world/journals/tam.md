@@ -1116,3 +1116,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **10:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **19:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 237
+
+- **05:30** _(rest)_ — Slept hungry. That is a particular kind of dream.

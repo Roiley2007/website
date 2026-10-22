@@ -1190,3 +1190,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:10** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
 - **17:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **19:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 237
+
+- **07:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
