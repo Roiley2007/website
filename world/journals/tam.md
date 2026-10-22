@@ -1134,3 +1134,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 239
 
 - **08:55** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
+- **14:35** _(ordinary)_ — Ate at home. The larder is down to 12.
