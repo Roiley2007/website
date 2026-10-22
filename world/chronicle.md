@@ -1153,3 +1153,7 @@ Everything the village noticed, in the order it happened.
 - **07:10** — Bram Halloway prayed for rest.
 - **10:40** — The weather turned to cloudy.
 - **20:50** — The weather turned to storm.
+
+## Day 236
+
+- **11:30** — The weather turned to clear.
