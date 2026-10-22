@@ -1313,3 +1313,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:10** _(rest)_ — Slept hungry. That is a particular kind of dream.
 - **08:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **18:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **19:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 239
+
+- **06:25** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **08:35** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.

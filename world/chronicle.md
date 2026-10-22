@@ -1168,3 +1168,9 @@ Everything the village noticed, in the order it happened.
 ## Day 238
 
 - **03:00** — The weather turned to clear.
+- **14:00** — The weather turned to rain.
+
+## Day 239
+
+- **08:35** — Odile Fenn prayed for a lantern that holds a flame.
+- **08:55** — Tam Coble prayed for rest.

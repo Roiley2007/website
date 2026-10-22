@@ -5719,6 +5719,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0131",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 68575,
+      "day": 239,
+      "time": "08:35",
+      "realTime": "2026-10-22T15:16:20.034Z",
+      "desire": {
+        "kind": "longing",
+        "id": "lantern",
+        "text": "a lantern that holds a flame in wind, so the well can be tended after dark"
+      },
+      "title": "for a lantern that holds a flame",
+      "selfTitle": "for a lantern that holds a flame",
+      "text": "I have brought this to you before, so I will be brief.\n\nThis is the real one, the one underneath the others: a lantern that holds a flame in wind, so the well can be tended after dark.\n\nI have asked you this 9 times before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 61,
+          "thirst": 77,
+          "energy": 75,
+          "social": 30,
+          "comfort": 15,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 85,
+          "repair": 20
+        },
+        "village": {
+          "granary": 0,
+          "fieldYield": 16,
+          "wellWater": 100,
+          "firewood": 46
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0132",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 68579,
+      "day": 239,
+      "time": "08:55",
+      "realTime": "2026-10-22T15:16:20.035Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "It's Tam. Again. Sorry.\n\nI am asking for rest. A bed that is not this bed. A night that is not this night.\n\nI have asked you this 2 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 70,
+          "thirst": 76,
+          "energy": 76,
+          "social": 31,
+          "comfort": 11,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 86,
+          "repair": 20
+        },
+        "village": {
+          "granary": 0,
+          "fieldYield": 17,
+          "wellWater": 100,
+          "firewood": 46
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

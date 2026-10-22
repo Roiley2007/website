@@ -1129,3 +1129,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 238
 
 - **12:50** _(ordinary)_ — Ate at home. The larder is down to 24.
+- **16:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 239
+
+- **08:55** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
