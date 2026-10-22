@@ -1194,3 +1194,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 237
 
 - **07:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **19:55** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

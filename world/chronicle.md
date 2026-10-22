@@ -1161,3 +1161,10 @@ Everything the village noticed, in the order it happened.
 ## Day 237
 
 - **00:35** — The weather turned to rain.
+- **14:45** — The weather turned to storm.
+- **16:20** — Tam Coble prayed to be lifted.
+- **19:55** — Bram Halloway prayed to be lifted.
+
+## Day 238
+
+- **03:00** — The weather turned to clear.

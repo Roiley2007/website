@@ -1122,3 +1122,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:30** _(rest)_ — Slept hungry. That is a particular kind of dream.
 - **10:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **14:45** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **16:20** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **17:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
