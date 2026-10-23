@@ -1153,3 +1153,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:30** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **13:05** _(work)_ — Cut and split until my arms went. Good pile.
+- **16:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
