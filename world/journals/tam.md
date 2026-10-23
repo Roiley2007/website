@@ -1156,3 +1156,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **16:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **18:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **19:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 244
+
+- **07:35** _(ordinary)_ — Ate at home. The larder is down to 12.
