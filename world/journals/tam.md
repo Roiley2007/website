@@ -1148,3 +1148,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:20** _(hardship)_ — Went to the store for grain. There was nothing worth carrying home.
 - **07:15** _(ordinary)_ — Ate at home. The larder is down to 0.
 - **11:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 242
+
+- **06:30** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
