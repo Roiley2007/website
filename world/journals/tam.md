@@ -1152,3 +1152,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 242
 
 - **06:30** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **13:05** _(work)_ — Cut and split until my arms went. Good pile.
