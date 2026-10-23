@@ -1233,3 +1233,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:15** _(rest)_ — A whole night, unbroken. Rare.
 - **07:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **08:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **17:15** _(work)_ — Turned the east rows. The soil is behaving.
