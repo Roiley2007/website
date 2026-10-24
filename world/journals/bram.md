@@ -1253,3 +1253,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:05** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
 - **08:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **12:15** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 248
+
+- **06:10** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **10:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
