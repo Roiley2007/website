@@ -1239,3 +1239,17 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **12:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 246
+
+- **17:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:45** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **20:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 247
+
+- **03:10** _(rest)_ — A whole night, unbroken. Rare.
+- **06:05** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **08:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **12:15** _(work)_ — Turned the east rows. The soil is behaving.

@@ -1347,3 +1347,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 246
 
 - **07:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:15** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

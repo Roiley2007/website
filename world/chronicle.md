@@ -1198,3 +1198,8 @@ Everything the village noticed, in the order it happened.
 ## Day 246
 
 - **07:45** — The weather turned to storm.
+- **23:25** — A storm took shingles off one of the houses in the night.
+
+## Day 247
+
+- **04:40** — The weather turned to cloudy.
