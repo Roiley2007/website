@@ -1365,3 +1365,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:05** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **14:35** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **20:35** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 250
+
+- **04:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **06:10** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **07:25** _(loneliness)_ — Waited at the square a while. Nobody came by.

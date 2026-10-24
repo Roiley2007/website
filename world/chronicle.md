@@ -1214,3 +1214,9 @@ Everything the village noticed, in the order it happened.
 - **10:15** — A storm took shingles off one of the houses in the night.
 - **12:00** — The weather turned to rain.
 - **23:55** — The weather turned to clear.
+
+## Day 250
+
+- **05:20** — The weather turned to storm.
+- **07:20** — A storm took shingles off one of the houses in the night.
+- **09:55** — A storm took shingles off one of the houses in the night.
