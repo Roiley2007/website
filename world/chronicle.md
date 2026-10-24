@@ -1220,3 +1220,7 @@ Everything the village noticed, in the order it happened.
 - **05:20** — The weather turned to storm.
 - **07:20** — A storm took shingles off one of the houses in the night.
 - **09:55** — A storm took shingles off one of the houses in the night.
+
+## Day 251
+
+- **02:45** — The weather turned to rain.
