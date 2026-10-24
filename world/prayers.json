@@ -5807,6 +5807,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0133",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 71419,
+      "day": 249,
+      "time": "05:35",
+      "realTime": "2026-10-24T14:30:41.515Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nI have asked you this 9 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 9,
+      "context": {
+        "needs": {
+          "hunger": 39,
+          "thirst": 34,
+          "energy": 88,
+          "social": 66,
+          "comfort": 70,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 28,
+          "warmth": 89,
+          "repair": 31
+        },
+        "village": {
+          "granary": 219,
+          "fieldYield": 32,
+          "wellWater": 100,
+          "firewood": 94
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

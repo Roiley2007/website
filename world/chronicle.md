@@ -1203,3 +1203,11 @@ Everything the village noticed, in the order it happened.
 ## Day 247
 
 - **04:40** — The weather turned to cloudy.
+
+## Day 248
+
+- **21:10** — The weather turned to storm.
+
+## Day 249
+
+- **05:35** — Odile Fenn prayed to be lifted.

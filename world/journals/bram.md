@@ -1258,3 +1258,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:10** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
 - **10:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 249
+
+- **04:30** _(rest)_ — A whole night, unbroken. Rare.
