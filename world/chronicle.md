@@ -1211,3 +1211,6 @@ Everything the village noticed, in the order it happened.
 ## Day 249
 
 - **05:35** — Odile Fenn prayed to be lifted.
+- **10:15** — A storm took shingles off one of the houses in the night.
+- **12:00** — The weather turned to rain.
+- **23:55** — The weather turned to clear.
