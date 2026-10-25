@@ -1285,3 +1285,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 253
 
 - **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **15:15** _(work)_ — Turned the east rows. The soil is behaving.
