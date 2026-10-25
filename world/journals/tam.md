@@ -1185,3 +1185,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 252
 
 - **07:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 253
+
+- **06:50** _(ordinary)_ — Ate at home. The larder is down to 12.

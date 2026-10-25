@@ -1276,3 +1276,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **16:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **17:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 252
+
+- **19:10** _(rest)_ — Slept well enough. The house was warm.
+- **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 253
+
+- **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
