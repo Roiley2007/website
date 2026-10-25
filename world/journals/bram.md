@@ -1290,3 +1290,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **19:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 254
+
+- **15:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

@@ -1237,3 +1237,4 @@ Everything the village noticed, in the order it happened.
 ## Day 254
 
 - **01:00** — The weather turned to storm.
+- **07:50** — The weather turned to rain.
