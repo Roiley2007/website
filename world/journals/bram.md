@@ -1302,3 +1302,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 255
 
 - **09:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
