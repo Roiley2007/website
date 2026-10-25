@@ -1294,3 +1294,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 254
 
 - **15:25** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:35** _(rest)_ — A whole night, unbroken. Rare.
+- **17:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:20** _(rest)_ — A whole night, unbroken. Rare.

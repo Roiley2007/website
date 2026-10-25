@@ -1385,3 +1385,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 254
 
 - **03:35** _(rest)_ — A whole night, unbroken. Rare.
+- **18:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
