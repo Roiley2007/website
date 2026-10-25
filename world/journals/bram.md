@@ -1298,3 +1298,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **17:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:35** _(rest)_ — Slept well enough. The house was warm.
 - **19:20** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 255
+
+- **09:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
