@@ -1224,3 +1224,8 @@ Everything the village noticed, in the order it happened.
 ## Day 251
 
 - **02:45** — The weather turned to rain.
+- **21:50** — The weather turned to cloudy.
+
+## Day 252
+
+- **08:05** — The weather turned to rain.

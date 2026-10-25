@@ -1181,3 +1181,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **11:35** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 252
+
+- **07:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
