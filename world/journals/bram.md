@@ -1287,3 +1287,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **11:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **15:15** _(work)_ — Turned the east rows. The soil is behaving.
+- **18:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **19:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
