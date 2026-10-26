@@ -5851,6 +5851,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0134",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 74312,
+      "day": 259,
+      "time": "06:40",
+      "realTime": "2026-10-26T17:36:47.248Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "It's Tam. Again. Sorry.\n\nI am asking for a bridge over the ford, so that it never takes anybody else.\n\nFor what it is worth: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 10 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 47,
+          "thirst": 45,
+          "energy": 88,
+          "social": 49,
+          "comfort": 66,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 89,
+          "repair": 40
+        },
+        "village": {
+          "granary": 260,
+          "fieldYield": 26,
+          "wellWater": 100,
+          "firewood": 183
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0135",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 74399,
+      "day": 259,
+      "time": "13:55",
+      "realTime": "2026-10-26T17:36:47.268Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I said I would not come back here.\n\nI am asking for word from my daughter Wren, whether she is alive and whether she is well.\n\nI have asked you this 10 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 86,
+          "thirst": 82,
+          "energy": 35,
+          "social": 56,
+          "comfort": 59,
+          "spirit": 20
+        },
+        "house": {
+          "larder": 13,
+          "warmth": 85,
+          "repair": 35
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 3,
+          "wellWater": 100,
+          "firewood": 199
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

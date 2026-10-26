@@ -1209,3 +1209,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **18:50** _(work)_ — Cut and split until my arms went. Good pile.
 - **21:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 259
+
+- **05:30** _(rest)_ — Slept well enough. The house was warm.
+- **06:40** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+- **09:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
