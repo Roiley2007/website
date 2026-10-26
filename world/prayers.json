@@ -6027,6 +6027,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0138",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 74665,
+      "day": 260,
+      "time": "12:05",
+      "realTime": "2026-10-26T21:50:57.314Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have brought this to you before, so I will be brief.\n\nI am asking for books, or anyone at all in this village who can read what I write.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 10 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 64,
+          "thirst": 63,
+          "energy": 38,
+          "social": 57,
+          "comfort": 70,
+          "spirit": 46
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 84,
+          "repair": 34
+        },
+        "village": {
+          "granary": 291,
+          "fieldYield": 19,
+          "wellWater": 100,
+          "firewood": 196
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0139",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 74711,
+      "day": 260,
+      "time": "15:55",
+      "realTime": "2026-10-26T21:50:57.325Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "It is Bram. The farmer. You know that.\n\nThis is the real one, the one underneath the others: a plough that holds together for one whole season.\n\nI have asked you this 10 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 80,
+          "thirst": 63,
+          "energy": 28,
+          "social": 64,
+          "comfort": 57,
+          "spirit": 28
+        },
+        "house": {
+          "larder": 1,
+          "warmth": 83,
+          "repair": 44
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 5,
+          "wellWater": 100,
+          "firewood": 200
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

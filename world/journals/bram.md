@@ -1324,3 +1324,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:55** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **09:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **13:55** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 260
+
+- **10:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **15:55** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.

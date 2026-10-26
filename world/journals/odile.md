@@ -1422,3 +1422,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:15** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
 - **07:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **12:05** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.
