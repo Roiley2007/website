@@ -5939,6 +5939,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0136",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 74571,
+      "day": 260,
+      "time": "04:15",
+      "realTime": "2026-10-26T19:17:11.510Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I have thought about how to ask this properly.\n\nI am asking for to know who my family were, and what the name Fenn was before it was mine.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 10 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 47,
+          "thirst": 44,
+          "energy": 88,
+          "social": 56,
+          "comfort": 81,
+          "spirit": 23
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 89,
+          "repair": 35
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 16,
+          "wellWater": 100,
+          "firewood": 192
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0137",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 74595,
+      "day": 260,
+      "time": "06:15",
+      "realTime": "2026-10-26T19:17:11.536Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "So I have an idea, and I need one thing for it.\n\nThis is the real one, the one underneath the others: somebody my own age, or a dog, or anything that wants to be near me.\n\nI have asked you this 10 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 49,
+          "thirst": 54,
+          "energy": 88,
+          "social": 62,
+          "comfort": 68,
+          "spirit": 24
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 89,
+          "repair": 41
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 21,
+          "wellWater": 98,
+          "firewood": 191
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
