@@ -1307,3 +1307,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 256
 
 - **09:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 257
+
+- **05:45** _(ordinary)_ — Ate at home. The larder is down to 13.
