@@ -1399,3 +1399,14 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **16:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:50** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 257
+
+- **18:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:50** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 258
+
+- **04:20** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

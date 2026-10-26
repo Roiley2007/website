@@ -1311,3 +1311,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 257
 
 - **05:45** _(ordinary)_ — Ate at home. The larder is down to 13.
+- **14:15** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 258
+
+- **03:10** _(rest)_ — A whole night, unbroken. Rare.
+- **07:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
