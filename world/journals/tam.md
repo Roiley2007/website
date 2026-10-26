@@ -1204,3 +1204,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 257
 
 - **03:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 258
+
+- **18:50** _(work)_ — Cut and split until my arms went. Good pile.
+- **21:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
