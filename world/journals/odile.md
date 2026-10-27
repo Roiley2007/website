@@ -1444,3 +1444,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 264
 
 - **09:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **20:45** _(ordinary)_ — Ate at home. The larder is down to 16.
