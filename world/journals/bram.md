@@ -1358,3 +1358,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:50** _(work)_ — Turned the east rows. The soil is behaving.
 - **16:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **17:00** _(rest)_ — A whole night, unbroken. Rare.
+- **17:10** _(rest)_ — Slept well enough. The house was warm.
