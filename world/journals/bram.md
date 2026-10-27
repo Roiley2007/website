@@ -1353,3 +1353,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:40** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
 - **06:10** _(ordinary)_ — Ate at home. The larder is down to 7.
 - **15:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 265
+
+- **09:50** _(work)_ — Turned the east rows. The soil is behaving.
+- **16:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.

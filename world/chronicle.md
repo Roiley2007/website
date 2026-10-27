@@ -1292,3 +1292,7 @@ Everything the village noticed, in the order it happened.
 - **04:40** — Bram Halloway prayed for rain on the eastern field.
 - **06:10** — A storm took shingles off one of the houses in the night.
 - **08:10** — The weather turned to clear.
+
+## Day 265
+
+- **14:15** — The weather turned to drought.
