@@ -1276,3 +1276,12 @@ Everything the village noticed, in the order it happened.
 ## Day 261
 
 - **11:00** — The weather turned to rain.
+
+## Day 262
+
+- **17:05** — The weather turned to drought.
+
+## Day 263
+
+- **04:30** — Tam Coble prayed for a proper set of iron tools.
+- **06:00** — The weather turned to rain.

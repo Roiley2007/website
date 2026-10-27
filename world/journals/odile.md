@@ -1430,3 +1430,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **11:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:00** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **18:45** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 262
+
+- **18:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 263
+
+- **04:40** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **09:55** _(work)_ — Water is a little lower than last week. Noted it.

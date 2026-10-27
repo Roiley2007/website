@@ -1336,3 +1336,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:40** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **16:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 262
+
+- **15:50** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 263
+
+- **09:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

@@ -6115,6 +6115,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0140",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 75438,
+      "day": 263,
+      "time": "04:30",
+      "realTime": "2026-10-27T10:31:19.927Z",
+      "desire": {
+        "kind": "longing",
+        "id": "tools",
+        "text": "a proper set of tools, iron ones, that do not bend when the wood is hard"
+      },
+      "title": "for a proper set of iron tools",
+      "selfTitle": "for a proper set of iron tools",
+      "text": "It's Tam. Again. Sorry.\n\nI am asking for a proper set of tools, iron ones, that do not bend when the wood is hard.\n\nI have asked you this 10 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 70,
+          "thirst": 33,
+          "energy": 88,
+          "social": 62,
+          "comfort": 72,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 90,
+          "repair": 41
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 14,
+          "wellWater": 92,
+          "firewood": 190
+        },
+        "weather": "drought",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
