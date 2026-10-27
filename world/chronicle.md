@@ -1272,3 +1272,7 @@ Everything the village noticed, in the order it happened.
 - **13:20** — The weather turned to rain.
 - **15:55** — Bram Halloway prayed for a plough that holds together.
 - **21:50** — The weather turned to storm.
+
+## Day 261
+
+- **11:00** — The weather turned to rain.
