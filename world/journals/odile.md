@@ -1424,3 +1424,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **12:05** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
 - **19:25** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 261
+
+- **11:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:00** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:45** _(rest)_ — A whole night, unbroken. Rare.
