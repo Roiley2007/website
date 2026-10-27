@@ -1344,3 +1344,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 263
 
 - **09:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
