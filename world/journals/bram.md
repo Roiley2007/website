@@ -1347,3 +1347,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:15** _(rest)_ — Slept well enough. The house was warm.
 - **19:00** _(rest)_ — A whole night, unbroken. Rare.
 - **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 264
+
+- **04:40** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **06:10** _(ordinary)_ — Ate at home. The larder is down to 7.
+- **15:00** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
