@@ -1460,3 +1460,15 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 267
 
 - **12:20** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 268
+
+- **04:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **12:25** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **13:30** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **20:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 269
+
+- **04:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **05:30** _(ordinary)_ — Ate at home. The larder is down to 4.

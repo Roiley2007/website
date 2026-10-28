@@ -1366,3 +1366,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **06:05** _(ordinary)_ — Ate at home. The larder is down to 1.
 - **20:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 268
+
+- **14:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **14:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 269
+
+- **02:45** _(rest)_ — Slept well enough. The house was warm.
