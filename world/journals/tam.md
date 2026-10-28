@@ -1258,3 +1258,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **04:55** _(rest)_ — Slept well enough. The house was warm.
 - **07:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **11:30** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 269
+
+- **06:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
