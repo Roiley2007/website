@@ -1477,3 +1477,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **15:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 270
+
+- **10:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **14:10** _(work)_ — Water is a little lower than last week. Noted it.
