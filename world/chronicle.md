@@ -1313,3 +1313,12 @@ Everything the village noticed, in the order it happened.
 - **02:35** — The weather turned to rain.
 - **13:30** — Odile Fenn prayed for a lantern that holds a flame.
 - **19:25** — The weather turned to clear.
+
+## Day 269
+
+- **15:10** — The weather turned to storm.
+
+## Day 270
+
+- **02:40** — A storm took shingles off one of the houses in the night.
+- **06:05** — The weather turned to cloudy.

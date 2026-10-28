@@ -1376,3 +1376,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 269
 
 - **02:45** _(rest)_ — Slept well enough. The house was warm.
+- **16:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 270
+
+- **03:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **06:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
