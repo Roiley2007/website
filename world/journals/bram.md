@@ -1365,3 +1365,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **06:05** _(ordinary)_ — Ate at home. The larder is down to 1.
+- **20:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
