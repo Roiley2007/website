@@ -1300,3 +1300,10 @@ Everything the village noticed, in the order it happened.
 ## Day 266
 
 - **08:45** — The weather turned to clear.
+- **19:20** — The weather turned to drought.
+
+## Day 267
+
+- **04:40** — Tam Coble prayed to be lifted.
+- **04:45** — Bram Halloway prayed to be lifted.
+- **16:50** — The weather turned to clear.

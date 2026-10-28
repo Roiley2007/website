@@ -1453,3 +1453,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 266
 
 - **14:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **17:30** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **19:30** _(work)_ — Water is a little lower than last week. Noted it.
+- **20:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 267
+
+- **12:20** _(work)_ — Water is a little lower than last week. Noted it.

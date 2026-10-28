@@ -1360,3 +1360,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **16:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:00** _(rest)_ — A whole night, unbroken. Rare.
 - **17:10** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 267
+
+- **04:45** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **06:05** _(ordinary)_ — Ate at home. The larder is down to 1.

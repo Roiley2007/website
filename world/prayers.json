@@ -6203,6 +6203,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0142",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 76592,
+      "day": 267,
+      "time": "04:40",
+      "realTime": "2026-10-28T07:31:42.106Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It's Tam. Again. Sorry.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this 10 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 64,
+          "thirst": 39,
+          "energy": 88,
+          "social": 64,
+          "comfort": 95,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 90,
+          "repair": 50
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 5,
+          "wellWater": 94,
+          "firewood": 192
+        },
+        "weather": "drought",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0143",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 76593,
+      "day": 267,
+      "time": "04:45",
+      "realTime": "2026-10-28T07:31:42.106Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I said I would not come back here.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI keep thinking about this: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 10 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 10,
+      "context": {
+        "needs": {
+          "hunger": 63,
+          "thirst": 77,
+          "energy": 85,
+          "social": 66,
+          "comfort": 92,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 89,
+          "repair": 40
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 5,
+          "wellWater": 94,
+          "firewood": 192
+        },
+        "weather": "drought",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
