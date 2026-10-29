@@ -1270,3 +1270,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **03:20** _(rest)_ — A whole night, unbroken. Rare.
 - **05:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **06:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:00** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 273
+
+- **06:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

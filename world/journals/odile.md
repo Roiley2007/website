@@ -1493,3 +1493,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:40** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **16:25** _(work)_ — Water is a little lower than last week. Noted it.
+- **17:35** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 273
+
+- **04:40** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **05:45** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
