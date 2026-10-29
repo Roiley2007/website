@@ -1284,3 +1284,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **18:45** _(rest)_ — Slept well enough. The house was warm.
 - **19:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 275
+
+- **14:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
