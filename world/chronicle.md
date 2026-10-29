@@ -1322,3 +1322,7 @@ Everything the village noticed, in the order it happened.
 
 - **02:40** — A storm took shingles off one of the houses in the night.
 - **06:05** — The weather turned to cloudy.
+
+## Day 271
+
+- **18:50** — The weather turned to drought.
