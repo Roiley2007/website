@@ -1326,3 +1326,7 @@ Everything the village noticed, in the order it happened.
 ## Day 271
 
 - **18:50** — The weather turned to drought.
+
+## Day 272
+
+- **13:45** — The weather turned to clear.

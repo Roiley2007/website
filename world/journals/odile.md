@@ -1488,3 +1488,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **17:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:45** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 272
+
+- **06:40** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **16:25** _(work)_ — Water is a little lower than last week. Noted it.
