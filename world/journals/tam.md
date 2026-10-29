@@ -1275,3 +1275,6 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 273
 
 - **06:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
