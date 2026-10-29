@@ -1482,3 +1482,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **10:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **14:10** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 271
+
+- **07:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
