@@ -1349,3 +1349,8 @@ Everything the village noticed, in the order it happened.
 ## Day 276
 
 - **08:40** — The weather turned to cloudy.
+
+## Day 277
+
+- **05:55** — The weather turned to rain.
+- **14:35** — The weather turned to cloudy.

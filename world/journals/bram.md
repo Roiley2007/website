@@ -1410,3 +1410,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **10:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **14:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **16:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **19:00** _(rest)_ — Slept well enough. The house was warm.
+- **19:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 277
+
+- **11:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **12:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
