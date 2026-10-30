@@ -1537,3 +1537,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 280
 
 - **02:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **13:25** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **16:45** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

@@ -1430,3 +1430,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:40** _(rest)_ — Slept well enough. The house was warm.
 - **18:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 280
+
+- **10:10** _(work)_ — Turned the east rows. The soil is behaving.
