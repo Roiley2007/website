@@ -1304,3 +1304,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:20** _(rest)_ — A whole night, unbroken. Rare.
 - **09:55** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 279
+
+- **10:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

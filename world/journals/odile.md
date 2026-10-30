@@ -1528,3 +1528,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **03:40** _(rest)_ — Slept well enough. The house was warm.
 - **10:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 279
+
+- **16:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **16:35** _(ordinary)_ — Ate at home. The larder is down to 22.
+
+## Day 280
+
+- **02:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.

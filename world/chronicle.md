@@ -1365,3 +1365,5 @@ Everything the village noticed, in the order it happened.
 ## Day 279
 
 - **02:50** — A storm took shingles off one of the houses in the night.
+- **07:00** — A storm took shingles off one of the houses in the night.
+- **18:00** — The weather turned to clear.
