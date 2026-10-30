@@ -1288,3 +1288,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 275
 
 - **14:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 276
+
+- **05:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

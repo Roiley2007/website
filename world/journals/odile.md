@@ -1508,3 +1508,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 274
 
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 276
+
+- **03:35** _(rest)_ — Slept well enough. The house was warm.

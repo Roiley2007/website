@@ -1403,3 +1403,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 274
 
 - **17:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 276
+
+- **05:10** _(ordinary)_ — Ate at home. The larder is down to 19.
+- **05:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **10:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
