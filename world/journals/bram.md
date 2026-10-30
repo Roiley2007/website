@@ -1419,3 +1419,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **11:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **12:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:20** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 278
+
+- **15:35** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 279
+
+- **03:40** _(rest)_ — Slept well enough. The house was warm.

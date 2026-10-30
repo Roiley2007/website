@@ -1354,3 +1354,14 @@ Everything the village noticed, in the order it happened.
 
 - **05:55** — The weather turned to rain.
 - **14:35** — The weather turned to cloudy.
+
+## Day 278
+
+- **04:30** — The weather turned to rain.
+- **10:30** — Odile Fenn prayed to be lifted.
+- **16:50** — The weather turned to drought.
+- **23:35** — The weather turned to storm.
+
+## Day 279
+
+- **02:50** — A storm took shingles off one of the houses in the night.
