@@ -1330,3 +1330,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **07:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **14:55** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 285
+
+- **03:30** _(rest)_ — A whole night, unbroken. Rare.
