@@ -1313,3 +1313,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **12:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **19:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 281
+
+- **18:25** _(rest)_ — A whole night, unbroken. Rare.
