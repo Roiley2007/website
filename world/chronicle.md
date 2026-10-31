@@ -1380,3 +1380,7 @@ Everything the village noticed, in the order it happened.
 ## Day 282
 
 - **16:30** — The weather turned to rain.
+
+## Day 283
+
+- **07:00** — The weather turned to storm.

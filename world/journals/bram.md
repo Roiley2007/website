@@ -1441,3 +1441,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **18:10** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 283
+
+- **10:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
