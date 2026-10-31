@@ -1556,3 +1556,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 283
 
 - **18:20** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 284
+
+- **06:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
