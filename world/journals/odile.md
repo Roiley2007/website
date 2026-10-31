@@ -1568,3 +1568,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:30** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
 - **13:15** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **20:20** _(loneliness)_ — Waited at the square a while. Nobody came by.

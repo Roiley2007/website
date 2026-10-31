@@ -1334,3 +1334,5 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 285
 
 - **03:30** _(rest)_ — A whole night, unbroken. Rare.
+- **18:05** _(rest)_ — A whole night, unbroken. Rare.
+- **18:45** _(rest)_ — A whole night, unbroken. Rare.
