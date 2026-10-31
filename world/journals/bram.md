@@ -1445,3 +1445,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 283
 
 - **10:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 284
+
+- **08:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **17:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
