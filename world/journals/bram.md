@@ -1434,3 +1434,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 280
 
 - **10:10** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 282
+
+- **14:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:10** _(rest)_ — Slept well enough. The house was warm.
