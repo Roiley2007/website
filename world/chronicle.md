@@ -1372,3 +1372,7 @@ Everything the village noticed, in the order it happened.
 
 - **06:45** — The weather turned to rain.
 - **18:55** — The weather turned to clear.
+
+## Day 281
+
+- **08:40** — The weather turned to cloudy.
