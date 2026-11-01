@@ -1459,3 +1459,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:40** _(ordinary)_ — Ate at home. The larder is down to 13.
 - **09:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **15:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
