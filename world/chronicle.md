@@ -1414,3 +1414,10 @@ Everything the village noticed, in the order it happened.
 
 - **01:15** — The weather turned to cloudy.
 - **05:30** — Bram Halloway prayed for word from his daughter Wren.
+- **09:45** — Odile Fenn prayed to know where she came from.
+- **12:20** — Tam Coble prayed for someone to be near.
+- **21:55** — The weather turned to rain.
+
+## Day 290
+
+- **06:00** — Odile Fenn prayed for books, and someone who can read them.

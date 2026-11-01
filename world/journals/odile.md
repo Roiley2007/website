@@ -1585,3 +1585,15 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(rest)_ — A whole night, unbroken. Rare.
 - **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 289
+
+- **09:45** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **13:40** _(work)_ — Water is a little lower than last week. Noted it.
+- **17:40** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 290
+
+- **06:00** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.

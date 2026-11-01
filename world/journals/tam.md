@@ -1349,3 +1349,10 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **03:05** _(ordinary)_ — Ate at home. The larder is down to 0.
 - **11:25** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+
+## Day 289
+
+- **11:45** _(work)_ — Cut and split until my arms went. Good pile.
+- **12:20** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+- **16:50** _(work)_ — Cut and split until my arms went. Good pile.
+- **21:15** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
