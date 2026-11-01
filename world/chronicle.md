@@ -1424,3 +1424,7 @@ Everything the village noticed, in the order it happened.
 - **06:20** — The weather turned to cloudy.
 - **06:40** — Bram Halloway prayed for a plough that holds together.
 - **18:35** — The weather turned to rain.
+
+## Day 291
+
+- **01:00** — The weather turned to cloudy.
