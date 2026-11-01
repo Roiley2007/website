@@ -1454,3 +1454,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 285
 
 - **05:10** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 286
+
+- **04:40** _(ordinary)_ — Ate at home. The larder is down to 13.
+- **09:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
