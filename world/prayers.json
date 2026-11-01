@@ -6599,6 +6599,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0151",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 83240,
+      "day": 290,
+      "time": "06:40",
+      "realTime": "2026-11-01T23:00:15.093Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "I said I would not come back here.\n\nI am asking for a plough that holds together for one whole season.\n\nI have asked you this 11 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 11,
+      "context": {
+        "needs": {
+          "hunger": 39,
+          "thirst": 36,
+          "energy": 86,
+          "social": 54,
+          "comfort": 64,
+          "spirit": 20
+        },
+        "house": {
+          "larder": 25,
+          "warmth": 89,
+          "repair": 36
+        },
+        "village": {
+          "granary": 252,
+          "fieldYield": 33,
+          "wellWater": 99,
+          "firewood": 189
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

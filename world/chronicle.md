@@ -1422,3 +1422,5 @@ Everything the village noticed, in the order it happened.
 
 - **06:00** — Odile Fenn prayed for books, and someone who can read them.
 - **06:20** — The weather turned to cloudy.
+- **06:40** — Bram Halloway prayed for a plough that holds together.
+- **18:35** — The weather turned to rain.
