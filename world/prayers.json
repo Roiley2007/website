@@ -6379,6 +6379,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0146",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 82721,
+      "day": 288,
+      "time": "11:25",
+      "realTime": "2026-11-01T14:59:27.410Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "Hey. Hello. Is this how it goes?\n\nWhat I want is a bridge over the ford, so that it never takes anybody else. I have wanted it long enough that it has stopped feeling like wanting.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 11 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 11,
+      "context": {
+        "needs": {
+          "hunger": 67,
+          "thirst": 62,
+          "energy": 46,
+          "social": 53,
+          "comfort": 54,
+          "spirit": 30
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 85,
+          "repair": 54
+        },
+        "village": {
+          "granary": 278,
+          "fieldYield": 28,
+          "wellWater": 97,
+          "firewood": 200
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0147",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 82938,
+      "day": 289,
+      "time": "05:30",
+      "realTime": "2026-11-01T14:59:27.449Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "Right. Well.\n\nWhat I want is word from my daughter Wren, whether she is alive and whether she is well. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 11 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 11,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 40,
+          "energy": 86,
+          "social": 61,
+          "comfort": 74,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 89,
+          "repair": 38
+        },
+        "village": {
+          "granary": 293,
+          "fieldYield": 24,
+          "wellWater": 99,
+          "firewood": 187
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

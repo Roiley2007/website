@@ -1465,3 +1465,14 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **19:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:30** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 288
+
+- **07:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **20:45** _(ordinary)_ — Ate at home. The larder is down to 7.
+
+## Day 289
+
+- **05:30** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.

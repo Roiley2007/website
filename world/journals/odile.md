@@ -1575,3 +1575,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **08:55** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **11:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 288
+
+- **05:10** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **06:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **08:30** _(work)_ — Water is a little lower than last week. Noted it.
+- **11:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
