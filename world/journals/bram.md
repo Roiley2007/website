@@ -1489,3 +1489,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 292
 
 - **09:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **17:05** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **17:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:45** _(rest)_ — Slept well enough. The house was warm.
+- **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
