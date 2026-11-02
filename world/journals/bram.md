@@ -1495,3 +1495,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:45** _(rest)_ — Slept well enough. The house was warm.
 - **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 293
+
+- **09:50** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 294
+
+- **07:55** _(work)_ — A good shift in the field. Back hurts in the ordinary way.

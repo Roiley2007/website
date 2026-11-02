@@ -1435,3 +1435,9 @@ Everything the village noticed, in the order it happened.
 - **01:30** — A storm took shingles off one of the houses in the night.
 - **07:05** — The weather turned to cloudy.
 - **09:30** — Tam Coble prayed for a proper set of iron tools.
+
+## Day 293
+
+- **09:50** — Bram Halloway prayed for rain on the eastern field.
+- **18:35** — The weather turned to rain.
+- **23:50** — The weather turned to storm.

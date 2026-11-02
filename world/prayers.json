@@ -6687,6 +6687,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0153",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 84142,
+      "day": 293,
+      "time": "09:50",
+      "realTime": "2026-11-02T15:46:20.203Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "It is Bram. The farmer. You know that.\n\nThis is the real one, the one underneath the others: rain on the eastern field before the seed dies in it.\n\nI have asked you this 11 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 11,
+      "context": {
+        "needs": {
+          "hunger": 86,
+          "thirst": 68,
+          "energy": 54,
+          "social": 62,
+          "comfort": 63,
+          "spirit": 30
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 85,
+          "repair": 35
+        },
+        "village": {
+          "granary": 282,
+          "fieldYield": 12,
+          "wellWater": 100,
+          "firewood": 185
+        },
+        "weather": "cloudy",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

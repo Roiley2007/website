@@ -1613,3 +1613,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **10:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **12:50** _(work)_ — Water is a little lower than last week. Noted it.
 - **16:15** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 294
+
+- **05:50** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **09:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **10:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
