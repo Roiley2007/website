@@ -1619,3 +1619,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:50** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
 - **09:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **10:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 295
+
+- **10:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **13:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **15:15** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **21:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

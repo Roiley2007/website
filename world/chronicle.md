@@ -1441,3 +1441,7 @@ Everything the village noticed, in the order it happened.
 - **09:50** — Bram Halloway prayed for rain on the eastern field.
 - **18:35** — The weather turned to rain.
 - **23:50** — The weather turned to storm.
+
+## Day 295
+
+- **11:45** — The weather turned to rain.

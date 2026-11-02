@@ -1503,3 +1503,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 294
 
 - **07:55** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 295
+
+- **16:55** _(ordinary)_ — Ate at home. The larder is down to 1.
