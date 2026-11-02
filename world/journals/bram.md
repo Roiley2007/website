@@ -1485,3 +1485,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 291
 
 - **04:50** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 292
+
+- **09:05** _(loneliness)_ — Waited at the square a while. Nobody came by.

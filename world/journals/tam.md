@@ -1360,3 +1360,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 291
 
 - **08:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 292
+
+- **05:00** _(rest)_ — A whole night, unbroken. Rare.
+- **09:30** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.

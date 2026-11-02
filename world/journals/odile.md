@@ -1603,3 +1603,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 291
 
 - **11:40** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **16:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:15** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **20:00** _(ordinary)_ — Ate at home. The larder is down to 16.
