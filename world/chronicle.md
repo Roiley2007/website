@@ -1467,3 +1467,9 @@ Everything the village noticed, in the order it happened.
 ## Day 299
 
 - **02:30** — The weather turned to cloudy.
+
+## Day 300
+
+- **00:05** — The weather turned to rain.
+- **09:35** — The weather turned to storm.
+- **10:35** — A storm took shingles off one of the houses in the night.

@@ -1646,3 +1646,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:40** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
 - **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 300
+
+- **04:15** _(rest)_ — Slept well enough. The house was warm.
+- **09:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

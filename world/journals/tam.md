@@ -1394,3 +1394,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **09:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **13:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **17:25** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 300
+
+- **11:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
