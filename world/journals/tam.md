@@ -1388,3 +1388,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **11:00** _(work)_ — Cut and split until my arms went. Good pile.
 - **12:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **13:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 299
+
+- **09:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **13:50** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **17:25** _(work)_ — Cut and split until my arms went. Good pile.
