@@ -1457,3 +1457,13 @@ Everything the village noticed, in the order it happened.
 - **01:35** — The weather turned to storm.
 - **06:20** — A storm took shingles off one of the houses in the night.
 - **16:50** — The weather turned to cloudy.
+
+## Day 298
+
+- **05:40** — Odile Fenn prayed for a lantern that holds a flame.
+- **09:10** — The weather turned to storm.
+- **18:40** — The weather turned to rain.
+
+## Day 299
+
+- **02:30** — The weather turned to cloudy.

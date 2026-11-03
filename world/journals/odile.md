@@ -1635,3 +1635,14 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **07:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **18:25** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 298
+
+- **05:40** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **10:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **11:05** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 299
+
+- **05:40** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **06:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
