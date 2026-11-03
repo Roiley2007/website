@@ -1371,3 +1371,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **10:25** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
 - **16:50** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 296
+
+- **08:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **09:50** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
