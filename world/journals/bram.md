@@ -1511,3 +1511,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 296
 
 - **10:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **14:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

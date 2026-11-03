@@ -1450,3 +1450,9 @@ Everything the village noticed, in the order it happened.
 
 - **09:50** — Tam Coble prayed to be lifted.
 - **10:30** — Bram Halloway prayed to be lifted.
+- **19:00** — The weather turned to cloudy.
+
+## Day 297
+
+- **01:35** — The weather turned to storm.
+- **06:20** — A storm took shingles off one of the houses in the night.

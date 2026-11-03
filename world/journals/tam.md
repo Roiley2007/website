@@ -1376,3 +1376,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **08:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **09:50** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **18:35** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 297
+
+- **12:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **13:40** _(ordinary)_ — Ate at home. The larder is down to 18.
