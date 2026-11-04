@@ -1399,3 +1399,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **11:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **19:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 301
+
+- **05:35** _(rest)_ — A whole night, unbroken. Rare.
+- **09:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **10:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
