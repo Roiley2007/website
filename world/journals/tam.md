@@ -1405,3 +1405,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **05:35** _(rest)_ — A whole night, unbroken. Rare.
 - **09:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **10:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 302
+
+- **11:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **15:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
