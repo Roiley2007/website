@@ -1672,3 +1672,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **07:25** _(ordinary)_ — Ate at home. The larder is down to 16.
 - **16:40** _(work)_ — Water is a little lower than last week. Noted it.
+- **17:50** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
