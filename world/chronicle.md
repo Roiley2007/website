@@ -1484,3 +1484,11 @@ Everything the village noticed, in the order it happened.
 - **04:25** — The weather turned to storm.
 - **13:40** — A storm took shingles off one of the houses in the night.
 - **21:40** — The weather turned to cloudy.
+
+## Day 303
+
+- **09:10** — The weather turned to storm.
+
+## Day 304
+
+- **00:00** — The weather turned to clear.

@@ -1411,3 +1411,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **11:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **15:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 303
+
+- **09:40** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 304
+
+- **04:05** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **05:55** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
