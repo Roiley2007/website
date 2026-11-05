@@ -1426,3 +1426,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **07:45** _(ordinary)_ — Ate at home. The larder is down to 18.
 - **10:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 306
+
+- **13:35** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **16:50** _(loneliness)_ — Waited at the square a while. Nobody came by.

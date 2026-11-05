@@ -1498,3 +1498,7 @@ Everything the village noticed, in the order it happened.
 
 - **13:00** — The weather turned to clear.
 - **21:25** — The weather turned to rain.
+
+## Day 306
+
+- **04:40** — The weather turned to clear.

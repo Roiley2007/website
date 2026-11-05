@@ -1679,3 +1679,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **13:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 306
+
+- **12:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **15:45** _(ordinary)_ — Ate at home. The larder is down to 4.

@@ -1545,3 +1545,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 305
 
 - **11:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 306
+
+- **05:10** _(ordinary)_ — Ate at home. The larder is down to 7.
+- **17:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
