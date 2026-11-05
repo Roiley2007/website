@@ -1439,3 +1439,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 308
 
 - **07:45** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 309
+
+- **04:50** _(ordinary)_ — Ate at home. The larder is down to 12.

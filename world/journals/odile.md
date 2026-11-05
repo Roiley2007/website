@@ -1694,3 +1694,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 308
 
 - **04:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:15** _(work)_ — Water is a little lower than last week. Noted it.
+- **14:20** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **16:25** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 309
+
+- **08:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
