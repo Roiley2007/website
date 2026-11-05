@@ -1550,3 +1550,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:10** _(ordinary)_ — Ate at home. The larder is down to 7.
 - **17:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:45** _(rest)_ — Slept well enough. The house was warm.

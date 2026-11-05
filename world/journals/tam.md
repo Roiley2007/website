@@ -1431,3 +1431,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **13:35** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **16:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 307
+
+- **11:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

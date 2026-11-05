@@ -1502,3 +1502,8 @@ Everything the village noticed, in the order it happened.
 ## Day 306
 
 - **04:40** — The weather turned to clear.
+- **20:55** — The weather turned to cloudy.
+
+## Day 307
+
+- **08:00** — The weather turned to clear.
