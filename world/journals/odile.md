@@ -1701,3 +1701,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 309
 
 - **08:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 310
+
+- **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **07:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **11:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

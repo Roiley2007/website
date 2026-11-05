@@ -1517,3 +1517,7 @@ Everything the village noticed, in the order it happened.
 
 - **00:20** — The weather turned to clear.
 - **05:35** — The weather turned to storm.
+
+## Day 310
+
+- **00:55** — The weather turned to rain.

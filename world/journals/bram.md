@@ -1564,3 +1564,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 309
 
 - **09:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 310
+
+- **07:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **13:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
