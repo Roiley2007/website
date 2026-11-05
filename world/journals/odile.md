@@ -1688,3 +1688,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 307
 
 - **06:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **14:20** _(ordinary)_ — Ate at home. The larder is down to 16.
+- **15:25** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 308
+
+- **04:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.

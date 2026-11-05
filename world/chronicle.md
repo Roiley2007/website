@@ -1507,3 +1507,8 @@ Everything the village noticed, in the order it happened.
 ## Day 307
 
 - **08:00** — The weather turned to clear.
+- **15:25** — Odile Fenn prayed to be lifted.
+
+## Day 308
+
+- **05:20** — The weather turned to rain.

@@ -1435,3 +1435,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 307
 
 - **11:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 308
+
+- **07:45** _(ordinary)_ — Ate at home. The larder is down to 0.
