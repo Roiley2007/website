@@ -1560,3 +1560,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 308
 
 - **03:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 309
+
+- **09:45** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
