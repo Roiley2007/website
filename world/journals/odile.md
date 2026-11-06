@@ -1707,3 +1707,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **07:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **11:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 311
+
+- **04:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **07:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
