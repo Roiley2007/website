@@ -1569,3 +1569,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **13:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 312
+
+- **17:40** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 313
+
+- **05:40** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
