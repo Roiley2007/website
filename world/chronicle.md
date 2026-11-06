@@ -1534,3 +1534,8 @@ Everything the village noticed, in the order it happened.
 ## Day 314
 
 - **01:35** — The weather turned to cloudy.
+- **23:50** — The weather turned to storm.
+
+## Day 315
+
+- **14:25** — The weather turned to rain.

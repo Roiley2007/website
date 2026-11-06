@@ -1586,3 +1586,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **14:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **16:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **21:30** _(ordinary)_ — Ate at home. The larder is down to 7.
+
+## Day 315
+
+- **04:55** _(rest)_ — Slept well enough. The house was warm.
+- **08:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **10:55** _(ordinary)_ — Ate at home. The larder is down to 1.
+- **14:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
