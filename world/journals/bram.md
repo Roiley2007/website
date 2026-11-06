@@ -1585,3 +1585,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **14:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **16:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **21:30** _(ordinary)_ — Ate at home. The larder is down to 7.
