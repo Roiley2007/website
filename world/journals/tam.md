@@ -1457,3 +1457,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:00** _(rest)_ — A whole night, unbroken. Rare.
 - **09:10** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 314
+
+- **11:00** _(work)_ — Cut and split until my arms went. Good pile.
+- **13:20** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **16:50** _(work)_ — Cut and split until my arms went. Good pile.

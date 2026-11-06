@@ -1526,3 +1526,11 @@ Everything the village noticed, in the order it happened.
 ## Day 312
 
 - **01:30** — The weather turned to clear.
+
+## Day 313
+
+- **16:35** — The weather turned to rain.
+
+## Day 314
+
+- **01:35** — The weather turned to cloudy.

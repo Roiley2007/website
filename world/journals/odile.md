@@ -1723,3 +1723,5 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:35** _(ordinary)_ — Ate at home. The larder is down to 10.
 - **08:40** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **18:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **20:40** _(loneliness)_ — Waited at the square a while. Nobody came by.

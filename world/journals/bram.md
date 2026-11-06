@@ -1577,3 +1577,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 313
 
 - **05:40** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **13:45** _(ordinary)_ — Ate at home. The larder is down to 19.
+- **16:10** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 314
+
+- **07:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **14:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **16:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
