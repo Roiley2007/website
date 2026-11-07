@@ -1731,3 +1731,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **08:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **15:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **15:25** _(ordinary)_ — Ate at home. The larder is down to 4.
+
+## Day 316
+
+- **14:50** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **16:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

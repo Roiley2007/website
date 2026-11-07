@@ -1593,3 +1593,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **08:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **10:55** _(ordinary)_ — Ate at home. The larder is down to 1.
 - **14:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 316
+
+- **07:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **14:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

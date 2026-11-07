@@ -1539,3 +1539,8 @@ Everything the village noticed, in the order it happened.
 ## Day 315
 
 - **14:25** — The weather turned to rain.
+
+## Day 316
+
+- **04:40** — The weather turned to storm.
+- **05:35** — A storm took shingles off one of the houses in the night.
