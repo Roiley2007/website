@@ -6907,6 +6907,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0158",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 91138,
+      "day": 317,
+      "time": "16:50",
+      "realTime": "2026-11-07T10:03:11.155Z",
+      "desire": {
+        "kind": "longing",
+        "id": "bridge",
+        "text": "a bridge over the ford, so that it never takes anybody else"
+      },
+      "title": "for a bridge over the ford",
+      "selfTitle": "for a bridge over the ford",
+      "text": "Hey. Hello. Is this how it goes?\n\nWhat I want is a bridge over the ford, so that it never takes anybody else. I have wanted it long enough that it has stopped feeling like wanting.\n\nFor what it is worth: The water-wheel turning for the first time. It ran eight days. Best eight days.\n\nI have asked you this 12 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 92,
+          "thirst": 57,
+          "energy": 32,
+          "social": 44,
+          "comfort": 12,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 74,
+          "repair": 26
+        },
+        "village": {
+          "granary": 51,
+          "fieldYield": 4,
+          "wellWater": 100,
+          "firewood": 9
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

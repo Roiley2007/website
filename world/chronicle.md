@@ -1545,3 +1545,7 @@ Everything the village noticed, in the order it happened.
 - **04:40** — The weather turned to storm.
 - **05:35** — A storm took shingles off one of the houses in the night.
 - **18:00** — The weather turned to cloudy.
+
+## Day 317
+
+- **16:50** — Tam Coble prayed for a bridge over the ford.

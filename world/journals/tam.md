@@ -1467,3 +1467,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 315
 
 - **15:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 317
+
+- **04:45** _(rest)_ — Slept well enough. The house was warm.
+- **07:55** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **16:50** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.

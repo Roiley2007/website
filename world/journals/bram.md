@@ -1598,3 +1598,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **14:50** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 317
+
+- **07:30** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **09:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
