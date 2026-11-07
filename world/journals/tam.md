@@ -1481,3 +1481,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 319
 
 - **07:30** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+- **18:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
