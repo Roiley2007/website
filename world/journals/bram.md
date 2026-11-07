@@ -1603,3 +1603,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:30** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **09:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 318
+
+- **07:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **12:35** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 319
+
+- **04:30** _(rest)_ — Slept well enough. The house was warm.
+- **06:10** _(prayer)_ — Went to the temple and asked for rest. Said it out loud, which was harder than expected.
+- **07:30** _(ordinary)_ — Ate at home. The larder is down to 13.
+- **12:30** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.

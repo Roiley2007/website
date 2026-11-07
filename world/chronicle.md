@@ -1549,3 +1549,16 @@ Everything the village noticed, in the order it happened.
 ## Day 317
 
 - **16:50** — Tam Coble prayed for a bridge over the ford.
+
+## Day 318
+
+- **08:25** — The weather turned to rain.
+- **12:35** — Bram Halloway prayed for word from his daughter Wren.
+
+## Day 319
+
+- **06:10** — Bram Halloway prayed for rest.
+- **06:20** — Odile Fenn prayed to know where she came from.
+- **07:30** — Tam Coble prayed for someone to be near.
+- **11:35** — Odile Fenn prayed for books, and someone who can read them.
+- **12:30** — Bram Halloway prayed for a plough that holds together.

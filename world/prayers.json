@@ -6951,6 +6951,270 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0159",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 91375,
+      "day": 318,
+      "time": "12:35",
+      "realTime": "2026-11-07T16:24:45.571Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I am not good at this.\n\nThis is the real one, the one underneath the others: word from my daughter Wren, whether she is alive and whether she is well.\n\nI keep thinking about this: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 12 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 56,
+          "thirst": 60,
+          "energy": 34,
+          "social": 39,
+          "comfort": 10,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 25,
+          "warmth": 79,
+          "repair": 27
+        },
+        "village": {
+          "granary": 4,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 15
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0160",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 91586,
+      "day": 319,
+      "time": "06:10",
+      "realTime": "2026-11-07T16:24:45.605Z",
+      "desire": {
+        "kind": "rest",
+        "id": "rest",
+        "text": null
+      },
+      "title": "for rest",
+      "selfTitle": "for rest",
+      "text": "Right. Well.\n\nI am asking for rest. A bed that is not this bed. A night that is not this night.\n\nI have asked you this 4 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 4,
+      "context": {
+        "needs": {
+          "hunger": 44,
+          "thirst": 86,
+          "energy": 85,
+          "social": 25,
+          "comfort": 19,
+          "spirit": 19
+        },
+        "house": {
+          "larder": 19,
+          "warmth": 88,
+          "repair": 25
+        },
+        "village": {
+          "granary": 9,
+          "fieldYield": 18,
+          "wellWater": 100,
+          "firewood": 2
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0161",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 91588,
+      "day": 319,
+      "time": "06:20",
+      "realTime": "2026-11-07T16:24:45.605Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I have thought about how to ask this properly.\n\nThis is the real one, the one underneath the others: to know who my family were, and what the name Fenn was before it was mine.\n\nI keep thinking about this: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 12 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 49,
+          "thirst": 79,
+          "energy": 85,
+          "social": 40,
+          "comfort": 33,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 88,
+          "repair": 26
+        },
+        "village": {
+          "granary": 9,
+          "fieldYield": 18,
+          "wellWater": 100,
+          "firewood": 2
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0162",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 91602,
+      "day": 319,
+      "time": "07:30",
+      "realTime": "2026-11-07T16:24:45.607Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "I am going to just say it.\n\nWhat I want is somebody my own age, or a dog, or anything that wants to be near me. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 12 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 42,
+          "thirst": 79,
+          "energy": 84,
+          "social": 32,
+          "comfort": 20,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 85,
+          "repair": 23
+        },
+        "village": {
+          "granary": 9,
+          "fieldYield": 19,
+          "wellWater": 100,
+          "firewood": 2
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0163",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 91651,
+      "day": 319,
+      "time": "11:35",
+      "realTime": "2026-11-07T16:24:45.613Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have brought this to you before, so I will be brief.\n\nWhat I want is books, or anyone at all in this village who can read what I write. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 12 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 75,
+          "thirst": 53,
+          "energy": 53,
+          "social": 48,
+          "comfort": 18,
+          "spirit": 31
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 80,
+          "repair": 25
+        },
+        "village": {
+          "granary": 31,
+          "fieldYield": 3,
+          "wellWater": 100,
+          "firewood": 6
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0164",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 91662,
+      "day": 319,
+      "time": "12:30",
+      "realTime": "2026-11-07T16:24:45.615Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "I said I would not come back here.\n\nThis is the real one, the one underneath the others: a plough that holds together for one whole season.\n\nYou should know this about me: Wren on the road out, not looking back. I did not call after her. I should have.\n\nI have asked you this 12 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 72,
+          "thirst": 54,
+          "energy": 48,
+          "social": 37,
+          "comfort": 0,
+          "spirit": 35
+        },
+        "house": {
+          "larder": 13,
+          "warmth": 79,
+          "repair": 25
+        },
+        "village": {
+          "granary": 31,
+          "fieldYield": 4,
+          "wellWater": 100,
+          "firewood": 10
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
