@@ -1631,3 +1631,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **09:25** _(ordinary)_ — Ate at home. The larder is down to 21.
+- **16:50** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 323
+
+- **05:05** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:30** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **13:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

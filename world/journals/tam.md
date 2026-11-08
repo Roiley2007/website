@@ -1491,3 +1491,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **15:00** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
 - **19:00** _(ordinary)_ — Ate at home. The larder is down to 13.
+
+## Day 322
+
+- **16:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **17:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

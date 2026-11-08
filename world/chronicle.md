@@ -1573,3 +1573,12 @@ Everything the village noticed, in the order it happened.
 
 - **03:35** — The weather turned to rain.
 - **15:00** — Tam Coble prayed for a proper set of iron tools.
+
+## Day 322
+
+- **16:20** — The weather turned to cloudy.
+- **16:50** — Bram Halloway prayed for rain on the eastern field.
+
+## Day 323
+
+- **03:10** — The weather turned to rain.
