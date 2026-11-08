@@ -1630,3 +1630,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 322
 
 - **05:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **09:25** _(ordinary)_ — Ate at home. The larder is down to 21.
