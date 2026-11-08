@@ -1500,3 +1500,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 324
 
 - **05:50** _(rest)_ — A whole night, unbroken. Rare.
+- **11:35** _(work)_ — Cut and split until my arms went. Good pile.

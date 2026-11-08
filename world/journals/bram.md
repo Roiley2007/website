@@ -1639,3 +1639,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **11:30** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **13:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **17:00** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 324
+
+- **07:15** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **09:35** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **19:15** _(rest)_ — A whole night, unbroken. Rare.
