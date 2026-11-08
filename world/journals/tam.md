@@ -1496,3 +1496,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **16:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **17:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 324
+
+- **05:50** _(rest)_ — A whole night, unbroken. Rare.
