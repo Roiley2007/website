@@ -1590,3 +1590,4 @@ Everything the village noticed, in the order it happened.
 ## Day 325
 
 - **04:30** — The weather turned to rain.
+- **16:15** — Tam Coble prayed to be lifted.

@@ -7303,6 +7303,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0167",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 93435,
+      "day": 325,
+      "time": "16:15",
+      "realTime": "2026-11-08T23:41:52.117Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It's Tam. Again. Sorry.\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nYou should know this about me: The water-wheel turning for the first time. It ran eight days. Best eight days.\n\nI have asked you this 12 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 63,
+          "thirst": 74,
+          "energy": 19,
+          "social": 70,
+          "comfort": 42,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 19,
+          "warmth": 80,
+          "repair": 40
+        },
+        "village": {
+          "granary": 198,
+          "fieldYield": 0,
+          "wellWater": 100,
+          "firewood": 29
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

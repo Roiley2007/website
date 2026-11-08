@@ -1501,3 +1501,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:50** _(rest)_ — A whole night, unbroken. Rare.
 - **11:35** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 325
+
+- **16:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+- **21:05** _(loneliness)_ — Waited at the square a while. Nobody came by.

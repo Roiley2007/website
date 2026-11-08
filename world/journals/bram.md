@@ -1649,3 +1649,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 325
 
 - **08:10** _(ordinary)_ — Ate at home. The larder is down to 15.
+- **17:50** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **18:30** _(rest)_ — A whole night, unbroken. Rare.
+- **19:30** _(rest)_ — Slept well enough. The house was warm.
