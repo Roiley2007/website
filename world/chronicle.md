@@ -1572,3 +1572,4 @@ Everything the village noticed, in the order it happened.
 ## Day 321
 
 - **03:35** — The weather turned to rain.
+- **15:00** — Tam Coble prayed for a proper set of iron tools.

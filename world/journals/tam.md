@@ -1486,3 +1486,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 320
 
 - **10:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 321
+
+- **15:00** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+- **19:00** _(ordinary)_ — Ate at home. The larder is down to 13.

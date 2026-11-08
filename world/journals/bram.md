@@ -1619,3 +1619,14 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 320
 
 - **10:20** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 321
+
+- **10:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **13:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **14:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **16:50** _(ordinary)_ — Ate at home. The larder is down to 5.
+
+## Day 322
+
+- **05:15** _(rest)_ — Woke before dawn, listened to the rain, went back under.
