@@ -7347,6 +7347,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0168",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 93582,
+      "day": 326,
+      "time": "04:30",
+      "realTime": "2026-11-09T01:39:18.828Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I said I would not come back here.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI have asked you this 12 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 45,
+          "thirst": 42,
+          "energy": 85,
+          "social": 53,
+          "comfort": 64,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 15,
+          "warmth": 89,
+          "repair": 32
+        },
+        "village": {
+          "granary": 198,
+          "fieldYield": 46,
+          "wellWater": 100,
+          "firewood": 16
+        },
+        "weather": "rain",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
