@@ -1657,3 +1657,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:30** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **10:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **13:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **15:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.

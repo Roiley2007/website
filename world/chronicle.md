@@ -1595,3 +1595,8 @@ Everything the village noticed, in the order it happened.
 ## Day 326
 
 - **04:30** — Bram Halloway prayed to be lifted.
+
+## Day 327
+
+- **00:15** — The weather turned to clear.
+- **08:50** — The weather turned to rain.

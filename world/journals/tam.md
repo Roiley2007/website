@@ -1507,3 +1507,12 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **16:15** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
 - **21:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 326
+
+- **16:05** _(work)_ — Cut and split until my arms went. Good pile.
+- **17:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 327
+
+- **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
