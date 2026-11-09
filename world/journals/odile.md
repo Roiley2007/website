@@ -1785,3 +1785,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **13:50** _(work)_ — Water is a little lower than last week. Noted it.
 - **15:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 328
+
+- **04:40** _(rest)_ — Slept well enough. The house was warm.
+- **07:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **09:40** _(work)_ — Water is a little lower than last week. Noted it.
+- **12:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **21:15** _(ordinary)_ — Ate at home. The larder is down to 22.

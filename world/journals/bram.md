@@ -1664,3 +1664,14 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **10:45** _(work)_ — Turned the east rows. The soil is behaving.
 - **13:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 328
+
+- **06:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **13:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 329
+
+- **09:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

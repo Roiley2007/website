@@ -1516,3 +1516,15 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 327
 
 - **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 328
+
+- **08:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **11:10** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **13:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 329
+
+- **06:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **07:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:50** _(work)_ — Cut and split until my arms went. Good pile.
