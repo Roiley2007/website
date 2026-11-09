@@ -1528,3 +1528,5 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **07:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:50** _(work)_ — Cut and split until my arms went. Good pile.
+- **19:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
