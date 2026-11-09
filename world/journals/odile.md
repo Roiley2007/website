@@ -1781,3 +1781,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 327
 
 - **07:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **11:05** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **13:50** _(work)_ — Water is a little lower than last week. Noted it.
+- **15:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **20:00** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.

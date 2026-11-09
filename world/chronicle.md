@@ -1600,3 +1600,4 @@ Everything the village noticed, in the order it happened.
 
 - **00:15** — The weather turned to clear.
 - **08:50** — The weather turned to rain.
+- **11:05** — Odile Fenn prayed for a lantern that holds a flame.

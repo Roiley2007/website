@@ -1659,3 +1659,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **10:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **13:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
 - **15:15** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 327
+
+- **10:45** _(work)_ — Turned the east rows. The soil is behaving.
+- **13:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
