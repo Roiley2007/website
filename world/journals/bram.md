@@ -1676,3 +1676,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:50** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 330
+
+- **17:30** _(rest)_ — A whole night, unbroken. Rare.
+- **18:20** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 331
+
+- **08:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

@@ -1797,3 +1797,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 329
 
 - **18:50** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 330
+
+- **19:35** _(rest)_ — A whole night, unbroken. Rare.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 331
+
+- **04:25** _(ordinary)_ — Ate at home. The larder is down to 10.
