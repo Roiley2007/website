@@ -1693,3 +1693,14 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 332
 
 - **07:35** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 333
+
+- **06:10** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
+- **17:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:50** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 334
+
+- **12:35** _(work)_ — Turned the east rows. The soil is behaving.

@@ -1545,3 +1545,15 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 332
 
 - **13:30** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 333
+
+- **05:20** _(ordinary)_ — Ate at home. The larder is down to 7.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 334
+
+- **03:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **09:25** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **16:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
