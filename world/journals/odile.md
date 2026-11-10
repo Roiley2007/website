@@ -1822,3 +1822,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 334
 
 - **14:00** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **18:40** _(work)_ — Cleared the well and wrote the water level in the ledger.

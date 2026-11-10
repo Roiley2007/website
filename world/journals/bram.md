@@ -1704,3 +1704,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 334
 
 - **12:35** _(work)_ — Turned the east rows. The soil is behaving.
+- **18:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
