@@ -1685,3 +1685,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 331
 
 - **08:30** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **11:05** _(work)_ — Turned the east rows. The soil is behaving.
+- **13:05** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
