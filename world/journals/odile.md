@@ -1807,3 +1807,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:25** _(ordinary)_ — Ate at home. The larder is down to 10.
 - **12:40** _(work)_ — Water is a little lower than last week. Noted it.
+- **18:35** _(rest)_ — A whole night, unbroken. Rare.
+- **19:50** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 332
+
+- **03:40** _(rest)_ — Slept well enough. The house was warm.
+- **17:55** _(rest)_ — A whole night, unbroken. Rare.
