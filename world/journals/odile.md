@@ -1823,3 +1823,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **14:00** _(ordinary)_ — Ate at home. The larder is down to 10.
 - **18:40** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 335
+
+- **05:55** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
+- **14:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

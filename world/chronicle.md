@@ -1625,3 +1625,10 @@ Everything the village noticed, in the order it happened.
 ## Day 334
 
 - **07:10** — The weather turned to rain.
+
+## Day 335
+
+- **04:05** — The weather turned to storm.
+- **15:10** — A storm took shingles off one of the houses in the night.
+- **15:50** — A storm took shingles off one of the houses in the night.
+- **16:20** — A storm took shingles off one of the houses in the night.

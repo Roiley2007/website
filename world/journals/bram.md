@@ -1705,3 +1705,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **12:35** _(work)_ — Turned the east rows. The soil is behaving.
 - **18:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **20:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 335
+
+- **05:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:10** _(rest)_ — Slept well enough. The house was warm.
