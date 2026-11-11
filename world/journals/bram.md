@@ -1711,3 +1711,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:10** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:10** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 336
+
+- **05:35** _(ordinary)_ — Ate at home. The larder is down to 15.
+- **10:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
