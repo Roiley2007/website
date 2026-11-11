@@ -1632,3 +1632,11 @@ Everything the village noticed, in the order it happened.
 - **15:10** — A storm took shingles off one of the houses in the night.
 - **15:50** — A storm took shingles off one of the houses in the night.
 - **16:20** — A storm took shingles off one of the houses in the night.
+
+## Day 336
+
+- **20:50** — The weather turned to cloudy.
+
+## Day 337
+
+- **04:40** — Odile Fenn prayed to be lifted.

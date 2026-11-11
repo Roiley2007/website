@@ -1716,3 +1716,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:35** _(ordinary)_ — Ate at home. The larder is down to 15.
 - **10:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **16:45** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **19:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 337
+
+- **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.

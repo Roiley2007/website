@@ -7435,6 +7435,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0170",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 96752,
+      "day": 337,
+      "time": "04:40",
+      "realTime": "2026-11-11T06:12:18.520Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I want to state this clearly, in case clarity matters.\n\nI have gone hollowed out and I do not know how to get back on my own.\n\nIt sits with me: Ledger, page one: \"Things I do not know.\" It is the longest page.\n\nI have asked you this 12 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 12,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 36,
+          "energy": 88,
+          "social": 69,
+          "comfort": 61,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 90,
+          "repair": 31
+        },
+        "village": {
+          "granary": 295,
+          "fieldYield": 55,
+          "wellWater": 99,
+          "firewood": 103
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

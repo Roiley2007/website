@@ -1834,3 +1834,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **03:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **07:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **11:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **14:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 337
+
+- **04:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
