@@ -1723,3 +1723,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **03:25** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 338
+
+- **10:10** _(work)_ — A good shift in the field. Back hurts in the ordinary way.

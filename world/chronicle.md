@@ -1641,3 +1641,8 @@ Everything the village noticed, in the order it happened.
 
 - **04:40** — Odile Fenn prayed to be lifted.
 - **22:55** — The weather turned to clear.
+
+## Day 338
+
+- **06:10** — The weather turned to rain.
+- **15:55** — The weather turned to clear.
