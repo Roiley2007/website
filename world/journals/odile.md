@@ -1839,3 +1839,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 337
 
 - **04:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 339
+
+- **14:55** _(loneliness)_ — Waited at the square a while. Nobody came by.

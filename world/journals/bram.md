@@ -1727,3 +1727,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 338
 
 - **10:10** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 339
+
+- **04:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **09:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
