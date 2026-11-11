@@ -1650,3 +1650,9 @@ Everything the village noticed, in the order it happened.
 ## Day 339
 
 - **08:45** — The weather turned to rain.
+
+## Day 340
+
+- **05:25** — The weather turned to storm.
+- **12:00** — A storm took shingles off one of the houses in the night.
+- **12:20** — A storm took shingles off one of the houses in the night.
