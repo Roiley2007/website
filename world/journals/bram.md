@@ -1732,3 +1732,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **09:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 340
+
+- **15:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **19:20** _(rest)_ — Slept well enough. The house was warm.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.
