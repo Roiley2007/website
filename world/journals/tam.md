@@ -1590,3 +1590,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **14:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **15:15** _(ordinary)_ — Ate at home. The larder is down to 19.
+
+## Day 342
+
+- **19:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:40** _(rest)_ — Slept well enough. The house was warm.
