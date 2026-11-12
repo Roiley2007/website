@@ -1585,3 +1585,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **14:35** _(ordinary)_ — Ate at home. The larder is down to 7.
 - **19:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 341
+
+- **14:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **15:15** _(ordinary)_ — Ate at home. The larder is down to 19.

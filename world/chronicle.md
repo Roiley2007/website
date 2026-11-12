@@ -1657,3 +1657,8 @@ Everything the village noticed, in the order it happened.
 - **12:00** — A storm took shingles off one of the houses in the night.
 - **12:20** — A storm took shingles off one of the houses in the night.
 - **23:35** — A storm took shingles off one of the houses in the night.
+
+## Day 341
+
+- **02:05** — The weather turned to clear.
+- **12:30** — The weather turned to rain.
