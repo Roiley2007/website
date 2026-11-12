@@ -1677,3 +1677,7 @@ Everything the village noticed, in the order it happened.
 
 - **12:20** — A storm took shingles off one of the houses in the night.
 - **14:25** — The weather turned to drought.
+
+## Day 345
+
+- **01:40** — The weather turned to clear.

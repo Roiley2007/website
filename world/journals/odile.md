@@ -1871,3 +1871,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **08:20** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **11:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 345
+
+- **06:15** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **07:30** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
