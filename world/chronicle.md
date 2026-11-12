@@ -1670,3 +1670,5 @@ Everything the village noticed, in the order it happened.
 ## Day 343
 
 - **02:10** — The weather turned to cloudy.
+- **11:10** — The weather turned to clear.
+- **19:10** — The weather turned to storm.
