@@ -1752,3 +1752,5 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 343
 
 - **02:45** _(rest)_ — A whole night, unbroken. Rare.
+- **19:25** _(rest)_ — A whole night, unbroken. Rare.
+- **19:30** _(rest)_ — A whole night, unbroken. Rare.

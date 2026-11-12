@@ -1672,3 +1672,8 @@ Everything the village noticed, in the order it happened.
 - **02:10** — The weather turned to cloudy.
 - **11:10** — The weather turned to clear.
 - **19:10** — The weather turned to storm.
+
+## Day 344
+
+- **12:20** — A storm took shingles off one of the houses in the night.
+- **14:25** — The weather turned to drought.
