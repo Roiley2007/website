@@ -1857,3 +1857,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 341
 
 - **15:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:45** _(rest)_ — A whole night, unbroken. Rare.
