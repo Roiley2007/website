@@ -1682,3 +1682,12 @@ Everything the village noticed, in the order it happened.
 
 - **01:40** — The weather turned to clear.
 - **20:25** — The weather turned to cloudy.
+
+## Day 346
+
+- **17:35** — The weather turned to rain.
+
+## Day 347
+
+- **06:05** — Tam Coble prayed for a bridge over the ford.
+- **11:00** — The weather turned to storm.

@@ -1883,3 +1883,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **03:30** _(rest)_ — A whole night, unbroken. Rare.
 - **05:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **09:45** _(work)_ — Water is a little lower than last week. Noted it.
+- **10:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **17:55** _(rest)_ — A whole night, unbroken. Rare.
+- **18:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 347
+
+- **07:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **09:20** _(work)_ — Cleared the well and wrote the water level in the ledger.

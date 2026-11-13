@@ -1759,3 +1759,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:50** _(ordinary)_ — Ate at home. The larder is down to 15.
 - **19:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 346
+
+- **18:20** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 347
+
+- **06:20** _(prayer)_ — Sat in the temple a while without asking for anything. It was quiet and that was the point.
