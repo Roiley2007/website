@@ -1877,3 +1877,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **06:15** _(ordinary)_ — Ate at home. The larder is down to 10.
 - **07:30** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
 - **19:20** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 346
+
+- **03:30** _(rest)_ — A whole night, unbroken. Rare.
+- **05:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **09:45** _(work)_ — Water is a little lower than last week. Noted it.
