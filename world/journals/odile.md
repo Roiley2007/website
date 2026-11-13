@@ -1900,3 +1900,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 349
 
 - **07:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **14:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **19:20** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 350
+
+- **12:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

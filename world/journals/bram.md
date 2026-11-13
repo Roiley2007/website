@@ -1777,3 +1777,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:35** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
 - **11:50** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 350
+
+- **03:30** _(rest)_ — Slept well enough. The house was warm.
+- **06:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **15:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

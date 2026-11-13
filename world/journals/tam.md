@@ -1621,3 +1621,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **03:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **11:55** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+
+## Day 349
+
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.

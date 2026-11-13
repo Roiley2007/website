@@ -1706,3 +1706,8 @@ Everything the village noticed, in the order it happened.
 ## Day 349
 
 - **06:35** — Bram Halloway prayed for a plough that holds together.
+- **13:45** — The weather turned to clear.
+
+## Day 350
+
+- **10:50** — The weather turned to storm.
