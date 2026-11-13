@@ -1758,3 +1758,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 345
 
 - **04:50** _(ordinary)_ — Ate at home. The larder is down to 15.
+- **19:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
