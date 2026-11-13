@@ -1691,3 +1691,18 @@ Everything the village noticed, in the order it happened.
 
 - **06:05** — Tam Coble prayed for a bridge over the ford.
 - **11:00** — The weather turned to storm.
+
+## Day 348
+
+- **05:15** — A storm took shingles off one of the houses in the night.
+- **05:20** — Bram Halloway prayed for word from his daughter Wren.
+- **05:50** — The weather turned to drought.
+- **11:20** — Odile Fenn prayed to know where she came from.
+- **11:55** — Tam Coble prayed for someone to be near.
+- **16:45** — Odile Fenn prayed for books, and someone who can read them.
+- **20:05** — The weather turned to storm.
+- **23:15** — A storm took shingles off one of the houses in the night.
+
+## Day 349
+
+- **06:35** — Bram Halloway prayed for a plough that holds together.

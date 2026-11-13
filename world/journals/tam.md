@@ -1616,3 +1616,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:05** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
 - **09:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **15:20** _(ordinary)_ — Ate at home. The larder is down to 7.
+
+## Day 348
+
+- **03:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:55** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
