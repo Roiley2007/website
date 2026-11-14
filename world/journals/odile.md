@@ -1915,3 +1915,11 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:20** _(ordinary)_ — Ate at home. The larder is down to 4.
 - **06:35** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **10:55** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 353
+
+- **16:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 354
+
+- **06:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

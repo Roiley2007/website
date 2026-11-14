@@ -1723,3 +1723,11 @@ Everything the village noticed, in the order it happened.
 - **04:20** — Bram Halloway prayed for rain on the eastern field.
 - **05:20** — The weather turned to rain.
 - **16:20** — The weather turned to clear.
+
+## Day 353
+
+- **10:25** — The weather turned to rain.
+
+## Day 354
+
+- **00:45** — The weather turned to clear.
