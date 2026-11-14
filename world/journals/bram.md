@@ -1805,3 +1805,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:50** _(rest)_ — Slept well enough. The house was warm.
 - **15:10** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **17:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 354
+
+- **10:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
