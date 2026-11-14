@@ -1711,3 +1711,8 @@ Everything the village noticed, in the order it happened.
 ## Day 350
 
 - **10:50** — The weather turned to storm.
+- **19:40** — The weather turned to clear.
+
+## Day 351
+
+- **04:50** — Tam Coble prayed for a proper set of iron tools.

@@ -1783,3 +1783,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **03:30** _(rest)_ — Slept well enough. The house was warm.
 - **06:55** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **15:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 351
+
+- **05:25** _(rest)_ — Slept well enough. The house was warm.
+- **07:25** _(ordinary)_ — Ate at home. The larder is down to 21.
+- **12:30** _(work)_ — Turned the east rows. The soil is behaving.
