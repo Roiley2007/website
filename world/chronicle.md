@@ -1716,3 +1716,4 @@ Everything the village noticed, in the order it happened.
 ## Day 351
 
 - **04:50** — Tam Coble prayed for a proper set of iron tools.
+- **14:35** — The weather turned to drought.
