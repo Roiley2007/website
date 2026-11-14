@@ -1923,3 +1923,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 354
 
 - **06:00** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+- **16:35** _(work)_ — Water is a little lower than last week. Noted it.
+- **18:50** _(rest)_ — Slept well enough. The house was warm.
+- **19:00** _(rest)_ — A whole night, unbroken. Rare.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.

@@ -1732,3 +1732,8 @@ Everything the village noticed, in the order it happened.
 
 - **00:45** — The weather turned to clear.
 - **12:15** — The weather turned to cloudy.
+
+## Day 355
+
+- **04:10** — The weather turned to clear.
+- **05:35** — Tam Coble prayed to be lifted.

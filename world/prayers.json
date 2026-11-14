@@ -7831,6 +7831,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0179",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 101947,
+      "day": 355,
+      "time": "05:35",
+      "realTime": "2026-11-14T20:38:08.091Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "So I have an idea, and I need one thing for it.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nIt sits with me: Eating at a different house every night for six years. Everyone was kind. Nobody was mine.\n\nI have asked you this 13 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 13,
+      "context": {
+        "needs": {
+          "hunger": 40,
+          "thirst": 45,
+          "energy": 88,
+          "social": 66,
+          "comfort": 99,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 90,
+          "repair": 48
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 27,
+          "wellWater": 100,
+          "firewood": 191
+        },
+        "weather": "clear",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
