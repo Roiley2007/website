@@ -1927,3 +1927,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **18:50** _(rest)_ — Slept well enough. The house was warm.
 - **19:00** _(rest)_ — A whole night, unbroken. Rare.
 - **19:15** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 355
+
+- **10:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

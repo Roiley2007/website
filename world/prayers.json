@@ -7875,6 +7875,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0180",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 102000,
+      "day": 355,
+      "time": "10:00",
+      "realTime": "2026-11-14T21:27:50.191Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "It is Bram. The farmer. You know that.\n\nI have gone despairing and I do not know how to get back on my own.\n\nI remembered this on the way here: Wren on the road out, not looking back. I did not call after her. I should have.\n\nI have asked you this 13 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 13,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 71,
+          "energy": 65,
+          "social": 76,
+          "comfort": 94,
+          "spirit": 23
+        },
+        "house": {
+          "larder": 3,
+          "warmth": 88,
+          "repair": 42
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 18,
+          "wellWater": 98,
+          "firewood": 199
+        },
+        "weather": "clear",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

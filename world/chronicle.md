@@ -1737,3 +1737,4 @@ Everything the village noticed, in the order it happened.
 
 - **04:10** — The weather turned to clear.
 - **05:35** — Tam Coble prayed to be lifted.
+- **10:00** — Bram Halloway prayed to be lifted.

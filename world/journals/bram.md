@@ -1810,3 +1810,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **10:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **17:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 355
+
+- **09:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **10:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

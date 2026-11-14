@@ -1648,3 +1648,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 355
 
 - **05:35** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **10:05** _(work)_ — Cut and split until my arms went. Good pile.
