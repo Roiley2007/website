@@ -1790,3 +1790,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:25** _(rest)_ — Slept well enough. The house was warm.
 - **07:25** _(ordinary)_ — Ate at home. The larder is down to 21.
 - **12:30** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 352
+
+- **04:20** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **12:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **18:00** _(rest)_ — Slept well enough. The house was warm.
+- **18:10** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:20** _(rest)_ — A whole night, unbroken. Rare.
+- **18:35** _(rest)_ — A whole night, unbroken. Rare.

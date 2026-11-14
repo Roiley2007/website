@@ -1717,3 +1717,9 @@ Everything the village noticed, in the order it happened.
 
 - **04:50** — Tam Coble prayed for a proper set of iron tools.
 - **14:35** — The weather turned to drought.
+
+## Day 352
+
+- **04:20** — Bram Halloway prayed for rain on the eastern field.
+- **05:20** — The weather turned to rain.
+- **16:20** — The weather turned to clear.

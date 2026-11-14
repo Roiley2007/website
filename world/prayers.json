@@ -7787,6 +7787,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0178",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 101068,
+      "day": 352,
+      "time": "04:20",
+      "realTime": "2026-11-14T09:20:14.946Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I said I would not come back here.\n\nI am asking for rain on the eastern field before the seed dies in it.\n\nI keep thinking about this: Neth planting the hedge along the east path, laughing at how crooked it went. It is still crooked.\n\nI have asked you this 13 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 13,
+      "context": {
+        "needs": {
+          "hunger": 70,
+          "thirst": 35,
+          "energy": 86,
+          "social": 69,
+          "comfort": 98,
+          "spirit": 29
+        },
+        "house": {
+          "larder": 15,
+          "warmth": 89,
+          "repair": 38
+        },
+        "village": {
+          "granary": 300,
+          "fieldYield": 18,
+          "wellWater": 91,
+          "firewood": 182
+        },
+        "weather": "drought",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

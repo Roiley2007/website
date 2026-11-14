@@ -1629,3 +1629,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 351
 
 - **04:50** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.
+
+## Day 352
+
+- **06:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:15** _(rest)_ — Slept well enough. The house was warm.
+- **19:35** _(rest)_ — Slept well enough. The house was warm.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.
+- **19:50** _(rest)_ — Slept well enough. The house was warm.
