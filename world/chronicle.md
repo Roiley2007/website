@@ -1761,3 +1761,7 @@ Everything the village noticed, in the order it happened.
 
 - **06:05** — The weather turned to clear.
 - **13:20** — The weather turned to drought.
+
+## Day 360
+
+- **02:30** — The weather turned to rain.

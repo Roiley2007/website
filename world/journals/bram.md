@@ -1837,3 +1837,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:00** _(prayer)_ — Went to the temple out of habit. Said nothing. Felt marginally better.
 - **07:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 359
+
+- **18:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:45** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **18:55** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 360
+
+- **04:10** _(rest)_ — A whole night, unbroken. Rare.
