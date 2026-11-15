@@ -1952,3 +1952,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 358
 
 - **19:35** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 359
+
+- **13:45** _(ordinary)_ — Ate at home. The larder is down to 22.
