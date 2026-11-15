@@ -1668,3 +1668,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:20** _(rest)_ — Slept well enough. The house was warm.
 - **11:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 360
+
+- **05:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **07:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
