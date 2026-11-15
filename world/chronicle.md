@@ -1750,3 +1750,9 @@ Everything the village noticed, in the order it happened.
 
 - **15:00** — The weather turned to clear.
 - **23:15** — The weather turned to storm.
+
+## Day 358
+
+- **04:50** — A storm took shingles off one of the houses in the night.
+- **06:15** — The weather turned to drought.
+- **23:05** — The weather turned to rain.
