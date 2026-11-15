@@ -1818,3 +1818,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **15:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **17:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
 - **19:30** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 356
+
+- **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **09:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

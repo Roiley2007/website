@@ -1934,3 +1934,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **14:50** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **17:50** _(ordinary)_ — Ate at home. The larder is down to 4.
 - **19:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 356
+
+- **04:45** _(ordinary)_ — Ate at home. The larder is down to 22.
+- **05:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.

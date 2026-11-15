@@ -1651,3 +1651,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **10:05** _(work)_ — Cut and split until my arms went. Good pile.
 - **13:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 356
+
+- **06:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **06:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **09:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
