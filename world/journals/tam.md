@@ -1649,3 +1649,5 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:35** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
 - **10:05** _(work)_ — Cut and split until my arms went. Good pile.
+- **13:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.

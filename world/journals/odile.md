@@ -1931,3 +1931,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 355
 
 - **10:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **14:50** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **17:50** _(ordinary)_ — Ate at home. The larder is down to 4.
+- **19:40** _(rest)_ — A whole night, unbroken. Rare.

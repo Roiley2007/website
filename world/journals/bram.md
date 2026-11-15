@@ -1815,3 +1815,6 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:05** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **10:00** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **15:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **17:00** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+- **19:30** _(rest)_ — Slept well enough. The house was warm.
