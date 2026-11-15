@@ -1745,3 +1745,8 @@ Everything the village noticed, in the order it happened.
 - **10:50** — The weather turned to drought.
 - **16:20** — Odile Fenn prayed for a lantern that holds a flame.
 - **23:45** — The weather turned to cloudy.
+
+## Day 357
+
+- **15:00** — The weather turned to clear.
+- **23:15** — The weather turned to storm.
