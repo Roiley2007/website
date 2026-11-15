@@ -1939,3 +1939,6 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **04:45** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **05:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **16:20** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.

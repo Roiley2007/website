@@ -1739,3 +1739,9 @@ Everything the village noticed, in the order it happened.
 - **05:35** — Tam Coble prayed to be lifted.
 - **10:00** — Bram Halloway prayed to be lifted.
 - **16:20** — The weather turned to storm.
+
+## Day 356
+
+- **10:50** — The weather turned to drought.
+- **16:20** — Odile Fenn prayed for a lantern that holds a flame.
+- **23:45** — The weather turned to cloudy.

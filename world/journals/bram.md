@@ -1823,3 +1823,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:20** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **09:30** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **12:25** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **15:50** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 357
+
+- **03:25** _(rest)_ — Slept well enough. The house was warm.
+- **06:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
