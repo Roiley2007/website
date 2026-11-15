@@ -1957,3 +1957,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **13:45** _(ordinary)_ — Ate at home. The larder is down to 22.
 - **16:10** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 360
+
+- **19:50** _(rest)_ — A whole night, unbroken. Rare.
+- **19:55** _(rest)_ — Slept well enough. The house was warm.
