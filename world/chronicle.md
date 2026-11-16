@@ -1771,3 +1771,8 @@ Everything the village noticed, in the order it happened.
 - **02:50** — The weather turned to cloudy.
 - **15:15** — The weather turned to rain.
 - **22:05** — The weather turned to storm.
+
+## Day 362
+
+- **07:55** — The weather turned to cloudy.
+- **20:20** — The weather turned to storm.
