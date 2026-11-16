@@ -1849,3 +1849,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:10** _(rest)_ — A whole night, unbroken. Rare.
 - **19:20** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 361
+
+- **05:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
