@@ -1769,3 +1769,5 @@ Everything the village noticed, in the order it happened.
 ## Day 361
 
 - **02:50** — The weather turned to cloudy.
+- **15:15** — The weather turned to rain.
+- **22:05** — The weather turned to storm.
