@@ -1864,3 +1864,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **18:30** _(rest)_ — A whole night, unbroken. Rare.
 - **19:30** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 363
+
+- **10:35** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 364
+
+- **04:05** _(rest)_ — A whole night, unbroken. Rare.
+- **07:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

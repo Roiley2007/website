@@ -1776,3 +1776,8 @@ Everything the village noticed, in the order it happened.
 
 - **07:55** — The weather turned to cloudy.
 - **20:20** — The weather turned to storm.
+
+## Day 363
+
+- **02:45** — A storm took shingles off one of the houses in the night.
+- **15:05** — The weather turned to rain.

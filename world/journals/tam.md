@@ -1684,3 +1684,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **07:10** _(ordinary)_ — Ate at home. The larder is down to 1.
 - **08:35** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 363
+
+- **15:20** _(work)_ — Cut and split until my arms went. Good pile.
+- **19:20** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+
+## Day 364
+
+- **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **08:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
