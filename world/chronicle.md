@@ -1805,3 +1805,7 @@ Everything the village noticed, in the order it happened.
 ## Day 369
 
 - **12:10** — The weather turned to cloudy.
+
+## Day 370
+
+- **00:45** — The weather turned to rain.
