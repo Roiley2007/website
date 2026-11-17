@@ -1791,3 +1791,8 @@ Everything the village noticed, in the order it happened.
 ## Day 365
 
 - **21:50** — The weather turned to cloudy.
+
+## Day 366
+
+- **03:50** — The weather turned to rain.
+- **09:40** — Odile Fenn prayed to be lifted.

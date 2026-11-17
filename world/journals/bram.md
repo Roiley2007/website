@@ -1875,3 +1875,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **10:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 366
+
+- **12:25** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
