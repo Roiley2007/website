@@ -1800,3 +1800,8 @@ Everything the village noticed, in the order it happened.
 ## Day 368
 
 - **08:30** — The weather turned to cloudy.
+- **22:30** — The weather turned to rain.
+
+## Day 369
+
+- **12:10** — The weather turned to cloudy.
