@@ -1981,3 +1981,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:25** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **16:15** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
 - **20:10** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 365
+
+- **07:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **17:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

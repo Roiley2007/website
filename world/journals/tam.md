@@ -1694,3 +1694,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **08:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 365
+
+- **09:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.

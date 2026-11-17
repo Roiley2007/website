@@ -1787,3 +1787,7 @@ Everything the village noticed, in the order it happened.
 - **11:20** — The weather turned to storm.
 - **12:00** — A storm took shingles off one of the houses in the night.
 - **16:40** — A storm took shingles off one of the houses in the night.
+
+## Day 365
+
+- **21:50** — The weather turned to cloudy.
