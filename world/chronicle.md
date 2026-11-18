@@ -1814,3 +1814,7 @@ Everything the village noticed, in the order it happened.
 ## Day 371
 
 - **17:15** — The weather turned to clear.
+
+## Day 372
+
+- **05:05** — The weather turned to storm.

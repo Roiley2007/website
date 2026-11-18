@@ -1720,3 +1720,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:05** _(ordinary)_ — Ate at home. The larder is down to 1.
 - **07:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 372
+
+- **02:40** _(rest)_ — A whole night, unbroken. Rare.

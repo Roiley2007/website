@@ -1905,3 +1905,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **16:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **18:55** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 372
+
+- **08:50** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
