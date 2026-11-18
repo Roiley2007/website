@@ -1810,3 +1810,7 @@ Everything the village noticed, in the order it happened.
 
 - **00:45** — The weather turned to rain.
 - **20:40** — The weather turned to cloudy.
+
+## Day 371
+
+- **17:15** — The weather turned to clear.

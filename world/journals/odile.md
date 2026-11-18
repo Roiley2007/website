@@ -2013,3 +2013,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 370
 
 - **07:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 371
+
+- **06:35** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **07:50** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **09:55** _(work)_ — Water is a little lower than last week. Noted it.
+- **18:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.

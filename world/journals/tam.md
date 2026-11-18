@@ -1715,3 +1715,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **10:45** _(ordinary)_ — Ate at home. The larder is down to 13.
 - **15:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **20:35** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 371
+
+- **06:05** _(ordinary)_ — Ate at home. The larder is down to 1.
+- **07:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
