@@ -1922,3 +1922,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 375
 
 - **06:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **18:10** _(loneliness)_ — Waited at the square a while. Nobody came by.

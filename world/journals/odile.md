@@ -2039,3 +2039,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **10:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **11:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **18:40** _(rest)_ — Slept well enough. The house was warm.
