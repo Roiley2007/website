@@ -1913,3 +1913,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 373
 
 - **05:05** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 374
+
+- **07:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
