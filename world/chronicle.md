@@ -1818,3 +1818,9 @@ Everything the village noticed, in the order it happened.
 ## Day 372
 
 - **05:05** — The weather turned to storm.
+- **12:05** — The weather turned to cloudy.
+- **23:00** — The weather turned to rain.
+
+## Day 373
+
+- **09:50** — The weather turned to cloudy.

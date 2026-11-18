@@ -2021,3 +2021,12 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **09:55** _(work)_ — Water is a little lower than last week. Noted it.
 - **18:30** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
 - **21:15** _(ordinary)_ — Ate at home. The larder is down to 22.
+
+## Day 372
+
+- **19:05** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 373
+
+- **07:20** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+- **15:10** _(work)_ — Cleared the well and wrote the water level in the ledger.
