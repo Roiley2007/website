@@ -1828,3 +1828,8 @@ Everything the village noticed, in the order it happened.
 ## Day 374
 
 - **02:30** — The weather turned to clear.
+- **17:15** — The weather turned to storm.
+
+## Day 375
+
+- **02:45** — The weather turned to cloudy.

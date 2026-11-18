@@ -1918,3 +1918,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **09:30** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.
+
+## Day 375
+
+- **06:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
