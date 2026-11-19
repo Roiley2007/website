@@ -1743,3 +1743,14 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 376
 
 - **10:45** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.
+
+## Day 377
+
+- **04:55** _(rest)_ — A whole night, unbroken. Rare.
+- **13:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **17:05** _(prayer)_ — Went to the temple and asked for someone to be near. Said it out loud, which was harder than expected.
+
+## Day 378
+
+- **10:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **11:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

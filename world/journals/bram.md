@@ -1931,3 +1931,14 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **16:55** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **17:00** _(rest)_ — A whole night, unbroken. Rare.
 - **18:20** _(rest)_ — A whole night, unbroken. Rare.
+- **20:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 377
+
+- **11:45** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 378
+
+- **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **11:45** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+- **15:45** _(work)_ — Turned the east rows. The soil is behaving.

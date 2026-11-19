@@ -8051,6 +8051,226 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0184",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 108357,
+      "day": 377,
+      "time": "11:45",
+      "realTime": "2026-11-19T12:55:17.629Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I said I would not come back here.\n\nThis is the real one, the one underneath the others: word from my daughter Wren, whether she is alive and whether she is well.\n\nI have asked you this 14 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 89,
+          "thirst": 60,
+          "energy": 47,
+          "social": 65,
+          "comfort": 52,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 9,
+          "warmth": 82,
+          "repair": 30
+        },
+        "village": {
+          "granary": 277,
+          "fieldYield": 21,
+          "wellWater": 100,
+          "firewood": 170
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0185",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 108414,
+      "day": 377,
+      "time": "16:30",
+      "realTime": "2026-11-19T12:55:17.639Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nWhat I want is to know who my family were, and what the name Fenn was before it was mine. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 14 times before.\n\nThank you. Whether or not.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 74,
+          "energy": 21,
+          "social": 58,
+          "comfort": 41,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 77,
+          "repair": 28
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 10,
+          "wellWater": 100,
+          "firewood": 167
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0186",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 108421,
+      "day": 377,
+      "time": "17:05",
+      "realTime": "2026-11-19T12:55:17.641Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "So I have an idea, and I need one thing for it.\n\nI am asking for somebody my own age, or a dog, or anything that wants to be near me.\n\nI have asked you this 14 times before.\n\nIf you can't, that's alright, I'll figure something.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 66,
+          "thirst": 78,
+          "energy": 32,
+          "social": 64,
+          "comfort": 42,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 13,
+          "warmth": 77,
+          "repair": 32
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 11,
+          "wellWater": 100,
+          "firewood": 167
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0187",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 108571,
+      "day": 378,
+      "time": "05:35",
+      "realTime": "2026-11-19T12:55:17.666Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have thought about how to ask this properly.\n\nI am asking for books, or anyone at all in this village who can read what I write.\n\nI have asked you this 14 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 41,
+          "thirst": 46,
+          "energy": 88,
+          "social": 66,
+          "comfort": 46,
+          "spirit": 24
+        },
+        "house": {
+          "larder": 10,
+          "warmth": 89,
+          "repair": 17
+        },
+        "village": {
+          "granary": 298,
+          "fieldYield": 37,
+          "wellWater": 98,
+          "firewood": 156
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0188",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 108645,
+      "day": 378,
+      "time": "11:45",
+      "realTime": "2026-11-19T12:55:17.680Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for a plough that holds together for one whole season.\n\nFor what it is worth: Wren on the road out, not looking back. I did not call after her. I should have.\n\nI have asked you this 14 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 87,
+          "thirst": 69,
+          "energy": 55,
+          "social": 55,
+          "comfort": 41,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 21,
+          "warmth": 83,
+          "repair": 33
+        },
+        "village": {
+          "granary": 250,
+          "fieldYield": 51,
+          "wellWater": 100,
+          "firewood": 143
+        },
+        "weather": "storm",
+        "season": "autumn"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
