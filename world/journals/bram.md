@@ -1923,3 +1923,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **18:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:50** _(rest)_ — Slept well enough. The house was warm.
+
+## Day 376
+
+- **03:35** _(rest)_ — Woke before dawn, listened to the rain, went back under.

@@ -1739,3 +1739,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **03:10** _(rest)_ — Slept well enough. The house was warm.
 - **05:20** _(ordinary)_ — Ate at home. The larder is down to 19.
+
+## Day 376
+
+- **10:45** _(prayer)_ — Went to the temple and asked for a bridge over the ford. Said it out loud, which was harder than expected.

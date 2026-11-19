@@ -1833,3 +1833,8 @@ Everything the village noticed, in the order it happened.
 ## Day 375
 
 - **02:45** — The weather turned to cloudy.
+
+## Day 376
+
+- **10:45** — Tam Coble prayed for a bridge over the ford.
+- **12:15** — The weather turned to storm.
