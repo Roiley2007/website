@@ -1754,3 +1754,14 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **10:10** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **11:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **21:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 379
+
+- **05:55** _(ordinary)_ — Ate at home. The larder is down to 13.
+- **07:20** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 380
+
+- **09:15** _(prayer)_ — Went to the temple and asked for a proper set of iron tools. Said it out loud, which was harder than expected.

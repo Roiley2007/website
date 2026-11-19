@@ -2055,3 +2055,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:35** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
 - **13:20** _(work)_ — Water is a little lower than last week. Noted it.
+
+## Day 379
+
+- **04:55** _(rest)_ — A whole night, unbroken. Rare.
+- **18:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 380
+
+- **08:55** _(work)_ — Water is a little lower than last week. Noted it.

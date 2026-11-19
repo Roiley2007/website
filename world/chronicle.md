@@ -1851,3 +1851,13 @@ Everything the village noticed, in the order it happened.
 - **05:35** — Odile Fenn prayed for books, and someone who can read them.
 - **11:45** — Bram Halloway prayed for a plough that holds together.
 - **13:55** — The weather turned to rain.
+
+## Day 379
+
+- **11:40** — The weather turned to clear.
+- **19:25** — The weather turned to cloudy.
+
+## Day 380
+
+- **05:15** — The weather turned to rain.
+- **09:15** — Tam Coble prayed for a proper set of iron tools.

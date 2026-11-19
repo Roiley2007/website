@@ -1942,3 +1942,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:00** _(rest)_ — Woke before dawn, listened to the rain, went back under.
 - **11:45** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
 - **15:45** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 379
+
+- **04:10** _(rest)_ — Slept well enough. The house was warm.
+- **12:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **18:15** _(rest)_ — A whole night, unbroken. Rare.
