@@ -1877,3 +1877,9 @@ Everything the village noticed, in the order it happened.
 ## Day 383
 
 - **04:30** — The weather turned to rain.
+
+## Day 384
+
+- **11:25** — Tam Coble prayed to be lifted.
+- **16:10** — Bram Halloway prayed to be lifted.
+- **17:00** — The weather turned to clear.

@@ -1966,3 +1966,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **13:15** _(work)_ — Turned the east rows. The soil is behaving.
 - **16:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 383
+
+- **14:35** _(company)_ — Tam makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 384
+
+- **09:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **16:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

@@ -1779,3 +1779,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 383
 
 - **07:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **15:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 384
+
+- **11:25** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

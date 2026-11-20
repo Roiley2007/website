@@ -8359,6 +8359,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0191",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 110369,
+      "day": 384,
+      "time": "11:25",
+      "realTime": "2026-11-20T18:46:16.329Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Hey. Hello. Is this how it goes?\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nYou should know this about me: Eating at a different house every night for six years. Everyone was kind. Nobody was mine.\n\nI have asked you this 14 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 67,
+          "thirst": 72,
+          "energy": 60,
+          "social": 61,
+          "comfort": 34,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 19,
+          "warmth": 83,
+          "repair": 36
+        },
+        "village": {
+          "granary": 245,
+          "fieldYield": 17,
+          "wellWater": 100,
+          "firewood": 59
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0192",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 110426,
+      "day": 384,
+      "time": "16:10",
+      "realTime": "2026-11-20T18:46:16.343Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Right. Well.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nThis is in my head lately: Neth planting the hedge along the east path, laughing at how crooked it went. It is still crooked.\n\nI have asked you this 14 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 71,
+          "thirst": 75,
+          "energy": 36,
+          "social": 65,
+          "comfort": 30,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 21,
+          "warmth": 74,
+          "repair": 36
+        },
+        "village": {
+          "granary": 266,
+          "fieldYield": 1,
+          "wellWater": 100,
+          "firewood": 59
+        },
+        "weather": "rain",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
