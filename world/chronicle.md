@@ -1867,3 +1867,9 @@ Everything the village noticed, in the order it happened.
 
 - **07:40** — A storm took shingles off one of the houses in the night.
 - **09:30** — Bram Halloway prayed for rain on the eastern field.
+- **21:30** — A storm took shingles off one of the houses in the night.
+- **22:25** — The weather turned to cloudy.
+
+## Day 382
+
+- **16:40** — The weather turned to storm.

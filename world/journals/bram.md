@@ -1960,3 +1960,9 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **08:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **09:30** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+- **19:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 382
+
+- **13:15** _(work)_ — Turned the east rows. The soil is behaving.
+- **16:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
