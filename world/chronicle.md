@@ -1873,3 +1873,7 @@ Everything the village noticed, in the order it happened.
 ## Day 382
 
 - **16:40** — The weather turned to storm.
+
+## Day 383
+
+- **04:30** — The weather turned to rain.
