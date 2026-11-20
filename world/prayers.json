@@ -8315,6 +8315,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0190",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 109482,
+      "day": 381,
+      "time": "09:30",
+      "realTime": "2026-11-20T02:32:31.727Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I am not good at this.\n\nWhat I want is rain on the eastern field before the seed dies in it. I have wanted it long enough that it has stopped feeling like wanting.\n\nI remembered this on the way here: Neth planting the hedge along the east path, laughing at how crooked it went. It is still crooked.\n\nI have asked you this 14 times before.\n\nI will not ask twice.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 81,
+          "thirst": 70,
+          "energy": 58,
+          "social": 59,
+          "comfort": 47,
+          "spirit": 28
+        },
+        "house": {
+          "larder": 9,
+          "warmth": 80,
+          "repair": 34
+        },
+        "village": {
+          "granary": 293,
+          "fieldYield": 40,
+          "wellWater": 100,
+          "firewood": 125
+        },
+        "weather": "storm",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

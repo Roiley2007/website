@@ -1948,3 +1948,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **04:10** _(rest)_ — Slept well enough. The house was warm.
 - **12:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **18:15** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 380
+
+- **13:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **17:15** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **19:40** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+- **19:50** _(rest)_ — Woke before dawn, listened to the rain, went back under.
+
+## Day 381
+
+- **08:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **09:30** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
