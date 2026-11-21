@@ -1789,3 +1789,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:25** _(ordinary)_ — Ate at home. The larder is down to 7.
 - **11:25** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 386
+
+- **17:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:30** _(work)_ — Cut and split until my arms went. Good pile.

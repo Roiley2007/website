@@ -1888,3 +1888,8 @@ Everything the village noticed, in the order it happened.
 
 - **01:55** — The weather turned to rain.
 - **05:35** — Odile Fenn prayed for a lantern that holds a flame.
+- **14:15** — The weather turned to cloudy.
+
+## Day 387
+
+- **10:15** — The weather turned to storm.
