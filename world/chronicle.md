@@ -1895,3 +1895,13 @@ Everything the village noticed, in the order it happened.
 - **10:15** — The weather turned to storm.
 - **15:10** — A storm took shingles off one of the houses in the night.
 - **23:15** — The weather turned to clear.
+
+## Day 388
+
+- **07:25** — The weather turned to rain.
+- **13:25** — The weather turned to cloudy.
+- **23:05** — The weather turned to storm.
+
+## Day 389
+
+- **00:35** — A storm took shingles off one of the houses in the night.
