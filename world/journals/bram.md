@@ -1975,3 +1975,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **09:10** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **16:10** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 386
+
+- **09:10** _(work)_ — Worked the rows. There is very little coming up. Pulled more stones than grain.

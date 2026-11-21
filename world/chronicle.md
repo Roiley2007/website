@@ -1883,3 +1883,8 @@ Everything the village noticed, in the order it happened.
 - **11:25** — Tam Coble prayed to be lifted.
 - **16:10** — Bram Halloway prayed to be lifted.
 - **17:00** — The weather turned to clear.
+
+## Day 386
+
+- **01:55** — The weather turned to rain.
+- **05:35** — Odile Fenn prayed for a lantern that holds a flame.

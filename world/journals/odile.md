@@ -2088,3 +2088,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:20** _(rest)_ — Slept well enough. The house was warm.
 - **11:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 386
+
+- **05:35** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+- **07:05** _(ordinary)_ — Ate at home. The larder is down to 10.
