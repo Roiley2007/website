@@ -1893,3 +1893,5 @@ Everything the village noticed, in the order it happened.
 ## Day 387
 
 - **10:15** — The weather turned to storm.
+- **15:10** — A storm took shingles off one of the houses in the night.
+- **23:15** — The weather turned to clear.
