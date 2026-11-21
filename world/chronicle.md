@@ -1906,3 +1906,7 @@ Everything the village noticed, in the order it happened.
 
 - **00:35** — A storm took shingles off one of the houses in the night.
 - **12:15** — The weather turned to cloudy.
+
+## Day 390
+
+- **04:00** — The weather turned to storm.

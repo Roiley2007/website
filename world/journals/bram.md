@@ -1991,3 +1991,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 388
 
 - **06:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 390
+
+- **06:10** _(ordinary)_ — Ate at home. The larder is down to 3.
