@@ -1905,3 +1905,4 @@ Everything the village noticed, in the order it happened.
 ## Day 389
 
 - **00:35** — A storm took shingles off one of the houses in the night.
+- **12:15** — The weather turned to cloudy.

@@ -2107,3 +2107,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **13:20** _(work)_ — Cleared the well and wrote the water level in the ledger.
 - **19:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 389
+
+- **08:05** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **11:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
