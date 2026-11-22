@@ -2001,3 +2001,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 391
 
 - **13:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 392
+
+- **08:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **12:00** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.

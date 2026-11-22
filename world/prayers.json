@@ -8491,6 +8491,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0194",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 112680,
+      "day": 392,
+      "time": "12:00",
+      "realTime": "2026-11-22T08:08:51.109Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for warmth. Firewood, a blanket, a hearth that draws properly — something.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 81,
+          "thirst": 59,
+          "energy": 61,
+          "social": 73,
+          "comfort": 25,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 3,
+          "warmth": 5,
+          "repair": 42
+        },
+        "village": {
+          "granary": 117,
+          "fieldYield": 20,
+          "wellWater": 97,
+          "firewood": 0
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0195",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 112703,
+      "day": 392,
+      "time": "13:55",
+      "realTime": "2026-11-22T08:08:51.111Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "It's Tam. Again. Sorry.\n\nThe house does not hold heat any more. I wake up miserable and I do not get warm again until noon.\n\nIt sits with me: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 78,
+          "thirst": 87,
+          "energy": 45,
+          "social": 62,
+          "comfort": 24,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 9,
+          "repair": 30
+        },
+        "village": {
+          "granary": 117,
+          "fieldYield": 22,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

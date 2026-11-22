@@ -1916,3 +1916,10 @@ Everything the village noticed, in the order it happened.
 
 - **01:20** — The weather turned to cloudy.
 - **11:55** — The weather turned to clear.
+- **18:00** — The weather turned to cloudy.
+
+## Day 392
+
+- **12:00** — Bram Halloway prayed for warmth.
+- **13:55** — Tam Coble prayed for warmth.
+- **14:35** — The weather turned to clear.

@@ -1810,3 +1810,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 390
 
 - **08:20** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 392
+
+- **06:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **13:55** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
