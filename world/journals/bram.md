@@ -2011,3 +2011,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **06:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **16:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 395
+
+- **04:10** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.

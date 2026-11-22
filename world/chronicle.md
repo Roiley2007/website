@@ -1935,3 +1935,9 @@ Everything the village noticed, in the order it happened.
 - **04:35** — The weather turned to cloudy.
 - **05:35** — Tam Coble prayed for a sound roof.
 - **13:55** — The weather turned to clear.
+
+## Day 395
+
+- **04:10** — Bram Halloway prayed for a sound roof.
+- **04:50** — Odile Fenn prayed for a sound roof.
+- **12:10** — The weather turned to cloudy.

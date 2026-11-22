@@ -1824,3 +1824,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **05:35** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **15:15** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 395
+
+- **09:50** _(ordinary)_ — Ate at home. The larder is down to 19.

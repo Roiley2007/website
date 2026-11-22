@@ -8667,6 +8667,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0198",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 113450,
+      "day": 395,
+      "time": "04:10",
+      "realTime": "2026-11-22T21:58:39.135Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "It is Bram. The farmer. You know that.\n\nThe roof is going. When it rains I move the bed, and there is nowhere left to move it to.\n\nI have asked you this once before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 63,
+          "thirst": 82,
+          "energy": 85,
+          "social": 38,
+          "comfort": 6,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 21,
+          "warmth": 0,
+          "repair": 23
+        },
+        "village": {
+          "granary": 42,
+          "fieldYield": 50,
+          "wellWater": 95,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0199",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 113458,
+      "day": 395,
+      "time": "04:50",
+      "realTime": "2026-11-22T21:58:39.145Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "I have brought this to you before, so I will be brief.\n\nThe house is coming apart faster than I can mend it with what I have.\n\nI remembered this on the way here: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this once before.\n\nIf the answer is no, I would like to know that it is no.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 36,
+          "thirst": 84,
+          "energy": 85,
+          "social": 50,
+          "comfort": 9,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 0,
+          "repair": 23
+        },
+        "village": {
+          "granary": 42,
+          "fieldYield": 51,
+          "wellWater": 96,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
