@@ -2120,3 +2120,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 393
 
 - **05:25** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
+
+## Day 394
+
+- **06:55** _(loneliness)_ — Waited at the square a while. Nobody came by.

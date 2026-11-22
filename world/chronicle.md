@@ -1928,3 +1928,9 @@ Everything the village noticed, in the order it happened.
 
 - **05:25** — Odile Fenn prayed for warmth.
 - **08:40** — The weather turned to storm.
+- **21:20** — The weather turned to clear.
+
+## Day 394
+
+- **04:35** — The weather turned to cloudy.
+- **05:35** — Tam Coble prayed for a sound roof.

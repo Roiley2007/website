@@ -2010,3 +2010,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 393
 
 - **06:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **16:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

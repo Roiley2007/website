@@ -8623,6 +8623,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0197",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 113179,
+      "day": 394,
+      "time": "05:35",
+      "realTime": "2026-11-22T16:24:31.847Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "Hey. Hello. Is this how it goes?\n\nThe house is coming apart faster than I can mend it with what I have.\n\nI remembered this on the way here: The water-wheel turning for the first time. It ran eight days. Best eight days.\n\nI have asked you this once before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 58,
+          "thirst": 76,
+          "energy": 84,
+          "social": 54,
+          "comfort": 4,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 13,
+          "warmth": 0,
+          "repair": 13
+        },
+        "village": {
+          "granary": 66,
+          "fieldYield": 33,
+          "wellWater": 97,
+          "firewood": 0
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
