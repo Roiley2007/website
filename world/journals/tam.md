@@ -1815,3 +1815,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **06:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **13:55** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
+
+## Day 393
+
+- **12:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

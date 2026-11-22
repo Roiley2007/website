@@ -2116,3 +2116,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 391
 
 - **06:30** _(ordinary)_ — Ate at home. The larder is down to 10.
+
+## Day 393
+
+- **05:25** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.

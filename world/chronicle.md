@@ -1923,3 +1923,8 @@ Everything the village noticed, in the order it happened.
 - **12:00** — Bram Halloway prayed for warmth.
 - **13:55** — Tam Coble prayed for warmth.
 - **14:35** — The weather turned to clear.
+
+## Day 393
+
+- **05:25** — Odile Fenn prayed for warmth.
+- **08:40** — The weather turned to storm.

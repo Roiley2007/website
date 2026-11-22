@@ -8579,6 +8579,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0196",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 112889,
+      "day": 393,
+      "time": "05:25",
+      "realTime": "2026-11-22T12:33:08.364Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "I have thought about how to ask this properly.\n\nIt is cold in a way that has stopped being weather and started being a fact about my life.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 0,
+      "context": {
+        "needs": {
+          "hunger": 36,
+          "thirst": 42,
+          "energy": 88,
+          "social": 55,
+          "comfort": 34,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 16,
+          "warmth": 0,
+          "repair": 41
+        },
+        "village": {
+          "granary": 93,
+          "fieldYield": 34,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
