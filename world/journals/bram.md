@@ -2024,3 +2024,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 398
 
 - **04:55** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+- **14:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 400
+
+- **05:15** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.

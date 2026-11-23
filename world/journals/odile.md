@@ -2140,3 +2140,17 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **07:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **09:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:00** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 398
+
+- **19:45** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 399
+
+- **04:10** _(rest)_ — Slept badly. The fire had been out for hours.
+- **05:35** _(ordinary)_ — Ate at home. The larder is down to 10.
+- **10:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 400
+
+- **12:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

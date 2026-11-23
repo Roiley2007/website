@@ -1951,3 +1951,13 @@ Everything the village noticed, in the order it happened.
 ## Day 397
 
 - **12:15** — The weather turned to clear.
+
+## Day 398
+
+- **08:45** — The weather turned to cloudy.
+- **19:05** — The weather turned to clear.
+
+## Day 399
+
+- **06:20** — The weather turned to storm.
+- **21:05** — The weather turned to cloudy.

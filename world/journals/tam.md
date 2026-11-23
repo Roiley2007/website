@@ -1838,3 +1838,22 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 397
 
 - **16:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 398
+
+- **07:30** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **10:05** _(work)_ — Cut and split until my arms went. Good pile.
+- **17:45** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 399
+
+- **05:00** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+- **05:20** _(ordinary)_ — Ate at home. The larder is down to 1.
+- **13:05** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
+- **18:20** _(work)_ — Cut and split until my arms went. Good pile.
+- **21:45** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 400
+
+- **11:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **13:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
