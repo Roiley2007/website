@@ -2020,3 +2020,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 396
 
 - **07:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 398
+
+- **04:55** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
