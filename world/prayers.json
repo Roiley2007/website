@@ -8755,6 +8755,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0200",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 113576,
+      "day": 395,
+      "time": "14:40",
+      "realTime": "2026-11-23T01:39:57.143Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "I want to state this clearly, in case clarity matters.\n\nI have gone despairing and I do not know how to get back on my own.\n\nI have asked you this 14 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 14,
+      "context": {
+        "needs": {
+          "hunger": 90,
+          "thirst": 81,
+          "energy": 37,
+          "social": 55,
+          "comfort": 0,
+          "spirit": 21
+        },
+        "house": {
+          "larder": 4,
+          "warmth": 0,
+          "repair": 22
+        },
+        "village": {
+          "granary": 18,
+          "fieldYield": 59,
+          "wellWater": 100,
+          "firewood": 6
+        },
+        "weather": "cloudy",
+        "season": "winter"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

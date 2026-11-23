@@ -1941,3 +1941,8 @@ Everything the village noticed, in the order it happened.
 - **04:10** — Bram Halloway prayed for a sound roof.
 - **04:50** — Odile Fenn prayed for a sound roof.
 - **12:10** — The weather turned to cloudy.
+- **14:40** — Odile Fenn prayed to be lifted.
+
+## Day 396
+
+- **04:30** — The weather turned to clear.

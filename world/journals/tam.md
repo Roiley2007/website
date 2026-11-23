@@ -1828,3 +1828,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 395
 
 - **09:50** _(ordinary)_ — Ate at home. The larder is down to 19.
+- **12:25** _(loneliness)_ — Waited at the square a while. Nobody came by.

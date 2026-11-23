@@ -2015,3 +2015,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 395
 
 - **04:10** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
+- **19:25** _(ordinary)_ — Ate at home. The larder is down to 9.
