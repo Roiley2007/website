@@ -2134,3 +2134,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 396
 
 - **07:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 397
+
+- **07:35** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **09:15** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:00** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.

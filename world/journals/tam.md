@@ -1833,3 +1833,8 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 396
 
 - **07:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **11:20** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 397
+
+- **16:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

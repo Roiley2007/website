@@ -1946,3 +1946,8 @@ Everything the village noticed, in the order it happened.
 ## Day 396
 
 - **04:30** — The weather turned to clear.
+- **17:55** — The weather turned to storm.
+
+## Day 397
+
+- **12:15** — The weather turned to clear.
