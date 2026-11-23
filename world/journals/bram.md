@@ -2016,3 +2016,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:10** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **19:25** _(ordinary)_ — Ate at home. The larder is down to 9.
+
+## Day 396
+
+- **07:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.

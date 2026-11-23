@@ -2130,3 +2130,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **04:50** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
 - **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **14:40** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 396
+
+- **07:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
