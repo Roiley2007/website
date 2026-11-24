@@ -2029,3 +2029,10 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 400
 
 - **05:15** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+
+## Day 401
+
+- **05:40** _(ordinary)_ — Ate at home. The larder is down to 3.
+- **12:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **20:35** _(ordinary)_ — Ate at home. The larder is down to 18.

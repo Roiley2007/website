@@ -1857,3 +1857,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **11:45** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **13:00** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 401
+
+- **12:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **14:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **18:25** _(work)_ — Cut and split until my arms went. Good pile.
+
+## Day 402
+
+- **05:15** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
