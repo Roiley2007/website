@@ -2174,3 +2174,4 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **16:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **19:15** _(company)_ — Bram makes the day shorter. That is the highest thing I can say about a person.
