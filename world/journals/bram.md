@@ -2036,3 +2036,18 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **12:40** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:10** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **20:35** _(ordinary)_ — Ate at home. The larder is down to 18.
+
+## Day 402
+
+- **08:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+- **15:25** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+
+## Day 403
+
+- **07:15** _(ordinary)_ — Ate at home. The larder is down to 6.
+- **13:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 404
+
+- **04:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:00** _(work)_ — Turned the east rows. The soil is behaving.

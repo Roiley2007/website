@@ -1867,3 +1867,15 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 402
 
 - **05:15** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+- **09:50** _(work)_ — Cut and split until my arms went. Good pile.
+- **15:35** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 403
+
+- **06:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 404
+
+- **05:30** _(rest)_ — A whole night, unbroken. Rare.
+- **13:35** _(ordinary)_ — Ate at home. The larder is down to 7.
+- **15:20** _(loneliness)_ — Waited at the square a while. Nobody came by.

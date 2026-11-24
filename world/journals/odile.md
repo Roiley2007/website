@@ -2164,3 +2164,13 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **06:00** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
 - **06:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 403
+
+- **05:40** _(rest)_ — A whole night, unbroken. Rare.
+
+## Day 404
+
+- **05:30** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **15:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **16:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
