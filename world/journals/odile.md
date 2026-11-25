@@ -2195,3 +2195,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **03:30** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
 - **13:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **14:05** _(ordinary)_ — Ate at home. The larder is down to 19.
+
+## Day 409
+
+- **09:05** _(work)_ — Water is a little lower than last week. Noted it.

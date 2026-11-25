@@ -1997,3 +1997,9 @@ Everything the village noticed, in the order it happened.
 
 - **00:50** — The weather turned to rain.
 - **05:50** — The weather turned to storm.
+- **23:40** — The weather turned to cloudy.
+
+## Day 409
+
+- **13:40** — Tam Coble prayed for a proper set of iron tools.
+- **14:50** — The weather turned to rain.
