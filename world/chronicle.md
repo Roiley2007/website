@@ -1970,3 +1970,14 @@ Everything the village noticed, in the order it happened.
 
 - **05:35** — The weather turned to cloudy.
 - **12:10** — The weather turned to rain.
+
+## Day 405
+
+- **03:10** — The weather turned to cloudy.
+- **16:15** — Tam Coble prayed for a bridge over the ford.
+- **19:35** — Tam Coble prayed for warmth.
+
+## Day 406
+
+- **00:55** — The weather turned to rain.
+- **07:05** — Odile Fenn prayed for warmth.

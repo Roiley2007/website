@@ -2051,3 +2051,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **04:50** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **15:00** _(work)_ — Turned the east rows. The soil is behaving.
+
+## Day 405
+
+- **05:10** _(ordinary)_ — Ate at home. The larder is down to 12.
+- **06:45** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **09:05** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 406
+
+- **06:00** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+- **08:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **09:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
