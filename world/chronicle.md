@@ -2003,3 +2003,7 @@ Everything the village noticed, in the order it happened.
 
 - **13:40** — Tam Coble prayed for a proper set of iron tools.
 - **14:50** — The weather turned to rain.
+
+## Day 410
+
+- **10:05** — The weather turned to clear.
