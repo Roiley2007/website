@@ -2183,3 +2183,14 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 406
 
 - **07:05** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
+
+## Day 407
+
+- **05:25** _(prayer)_ — Went to the temple and asked to know where I came from. Said it out loud, which was harder than expected.
+- **06:55** _(ordinary)_ — Ate at home. The larder is down to 13.
+- **11:20** _(prayer)_ — Went to the temple and asked for books, and someone who can read them. Said it out loud, which was harder than expected.
+- **13:05** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 408
+
+- **03:30** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.

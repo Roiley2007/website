@@ -8931,6 +8931,270 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0204",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 116774,
+      "day": 406,
+      "time": "17:10",
+      "realTime": "2026-11-25T11:41:02.496Z",
+      "desire": {
+        "kind": "longing",
+        "id": "wren",
+        "text": "word from my daughter Wren, whether she is alive and whether she is well"
+      },
+      "title": "for word from his daughter Wren",
+      "selfTitle": "for word from my daughter Wren",
+      "text": "I am not good at this.\n\nThis is the real one, the one underneath the others: word from my daughter Wren, whether she is alive and whether she is well.\n\nI have asked you this 15 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 62,
+          "thirst": 76,
+          "energy": 12,
+          "social": 52,
+          "comfort": 27,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 24,
+          "warmth": 13,
+          "repair": 27
+        },
+        "village": {
+          "granary": 113,
+          "fieldYield": 52,
+          "wellWater": 100,
+          "firewood": 4
+        },
+        "weather": "cloudy",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0205",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 116916,
+      "day": 407,
+      "time": "05:00",
+      "realTime": "2026-11-25T11:41:02.518Z",
+      "desire": {
+        "kind": "longing",
+        "id": "company",
+        "text": "somebody my own age, or a dog, or anything that wants to be near me"
+      },
+      "title": "for someone to be near",
+      "selfTitle": "for someone to be near",
+      "text": "It's Tam. Again. Sorry.\n\nWhat I want is somebody my own age, or a dog, or anything that wants to be near me. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 15 times before.\n\nI would fix it myself if I had the piece.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 72,
+          "thirst": 50,
+          "energy": 88,
+          "social": 46,
+          "comfort": 37,
+          "spirit": 28
+        },
+        "house": {
+          "larder": 1,
+          "warmth": 4,
+          "repair": 37
+        },
+        "village": {
+          "granary": 113,
+          "fieldYield": 81,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0206",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 116921,
+      "day": 407,
+      "time": "05:25",
+      "realTime": "2026-11-25T11:41:02.519Z",
+      "desire": {
+        "kind": "longing",
+        "id": "origin",
+        "text": "to know who my family were, and what the name Fenn was before it was mine"
+      },
+      "title": "to know where she came from",
+      "selfTitle": "to know where I came from",
+      "text": "I want to state this clearly, in case clarity matters.\n\nI am asking for to know who my family were, and what the name Fenn was before it was mine.\n\nI have asked you this 15 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 54,
+          "thirst": 53,
+          "energy": 89,
+          "social": 53,
+          "comfort": 38,
+          "spirit": 19
+        },
+        "house": {
+          "larder": 19,
+          "warmth": 1,
+          "repair": 28
+        },
+        "village": {
+          "granary": 113,
+          "fieldYield": 82,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0207",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 116933,
+      "day": 407,
+      "time": "06:25",
+      "realTime": "2026-11-25T11:41:02.521Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "Right. Well.\n\nIt is cold in a way that has stopped being weather and started being a fact about my life.\n\nI have asked you this once before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 1,
+      "context": {
+        "needs": {
+          "hunger": 57,
+          "thirst": 49,
+          "energy": 86,
+          "social": 46,
+          "comfort": 34,
+          "spirit": 23
+        },
+        "house": {
+          "larder": 18,
+          "warmth": 8,
+          "repair": 26
+        },
+        "village": {
+          "granary": 89,
+          "fieldYield": 84,
+          "wellWater": 97,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0208",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 116992,
+      "day": 407,
+      "time": "11:20",
+      "realTime": "2026-11-25T11:41:02.531Z",
+      "desire": {
+        "kind": "longing",
+        "id": "books",
+        "text": "books, or anyone at all in this village who can read what I write"
+      },
+      "title": "for books, and someone who can read them",
+      "selfTitle": "for books, and someone who can read them",
+      "text": "I have thought about how to ask this properly.\n\nThis is the real one, the one underneath the others: books, or anyone at all in this village who can read what I write.\n\nThis is in my head lately: The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.\n\nI have asked you this 15 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 78,
+          "thirst": 74,
+          "energy": 61,
+          "social": 65,
+          "comfort": 34,
+          "spirit": 35
+        },
+        "house": {
+          "larder": 13,
+          "warmth": 0,
+          "repair": 27
+        },
+        "village": {
+          "granary": 91,
+          "fieldYield": 95,
+          "wellWater": 100,
+          "firewood": 6
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0209",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 117063,
+      "day": 407,
+      "time": "17:15",
+      "realTime": "2026-11-25T11:41:02.542Z",
+      "desire": {
+        "kind": "longing",
+        "id": "plough",
+        "text": "a plough that holds together for one whole season"
+      },
+      "title": "for a plough that holds together",
+      "selfTitle": "for a plough that holds together",
+      "text": "Right. Well.\n\nI am asking for a plough that holds together for one whole season.\n\nIt sits with me: The winter fever. The sound the house made afterwards, which was nothing.\n\nI have asked you this 15 times before.\n\nThat is all. I have work.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 69,
+          "thirst": 91,
+          "energy": 26,
+          "social": 53,
+          "comfort": 23,
+          "spirit": 36
+        },
+        "house": {
+          "larder": 12,
+          "warmth": 1,
+          "repair": 36
+        },
+        "village": {
+          "granary": 110,
+          "fieldYield": 90,
+          "wellWater": 100,
+          "firewood": 5
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

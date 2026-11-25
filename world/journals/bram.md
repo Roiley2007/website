@@ -2063,3 +2063,15 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **06:00** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
 - **08:50** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **09:40** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **17:10** _(prayer)_ — Went to the temple and asked for word from my daughter Wren. Said it out loud, which was harder than expected.
+
+## Day 407
+
+- **06:25** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
+- **09:20** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.
+- **14:45** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **17:15** _(prayer)_ — Went to the temple and asked for a plough that holds together. Said it out loud, which was harder than expected.
+
+## Day 408
+
+- **08:05** _(company)_ — Talked with Tam for a long while. Did not want it to end, which I would not say out loud.

@@ -1982,3 +1982,18 @@ Everything the village noticed, in the order it happened.
 - **00:55** — The weather turned to rain.
 - **07:05** — Odile Fenn prayed for warmth.
 - **11:00** — The weather turned to cloudy.
+- **17:10** — Bram Halloway prayed for word from his daughter Wren.
+
+## Day 407
+
+- **01:30** — The weather turned to clear.
+- **05:00** — Tam Coble prayed for someone to be near.
+- **05:25** — Odile Fenn prayed to know where she came from.
+- **06:25** — Bram Halloway prayed for warmth.
+- **11:20** — Odile Fenn prayed for books, and someone who can read them.
+- **17:15** — Bram Halloway prayed for a plough that holds together.
+
+## Day 408
+
+- **00:50** — The weather turned to rain.
+- **05:50** — The weather turned to storm.
