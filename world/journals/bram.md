@@ -2089,3 +2089,11 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 ## Day 411
 
 - **17:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 412
+
+- **14:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 413
+
+- **08:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.

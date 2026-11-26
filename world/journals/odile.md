@@ -2209,3 +2209,8 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 411
 
 - **06:20** _(ordinary)_ — Ate at home. The larder is down to 7.
+
+## Day 412
+
+- **05:05** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
+- **09:00** _(loneliness)_ — Waited at the square a while. Nobody came by.

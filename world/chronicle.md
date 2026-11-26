@@ -2009,3 +2009,7 @@ Everything the village noticed, in the order it happened.
 - **10:05** — The weather turned to clear.
 - **15:25** — Bram Halloway prayed for rain on the eastern field.
 - **19:40** — Tam Coble prayed for a sound roof.
+
+## Day 413
+
+- **08:40** — The weather turned to rain.

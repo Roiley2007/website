@@ -1913,3 +1913,11 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:20** _(ordinary)_ — Ate at home. The larder is down to 19.
 - **13:10** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
 - **16:55** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+
+## Day 412
+
+- **12:25** _(ordinary)_ — Ate at home. The larder is down to 1.
+
+## Day 413
+
+- **06:00** _(ordinary)_ — Ate at home. The larder is down to 19.
