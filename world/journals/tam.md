@@ -1923,3 +1923,13 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 - **06:00** _(ordinary)_ — Ate at home. The larder is down to 19.
 - **15:50** _(work)_ — Cut and split until my arms went. Good pile.
 - **16:25** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+
+## Day 414
+
+- **14:00** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **16:55** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **20:15** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 415
+
+- **09:20** _(loneliness)_ — Waited at the square a while. Nobody came by.

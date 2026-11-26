@@ -2015,3 +2015,15 @@ Everything the village noticed, in the order it happened.
 - **08:40** — The weather turned to rain.
 - **16:25** — Tam Coble prayed to be lifted.
 - **18:15** — The weather turned to clear.
+
+## Day 414
+
+- **04:55** — Bram Halloway prayed to be lifted.
+- **08:05** — The weather turned to storm.
+- **11:10** — A storm took shingles off one of the houses in the night.
+- **22:00** — The weather turned to clear.
+
+## Day 415
+
+- **06:10** — The weather turned to storm.
+- **10:35** — Odile Fenn prayed for a lantern that holds a flame.

@@ -2098,3 +2098,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **08:00** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **15:25** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 414
+
+- **04:55** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.
+- **08:55** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 415
+
+- **04:30** _(rest)_ — Slept badly. The fire had been out for hours.

@@ -9371,6 +9371,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0214",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 118931,
+      "day": 414,
+      "time": "04:55",
+      "realTime": "2026-11-26T21:59:12.920Z",
+      "desire": {
+        "kind": "spirit",
+        "id": "spirit",
+        "text": null
+      },
+      "title": "to be lifted",
+      "selfTitle": "to be lifted",
+      "text": "Right. Well.\n\nSomething in me has gone out. I am asking, without much confidence, for it to be lit again.\n\nI keep thinking about this: The winter fever. The sound the house made afterwards, which was nothing.\n\nI have asked you this 15 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 71,
+          "thirst": 56,
+          "energy": 86,
+          "social": 45,
+          "comfort": 37,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 8,
+          "repair": 35
+        },
+        "village": {
+          "granary": 108,
+          "fieldYield": 100,
+          "wellWater": 98,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0215",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 119287,
+      "day": 415,
+      "time": "10:35",
+      "realTime": "2026-11-26T21:59:13.025Z",
+      "desire": {
+        "kind": "longing",
+        "id": "lantern",
+        "text": "a lantern that holds a flame in wind, so the well can be tended after dark"
+      },
+      "title": "for a lantern that holds a flame",
+      "selfTitle": "for a lantern that holds a flame",
+      "text": "I want to state this clearly, in case clarity matters.\n\nWhat I want is a lantern that holds a flame in wind, so the well can be tended after dark. I have wanted it long enough that it has stopped feeling like wanting.\n\nI have asked you this 15 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 65,
+          "thirst": 92,
+          "energy": 65,
+          "social": 48,
+          "comfort": 30,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 5,
+          "repair": 24
+        },
+        "village": {
+          "granary": 103,
+          "fieldYield": 85,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
