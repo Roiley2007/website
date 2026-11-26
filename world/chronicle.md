@@ -2007,3 +2007,5 @@ Everything the village noticed, in the order it happened.
 ## Day 410
 
 - **10:05** — The weather turned to clear.
+- **15:25** — Bram Halloway prayed for rain on the eastern field.
+- **19:40** — Tam Coble prayed for a sound roof.

@@ -9239,6 +9239,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0211",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 117905,
+      "day": 410,
+      "time": "15:25",
+      "realTime": "2026-11-26T03:13:19.564Z",
+      "desire": {
+        "kind": "longing",
+        "id": "rain",
+        "text": "rain on the eastern field before the seed dies in it"
+      },
+      "title": "for rain on the eastern field",
+      "selfTitle": "for rain on the eastern field",
+      "text": "I am not good at this.\n\nI am asking for rain on the eastern field before the seed dies in it.\n\nI remembered this on the way here: Wren on the road out, not looking back. I did not call after her. I should have.\n\nI have asked you this 15 times before.\n\nDo what you like with it.",
+      "status": "pending",
+      "askedBefore": 15,
+      "context": {
+        "needs": {
+          "hunger": 80,
+          "thirst": 86,
+          "energy": 33,
+          "social": 53,
+          "comfort": 27,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 0,
+          "warmth": 0,
+          "repair": 31
+        },
+        "village": {
+          "granary": 122,
+          "fieldYield": 77,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0212",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 117956,
+      "day": 410,
+      "time": "19:40",
+      "realTime": "2026-11-26T03:13:19.590Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "I am going to just say it.\n\nThe house is coming apart faster than I can mend it with what I have.\n\nThis is in my head lately: The river at night. I was four. I remember being carried away from the bank, not toward it.\n\nI have asked you this 2 times before.\n\nThanks. Genuinely.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 82,
+          "thirst": 61,
+          "energy": 22,
+          "social": 56,
+          "comfort": 29,
+          "spirit": 16
+        },
+        "house": {
+          "larder": 1,
+          "warmth": 0,
+          "repair": 13
+        },
+        "village": {
+          "granary": 98,
+          "fieldYield": 88,
+          "wellWater": 98,
+          "firewood": 9
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
