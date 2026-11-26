@@ -2013,3 +2013,5 @@ Everything the village noticed, in the order it happened.
 ## Day 413
 
 - **08:40** — The weather turned to rain.
+- **16:25** — Tam Coble prayed to be lifted.
+- **18:15** — The weather turned to clear.

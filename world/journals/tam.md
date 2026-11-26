@@ -1921,3 +1921,5 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 413
 
 - **06:00** _(ordinary)_ — Ate at home. The larder is down to 19.
+- **15:50** _(work)_ — Cut and split until my arms went. Good pile.
+- **16:25** _(prayer)_ — Went to the temple and asked to be lifted. Said it out loud, which was harder than expected.

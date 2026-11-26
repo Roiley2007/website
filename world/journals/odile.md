@@ -2214,3 +2214,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 
 - **05:05** _(rest)_ — Woke in the dark, cold right through. Lay there counting the gaps in the wall.
 - **09:00** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 413
+
+- **16:00** _(work)_ — Cleared the well and wrote the water level in the ledger.
