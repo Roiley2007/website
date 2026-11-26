@@ -2085,3 +2085,7 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **07:50** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
 - **15:25** _(prayer)_ — Went to the temple and asked for rain on the eastern field. Said it out loud, which was harder than expected.
+
+## Day 411
+
+- **17:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
