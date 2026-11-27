@@ -2033,3 +2033,8 @@ Everything the village noticed, in the order it happened.
 ## Day 416
 
 - **05:35** — Odile Fenn prayed for a sound roof.
+- **18:25** — The weather turned to rain.
+
+## Day 417
+
+- **12:50** — The weather turned to clear.
