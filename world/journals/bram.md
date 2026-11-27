@@ -2122,3 +2122,12 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **05:55** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **15:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **21:00** _(ordinary)_ — Ate at home. The larder is down to 6.
+
+## Day 419
+
+- **05:45** _(rest)_ — Slept badly. The fire had been out for hours.
+- **07:40** _(company)_ — Odile makes the day shorter. That is the highest thing I can say about a person.
+- **09:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **14:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **16:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **17:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
