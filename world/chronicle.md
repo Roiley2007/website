@@ -2048,3 +2048,8 @@ Everything the village noticed, in the order it happened.
 ## Day 419
 
 - **07:25** — The weather turned to clear.
+- **23:35** — The weather turned to rain.
+
+## Day 420
+
+- **11:15** — The weather turned to storm.

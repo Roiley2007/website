@@ -1955,3 +1955,9 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 ## Day 419
 
 - **18:40** _(work)_ — Cut and split until my arms went. Good pile.
+- **20:20** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 420
+
+- **04:25** _(rest)_ — Slept badly. The fire had been out for hours.
+- **09:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
