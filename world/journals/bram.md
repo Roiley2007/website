@@ -2121,3 +2121,4 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 
 - **05:55** _(ordinary)_ — Ate at home. The larder is down to 12.
 - **15:05** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **21:00** _(ordinary)_ — Ate at home. The larder is down to 6.
