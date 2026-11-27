@@ -2027,3 +2027,9 @@ Everything the village noticed, in the order it happened.
 
 - **06:10** — The weather turned to storm.
 - **10:35** — Odile Fenn prayed for a lantern that holds a flame.
+- **21:10** — Bram Halloway prayed for a sound roof.
+- **21:25** — The weather turned to clear.
+
+## Day 416
+
+- **05:35** — Odile Fenn prayed for a sound roof.

@@ -2229,3 +2229,9 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **05:55** _(ordinary)_ — Ate at home. The larder is down to 7.
 - **07:45** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **10:35** _(prayer)_ — Went to the temple and asked for a lantern that holds a flame. Said it out loud, which was harder than expected.
+
+## Day 416
+
+- **05:35** _(prayer)_ — Went to the temple and asked for a sound roof. Said it out loud, which was harder than expected.
+- **06:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **12:00** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.

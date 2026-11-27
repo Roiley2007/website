@@ -9459,6 +9459,94 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0216",
+      "agentId": "bram",
+      "agentName": "Bram Halloway",
+      "tick": 119414,
+      "day": 415,
+      "time": "21:10",
+      "realTime": "2026-11-27T04:07:33.063Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "It is Bram. The farmer. You know that.\n\nI am asking for the house to be made sound. I can do the work if there is anything to do it with.\n\nI remembered this on the way here: Wren on the road out, not looking back. I did not call after her. I should have.\n\nI have asked you this 2 times before.\n\nNeth would have asked nicer. I am asking how I ask.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 88,
+          "thirst": 86,
+          "energy": 20,
+          "social": 57,
+          "comfort": 24,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 6,
+          "warmth": 0,
+          "repair": 11
+        },
+        "village": {
+          "granary": 79,
+          "fieldYield": 100,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "storm",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
+    },
+    {
+      "id": "p-0217",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 119515,
+      "day": 416,
+      "time": "05:35",
+      "realTime": "2026-11-27T04:07:33.115Z",
+      "desire": {
+        "kind": "shelter",
+        "id": "shelter",
+        "text": null
+      },
+      "title": "for a sound roof",
+      "selfTitle": "for a sound roof",
+      "text": "I have brought this to you before, so I will be brief.\n\nI am asking for the house to be made sound. I can do the work if there is anything to do it with.\n\nThis is in my head lately: Ledger, page one: \"Things I do not know.\" It is the longest page.\n\nI have asked you this 2 times before.\n\nThat is the whole of the request.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 35,
+          "thirst": 87,
+          "energy": 85,
+          "social": 59,
+          "comfort": 30,
+          "spirit": 22
+        },
+        "house": {
+          "larder": 25,
+          "warmth": 0,
+          "repair": 11
+        },
+        "village": {
+          "granary": 79,
+          "fieldYield": 100,
+          "wellWater": 95,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "spring"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
