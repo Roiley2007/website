@@ -2054,3 +2054,7 @@ Everything the village noticed, in the order it happened.
 
 - **11:15** — The weather turned to storm.
 - **21:15** — The weather turned to clear.
+
+## Day 421
+
+- **12:35** — The weather turned to rain.

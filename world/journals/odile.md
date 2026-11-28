@@ -2252,3 +2252,7 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 - **10:40** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
 - **15:30** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:00** _(company)_ — Talked with Bram for a long while. Did not want it to end, which I would not say out loud.
+
+## Day 421
+
+- **10:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
