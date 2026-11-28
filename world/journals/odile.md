@@ -2256,3 +2256,10 @@ Odile came to Grasshollow at seven years old, in the back of a cart, after whate
 ## Day 421
 
 - **10:35** _(work)_ — Cleared the well and wrote the water level in the ledger.
+
+## Day 423
+
+- **04:50** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
+- **09:40** _(work)_ — Cleared the well and wrote the water level in the ledger.
+- **11:15** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.
+- **14:45** _(work)_ — Cleared the well and wrote the water level in the ledger.

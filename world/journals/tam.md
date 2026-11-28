@@ -1972,3 +1972,7 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **09:45** _(prayer)_ — Went to the temple and asked for warmth. Said it out loud, which was harder than expected.
 - **17:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+
+## Day 423
+
+- **06:05** _(ordinary)_ — Ate at home. The larder is down to 13.

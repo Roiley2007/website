@@ -2141,3 +2141,8 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **07:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
 - **16:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **18:10** _(ordinary)_ — Ate at home. The larder is down to 0.
+
+## Day 423
+
+- **05:35** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
+- **12:25** _(work)_ — Patched the roof and the north wall. It will hold for a while. It always holds for a while.

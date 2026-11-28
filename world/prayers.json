@@ -9591,6 +9591,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0219",
+      "agentId": "odile",
+      "agentName": "Odile Fenn",
+      "tick": 121522,
+      "day": 423,
+      "time": "04:50",
+      "realTime": "2026-11-28T13:16:58.383Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "Odile Fenn, well-keeper. You know me.\n\nThe house does not hold heat any more. I wake up miserable and I do not get warm again until noon.\n\nI have asked you this 2 times before.\n\nI will write down whether you answer. I write down everything.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 56,
+          "thirst": 46,
+          "energy": 88,
+          "social": 48,
+          "comfort": 34,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 7,
+          "warmth": 8,
+          "repair": 22
+        },
+        "village": {
+          "granary": 77,
+          "fieldYield": 100,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }

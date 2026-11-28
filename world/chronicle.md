@@ -2063,3 +2063,8 @@ Everything the village noticed, in the order it happened.
 
 - **08:00** — The weather turned to clear.
 - **09:45** — Tam Coble prayed for warmth.
+
+## Day 423
+
+- **04:50** — Odile Fenn prayed for warmth.
+- **11:00** — The weather turned to drought.
