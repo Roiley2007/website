@@ -1961,3 +1961,4 @@ Tam's parents drowned crossing the river when he was four, on a night the ford w
 
 - **04:25** _(rest)_ — Slept badly. The fire had been out for hours.
 - **09:05** _(work)_ — The axe head is loose again. Wedged it with a shim. It will hold or it will not.
+- **17:15** _(work)_ — Cut and split until my arms went. Good pile.
