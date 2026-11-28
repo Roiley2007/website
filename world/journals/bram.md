@@ -2131,3 +2131,13 @@ Bram has worked the eastern field for forty-one years, as his father did. He mar
 - **14:40** _(loneliness)_ — Waited at the square a while. Nobody came by.
 - **16:05** _(unanswered)_ — The thing I asked for at the temple has not come. I am not surprised. I am something, but not surprised.
 - **17:50** _(work)_ — A good shift in the field. Back hurts in the ordinary way.
+
+## Day 421
+
+- **21:05** _(loneliness)_ — Waited at the square a while. Nobody came by.
+
+## Day 422
+
+- **07:55** _(company)_ — Talked with Odile for a long while. Did not want it to end, which I would not say out loud.
+- **16:25** _(loneliness)_ — Waited at the square a while. Nobody came by.
+- **18:10** _(ordinary)_ — Ate at home. The larder is down to 0.

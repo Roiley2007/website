@@ -2058,3 +2058,8 @@ Everything the village noticed, in the order it happened.
 ## Day 421
 
 - **12:35** — The weather turned to rain.
+
+## Day 422
+
+- **08:00** — The weather turned to clear.
+- **09:45** — Tam Coble prayed for warmth.

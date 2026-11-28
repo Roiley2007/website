@@ -9547,6 +9547,50 @@
       },
       "answer": null,
       "answeredTick": null
+    },
+    {
+      "id": "p-0218",
+      "agentId": "tam",
+      "agentName": "Tam Coble",
+      "tick": 121293,
+      "day": 422,
+      "time": "09:45",
+      "realTime": "2026-11-28T10:22:43.034Z",
+      "desire": {
+        "kind": "warmth",
+        "id": "warmth",
+        "text": null
+      },
+      "title": "for warmth",
+      "selfTitle": "for warmth",
+      "text": "Hey. Hello. Is this how it goes?\n\nI am asking for warmth. Firewood, a blanket, a hearth that draws properly — something.\n\nThis is in my head lately: The water-wheel turning for the first time. It ran eight days. Best eight days.\n\nI have asked you this 2 times before.\n\nAnyway. That is the thing I wanted.",
+      "status": "pending",
+      "askedBefore": 2,
+      "context": {
+        "needs": {
+          "hunger": 71,
+          "thirst": 63,
+          "energy": 70,
+          "social": 66,
+          "comfort": 20,
+          "spirit": 14
+        },
+        "house": {
+          "larder": 1,
+          "warmth": 0,
+          "repair": 9
+        },
+        "village": {
+          "granary": 74,
+          "fieldYield": 88,
+          "wellWater": 100,
+          "firewood": 0
+        },
+        "weather": "clear",
+        "season": "summer"
+      },
+      "answer": null,
+      "answeredTick": null
     }
   ]
 }
